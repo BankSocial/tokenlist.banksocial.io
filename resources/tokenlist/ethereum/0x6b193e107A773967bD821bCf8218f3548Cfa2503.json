@@ -1,1 +1,12 @@
-{'name': 'Posscoin', 'symbol': 'POSS', 'type': 'ERC20', 'decimals': 18, 'description': 'Posscoin (POSS) is a cryptocurrency and operates on the Ethereum platform.', 'website': 'https://www.posscoin.org', 'explorer': 'https://etherscan.io/token/0x6b193e107A773967bD821bCf8218f3548Cfa2503', 'status': 'active', 'id': '0x6b193e107A773967bD821bCf8218f3548Cfa2503', 'cmc_id': 20671}
+{
+    "name": "Posscoin",
+    "symbol": "POSS",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Posscoin (POSS) is a cryptocurrency and operates on the Ethereum platform.",
+    "website": "https://www.posscoin.org",
+    "explorer": "https://etherscan.io/token/0x6b193e107A773967bD821bCf8218f3548Cfa2503",
+    "status": "active",
+    "id": "0x6b193e107A773967bD821bCf8218f3548Cfa2503",
+    "cmc_id": 20671
+}

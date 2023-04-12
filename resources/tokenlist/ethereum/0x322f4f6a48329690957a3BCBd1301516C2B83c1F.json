@@ -1,0 +1,12 @@
+{
+    "name": "MesChain",
+    "symbol": "MES",
+    "type": "ERC20",
+    "decimals": 8,
+    "description": "Mesh Chain (MESH) \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0435\u0439 Genesis Crypto Technology.",
+    "website": "https://meschain.io",
+    "explorer": "https://etherscan.io/token/0x322f4f6a48329690957a3BCBd1301516C2B83c1F",
+    "status": "active",
+    "id": "0x322f4f6a48329690957a3BCBd1301516C2B83c1F",
+    "cmc_id": 4870
+}

@@ -1,1 +1,12 @@
-{'name': 'Origo', 'symbol': 'OGO', 'type': 'ERC20', 'decimals': 18, 'description': '-', 'website': 'https://origo.network', 'explorer': 'https://etherscan.io/token/0xFF0E5e014cf97e0615cb50F6f39Da6388E2FaE6E', 'status': 'active', 'id': '0xFF0E5e014cf97e0615cb50F6f39Da6388E2FaE6E', 'cmc_id': 3985}
+{
+    "name": "Origo",
+    "symbol": "OGO",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://origo.network",
+    "explorer": "https://etherscan.io/token/0xFF0E5e014cf97e0615cb50F6f39Da6388E2FaE6E",
+    "status": "active",
+    "id": "0xFF0E5e014cf97e0615cb50F6f39Da6388E2FaE6E",
+    "cmc_id": 3985
+}
