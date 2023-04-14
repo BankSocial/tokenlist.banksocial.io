@@ -35,5 +35,6 @@
     "total_supply": "23195666764423350",
     "treasury_account_id": "0.0.540219",
     "type": "FUNGIBLE_COMMON",
-    "wipe_key": null
+    "wipe_key": null,
+    "cmc_id": 2110
 }

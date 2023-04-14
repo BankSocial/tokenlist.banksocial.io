@@ -21,7 +21,7 @@
     "kyc_key": null,
     "max_supply": "0",
     "memo": "",
-    "modified_timestamp": "1681467819.509353854",
+    "modified_timestamp": "1681503426.472258588",
     "name": "MANTRA",
     "pause_key": {
         "_type": "ProtobufEncoded",
@@ -35,8 +35,9 @@
     "supply_type": "INFINITE",
     "symbol": "OM[hts]",
     "token_id": "0.0.1080694",
-    "total_supply": "405316369385531",
+    "total_supply": "395703644087974",
     "treasury_account_id": "0.0.540219",
     "type": "FUNGIBLE_COMMON",
-    "wipe_key": null
+    "wipe_key": null,
+    "cmc_id": 6536
 }

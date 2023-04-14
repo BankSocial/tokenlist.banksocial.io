@@ -21,7 +21,7 @@
     "kyc_key": null,
     "max_supply": "0",
     "memo": "",
-    "modified_timestamp": "1681435223.853204007",
+    "modified_timestamp": "1681505756.509933920",
     "name": "Wrapped Ether[hts]",
     "pause_key": null,
     "pause_status": "NOT_APPLICABLE",
@@ -32,8 +32,9 @@
     "supply_type": "INFINITE",
     "symbol": "WETH[hts]",
     "token_id": "0.0.541564",
-    "total_supply": "12428551268",
+    "total_supply": "12308037293",
     "treasury_account_id": "0.0.540219",
     "type": "FUNGIBLE_COMMON",
-    "wipe_key": null
+    "wipe_key": null,
+    "cmc_id": 2396
 }
