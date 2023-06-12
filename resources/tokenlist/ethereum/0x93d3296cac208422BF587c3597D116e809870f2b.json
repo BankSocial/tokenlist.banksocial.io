@@ -8,5 +8,6 @@
     "decimals": 8,
     "status": "active",
     "id": "0x93d3296cac208422BF587c3597D116e809870f2b",
-    "cmc_id": 19896
+    "cmc_id": 19896,
+    "token_name": "Pando USD"
 }

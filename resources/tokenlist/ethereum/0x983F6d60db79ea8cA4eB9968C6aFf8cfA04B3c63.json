@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x983F6d60db79ea8cA4eB9968C6aFf8cfA04B3c63",
     "status": "active",
     "id": "0x983F6d60db79ea8cA4eB9968C6aFf8cfA04B3c63",
-    "cmc_id": 9931
+    "cmc_id": 9931,
+    "token_name": "SONM (BEP-20)"
 }

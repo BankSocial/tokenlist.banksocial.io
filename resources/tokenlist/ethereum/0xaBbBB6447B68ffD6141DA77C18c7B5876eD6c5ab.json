@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xaBbBB6447B68ffD6141DA77C18c7B5876eD6c5ab",
     "status": "active",
     "id": "0xaBbBB6447B68ffD6141DA77C18c7B5876eD6c5ab",
-    "cmc_id": 2567
+    "cmc_id": 2567,
+    "token_name": "DATx"
 }

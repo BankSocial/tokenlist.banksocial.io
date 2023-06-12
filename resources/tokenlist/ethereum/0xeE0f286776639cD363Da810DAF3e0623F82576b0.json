@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xeE0f286776639cD363Da810DAF3e0623F82576b0",
     "status": "active",
     "id": "0xeE0f286776639cD363Da810DAF3e0623F82576b0",
-    "cmc_id": 5993
+    "cmc_id": 5993,
+    "token_name": "Lung Protocol"
 }

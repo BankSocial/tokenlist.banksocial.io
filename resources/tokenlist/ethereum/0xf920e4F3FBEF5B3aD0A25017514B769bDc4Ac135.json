@@ -45,5 +45,6 @@
             "url": "https://coingecko.com/en/coins/babb"
         }
     ],
-    "cmc_id": 2572
+    "cmc_id": 2572,
+    "token_name": "BABB"
 }

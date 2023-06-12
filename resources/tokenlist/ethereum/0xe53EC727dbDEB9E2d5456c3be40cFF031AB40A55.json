@@ -26,5 +26,6 @@
             "url": "https://coingecko.com/en/coins/superfarm/"
         }
     ],
-    "cmc_id": 8290
+    "cmc_id": 8290,
+    "token_name": "SuperVerse"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xEDD7c94FD7B4971b916d15067Bc454b9E1bAD980",
     "status": "active",
     "id": "0xEDD7c94FD7B4971b916d15067Bc454b9E1bAD980",
-    "cmc_id": 2724
+    "cmc_id": 2724,
+    "token_name": "Zippie"
 }

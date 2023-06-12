@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xaC9Bb427953aC7FDDC562ADcA86CF42D988047Fd",
     "status": "active",
     "id": "0xaC9Bb427953aC7FDDC562ADcA86CF42D988047Fd",
-    "cmc_id": 15840
+    "cmc_id": 15840,
+    "token_name": "Stamen Tellus Token"
 }

@@ -26,5 +26,6 @@
             "url": "https://coinmarketcap.com/currencies/ariadne/"
         }
     ],
-    "cmc_id": 13135
+    "cmc_id": 13135,
+    "token_name": "Ariadne"
 }

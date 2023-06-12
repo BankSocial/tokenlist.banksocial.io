@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xEF19F4E48830093Ce5bC8b3Ff7f903A0AE3E9Fa1",
     "status": "active",
     "id": "0xEF19F4E48830093Ce5bC8b3Ff7f903A0AE3E9Fa1",
-    "cmc_id": 3873
+    "cmc_id": 3873,
+    "token_name": "botXcoin"
 }

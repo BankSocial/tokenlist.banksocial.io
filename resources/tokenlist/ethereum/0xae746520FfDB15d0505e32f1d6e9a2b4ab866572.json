@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xae746520FfDB15d0505e32f1d6e9a2b4ab866572",
     "status": "active",
     "id": "0xae746520FfDB15d0505e32f1d6e9a2b4ab866572",
-    "cmc_id": 5304
+    "cmc_id": 5304,
+    "token_name": "MorCrypto Coin"
 }

@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0xc4199fB6FFDb30A829614becA030f9042f1c3992",
-    "cmc_id": 8445
+    "cmc_id": 8445,
+    "token_name": "SharedStake"
 }

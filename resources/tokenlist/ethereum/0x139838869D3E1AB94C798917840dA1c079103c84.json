@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x139838869D3E1AB94C798917840dA1c079103c84",
-    "cmc_id": 1727
+    "cmc_id": 1727,
+    "token_name": "Bancor"
 }

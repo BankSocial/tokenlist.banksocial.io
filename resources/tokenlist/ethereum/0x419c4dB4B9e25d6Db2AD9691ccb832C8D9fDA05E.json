@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x419c4dB4B9e25d6Db2AD9691ccb832C8D9fDA05E",
     "status": "active",
     "id": "0x419c4dB4B9e25d6Db2AD9691ccb832C8D9fDA05E",
-    "cmc_id": 2243
+    "cmc_id": 2243,
+    "token_name": "Dragonchain"
 }

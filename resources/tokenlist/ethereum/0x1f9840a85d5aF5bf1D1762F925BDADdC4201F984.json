@@ -35,5 +35,6 @@
             "url": "https://coingecko.com/en/coins/uniswap/"
         }
     ],
-    "cmc_id": 7083
+    "cmc_id": 7083,
+    "token_name": "Uniswap"
 }

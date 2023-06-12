@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xBfE03707aDb75b478Add9A01978057803F480E44",
     "status": "active",
     "id": "0xBfE03707aDb75b478Add9A01978057803F480E44",
-    "cmc_id": 3243
+    "cmc_id": 3243,
+    "token_name": "Moneytoken"
 }

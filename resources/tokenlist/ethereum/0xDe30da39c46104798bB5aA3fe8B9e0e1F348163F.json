@@ -34,5 +34,6 @@
             "url": "https://coingecko.com/en/coins/gitcoin/"
         }
     ],
-    "cmc_id": 10052
+    "cmc_id": 10052,
+    "token_name": "Gitcoin"
 }

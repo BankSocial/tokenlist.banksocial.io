@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xc1f976B91217E240885536aF8b63bc8b5269a9BE",
     "status": "active",
     "id": "0xc1f976B91217E240885536aF8b63bc8b5269a9BE",
-    "cmc_id": 64
+    "cmc_id": 64,
+    "token_name": "Public Index Network"
 }

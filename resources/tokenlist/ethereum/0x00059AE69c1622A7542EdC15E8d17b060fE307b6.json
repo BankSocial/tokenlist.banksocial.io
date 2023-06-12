@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x00059AE69c1622A7542EdC15E8d17b060fE307b6",
     "status": "active",
     "id": "0x00059AE69c1622A7542EdC15E8d17b060fE307b6",
-    "cmc_id": 4712
+    "cmc_id": 4712,
+    "token_name": "AmonD"
 }

@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x9aF7c46A4ebdfB1e11B5F94196C288c885F37bCD",
-    "cmc_id": 16092
+    "cmc_id": 16092,
+    "token_name": "BakerGuild"
 }

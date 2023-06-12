@@ -13,5 +13,6 @@
         "stablecoin",
         "governance"
     ],
-    "cmc_id": 9025
+    "cmc_id": 9025,
+    "token_name": "Tribe"
 }

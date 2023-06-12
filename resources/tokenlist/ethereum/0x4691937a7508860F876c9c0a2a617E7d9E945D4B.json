@@ -30,5 +30,6 @@
             "url": "https://coingecko.com/en/coins/wootrade-network/"
         }
     ],
-    "cmc_id": 7501
+    "cmc_id": 7501,
+    "token_name": "WOO Network"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xe8A1Df958bE379045E2B46a31A98B93A2eCDfDeD",
     "status": "active",
     "id": "0xe8A1Df958bE379045E2B46a31A98B93A2eCDfDeD",
-    "cmc_id": 2509
+    "cmc_id": 2509,
+    "token_name": "EtherSportz"
 }

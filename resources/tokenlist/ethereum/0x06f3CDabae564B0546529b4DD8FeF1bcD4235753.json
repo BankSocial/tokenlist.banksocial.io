@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x06f3CDabae564B0546529b4DD8FeF1bcD4235753",
     "status": "active",
     "id": "0x06f3CDabae564B0546529b4DD8FeF1bcD4235753",
-    "cmc_id": 5399
+    "cmc_id": 5399,
+    "token_name": "TILWIKI"
 }

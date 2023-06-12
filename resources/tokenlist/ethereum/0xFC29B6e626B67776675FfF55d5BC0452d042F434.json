@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0xFC29B6e626B67776675FfF55d5BC0452d042F434",
-    "cmc_id": 6184
+    "cmc_id": 6184,
+    "token_name": "BeeStore"
 }

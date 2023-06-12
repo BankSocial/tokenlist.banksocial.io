@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x07bf5F95851Ef2b2996F192569e406A6FeA2a95a",
     "status": "active",
     "id": "0x07bf5F95851Ef2b2996F192569e406A6FeA2a95a",
-    "cmc_id": 3177
+    "cmc_id": 3177,
+    "token_name": "Seal Network"
 }

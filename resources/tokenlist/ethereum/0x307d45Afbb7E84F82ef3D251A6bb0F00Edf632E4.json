@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x307d45Afbb7E84F82ef3D251A6bb0F00Edf632E4",
     "status": "active",
     "id": "0x307d45Afbb7E84F82ef3D251A6bb0F00Edf632E4",
-    "cmc_id": 7461
+    "cmc_id": 4242,
+    "token_name": "PLANET"
 }

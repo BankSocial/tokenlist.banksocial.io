@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0xC011A72400E58ecD99Ee497CF89E3775d4bd732F",
-    "cmc_id": 2586
+    "cmc_id": 2586,
+    "token_name": "Synthetix"
 }

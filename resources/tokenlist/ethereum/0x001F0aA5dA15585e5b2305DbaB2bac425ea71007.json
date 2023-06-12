@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x001F0aA5dA15585e5b2305DbaB2bac425ea71007",
     "status": "active",
     "id": "0x001F0aA5dA15585e5b2305DbaB2bac425ea71007",
-    "cmc_id": 2617
+    "cmc_id": 2617,
+    "token_name": "IP Exchange"
 }

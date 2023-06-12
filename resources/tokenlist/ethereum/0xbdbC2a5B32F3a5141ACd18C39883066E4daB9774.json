@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xbdbC2a5B32F3a5141ACd18C39883066E4daB9774",
     "status": "active",
     "id": "0xbdbC2a5B32F3a5141ACd18C39883066E4daB9774",
-    "cmc_id": 4490
+    "cmc_id": 4490,
+    "token_name": "Emirex Token"
 }

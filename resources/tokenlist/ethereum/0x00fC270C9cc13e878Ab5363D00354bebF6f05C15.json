@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x00fC270C9cc13e878Ab5363D00354bebF6f05C15",
     "status": "active",
     "id": "0x00fC270C9cc13e878Ab5363D00354bebF6f05C15",
-    "cmc_id": 4430
+    "cmc_id": 4430,
+    "token_name": "VNX"
 }

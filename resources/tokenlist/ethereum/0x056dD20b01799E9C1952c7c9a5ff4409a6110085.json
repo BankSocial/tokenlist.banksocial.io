@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x056dD20b01799E9C1952c7c9a5ff4409a6110085",
     "status": "active",
     "id": "0x056dD20b01799E9C1952c7c9a5ff4409a6110085",
-    "cmc_id": 3885
+    "cmc_id": 3885,
+    "token_name": "WPP TOKEN"
 }

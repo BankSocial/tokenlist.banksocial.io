@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x20Bcae16A8bA95d8E8363E265de4eCFc36eC5cd9",
     "status": "active",
     "id": "0x20Bcae16A8bA95d8E8363E265de4eCFc36eC5cd9",
-    "cmc_id": 5934
+    "cmc_id": 5934,
+    "token_name": "Hey Bitcoin"
 }

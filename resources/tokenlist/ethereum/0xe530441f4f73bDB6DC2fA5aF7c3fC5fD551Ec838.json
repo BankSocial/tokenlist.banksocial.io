@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xe530441f4f73bDB6DC2fA5aF7c3fC5fD551Ec838",
     "status": "active",
     "id": "0xe530441f4f73bDB6DC2fA5aF7c3fC5fD551Ec838",
-    "cmc_id": 3123
+    "cmc_id": 3123,
+    "token_name": "GSENetwork"
 }

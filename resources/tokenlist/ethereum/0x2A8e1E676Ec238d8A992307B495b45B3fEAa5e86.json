@@ -17,5 +17,6 @@
             "url": "https://github.com/originprotocol/origin-dollar"
         }
     ],
-    "cmc_id": 7189
+    "cmc_id": 7189,
+    "token_name": "Origin Dollar"
 }

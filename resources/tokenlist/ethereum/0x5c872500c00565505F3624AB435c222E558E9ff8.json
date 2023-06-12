@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x5c872500c00565505F3624AB435c222E558E9ff8",
     "status": "active",
     "id": "0x5c872500c00565505F3624AB435c222E558E9ff8",
-    "cmc_id": 3779
+    "cmc_id": 3779,
+    "token_name": "CoTrader"
 }

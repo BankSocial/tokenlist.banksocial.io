@@ -30,5 +30,6 @@
             "url": "https://coinmarketcap.com/currencies/nucypher/"
         }
     ],
-    "cmc_id": 4761
+    "cmc_id": 4761,
+    "token_name": "NuCypher"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xdb0acc14396d108b3c5574483acb817855c9dc8d",
     "status": "active",
     "id": "0xdb0aCC14396D108b3C5574483aCB817855C9dc8d",
-    "cmc_id": 1843
+    "cmc_id": 1843,
+    "token_name": "EmberCoin"
 }

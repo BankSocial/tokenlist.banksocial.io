@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x0ff5A8451A839f5F0BB3562689D9A44089738D11",
     "status": "active",
     "id": "0x0ff5A8451A839f5F0BB3562689D9A44089738D11",
-    "cmc_id": 12057
+    "cmc_id": 12057,
+    "token_name": "Dopex Rebate Token"
 }

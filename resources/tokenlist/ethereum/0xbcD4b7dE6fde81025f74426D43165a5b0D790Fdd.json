@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0xbcD4b7dE6fde81025f74426D43165a5b0D790Fdd",
-    "cmc_id": 8002
+    "cmc_id": 8002,
+    "token_name": "SpiderDAO"
 }

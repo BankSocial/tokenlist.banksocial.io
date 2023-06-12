@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x7788D759F21F53533051A9AE657fA05A1E068fc6",
     "status": "active",
     "id": "0x7788D759F21F53533051A9AE657fA05A1E068fc6",
-    "cmc_id": 4103
+    "cmc_id": 4103,
+    "token_name": "FLETA"
 }

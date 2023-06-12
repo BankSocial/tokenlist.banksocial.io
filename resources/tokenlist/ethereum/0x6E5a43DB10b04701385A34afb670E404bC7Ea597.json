@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x6E5a43DB10b04701385A34afb670E404bC7Ea597",
     "status": "active",
     "id": "0x6E5a43DB10b04701385A34afb670E404bC7Ea597",
-    "cmc_id": 5072
+    "cmc_id": 5072,
+    "token_name": "Rakon"
 }

@@ -8,5 +8,6 @@
     "decimals": 8,
     "status": "active",
     "id": "0x695106Ad73f506f9D0A9650a78019A93149AE07C",
-    "cmc_id": 5989
+    "cmc_id": 5989,
+    "token_name": "BNS Token"
 }

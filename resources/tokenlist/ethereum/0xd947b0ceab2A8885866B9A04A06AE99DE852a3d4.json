@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xd947b0ceab2A8885866B9A04A06AE99DE852a3d4",
     "status": "active",
     "id": "0xd947b0ceab2A8885866B9A04A06AE99DE852a3d4",
-    "cmc_id": 3642
+    "cmc_id": 3642,
+    "token_name": "Trade Token X"
 }

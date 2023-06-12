@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x1c4b7d0e1885bd7667Af3378E0c538F74E712006",
     "status": "active",
     "id": "0x1c4b7d0e1885bd7667Af3378E0c538F74E712006",
-    "cmc_id": 3315
+    "cmc_id": 3315,
+    "token_name": "Playgroundz"
 }

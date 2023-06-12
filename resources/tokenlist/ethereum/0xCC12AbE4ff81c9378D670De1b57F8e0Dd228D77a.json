@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xCC12AbE4ff81c9378D670De1b57F8e0Dd228D77a",
     "status": "active",
     "id": "0xCC12AbE4ff81c9378D670De1b57F8e0Dd228D77a",
-    "cmc_id": 7069
+    "cmc_id": 7069,
+    "token_name": "Aave REN"
 }

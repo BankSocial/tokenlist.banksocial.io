@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0xEED736b2b809550D89A941C2005dE93588c628e2",
-    "cmc_id": 5778
+    "cmc_id": 5778,
+    "token_name": "ETHPlus"
 }

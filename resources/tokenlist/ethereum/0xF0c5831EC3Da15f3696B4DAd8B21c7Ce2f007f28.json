@@ -8,5 +8,6 @@
     "type": "ERC20",
     "decimals": 8,
     "status": "active",
-    "cmc_id": 6783
+    "cmc_id": 6783,
+    "token_name": "Axie Infinity"
 }

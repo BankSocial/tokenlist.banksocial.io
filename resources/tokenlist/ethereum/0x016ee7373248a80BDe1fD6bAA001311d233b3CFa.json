@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x016ee7373248a80BDe1fD6bAA001311d233b3CFa",
     "status": "active",
     "id": "0x016ee7373248a80BDe1fD6bAA001311d233b3CFa",
-    "cmc_id": 24027
+    "cmc_id": 24027,
+    "token_name": "Bear Inu"
 }

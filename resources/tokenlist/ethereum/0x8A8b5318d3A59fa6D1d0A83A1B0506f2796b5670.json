@@ -8,5 +8,6 @@
     "decimals": 8,
     "status": "active",
     "id": "0x8A8b5318d3A59fa6D1d0A83A1B0506f2796b5670",
-    "cmc_id": 16277
+    "cmc_id": 16277,
+    "token_name": "Ari Swap"
 }

@@ -42,5 +42,6 @@
             "url": "https://coingecko.com/en/coins/revain/"
         }
     ],
-    "cmc_id": 2135
+    "cmc_id": 2135,
+    "token_name": "Revain"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xff2b3353c3015E9f1FBF95B9Bda23F58Aa7cE007",
     "status": "active",
     "id": "0xff2b3353c3015E9f1FBF95B9Bda23F58Aa7cE007",
-    "cmc_id": 3011
+    "cmc_id": 3011,
+    "token_name": "BitScreener Token"
 }

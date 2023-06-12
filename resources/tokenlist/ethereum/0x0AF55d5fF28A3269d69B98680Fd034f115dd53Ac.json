@@ -18,5 +18,6 @@
             "url": "https://coinmarketcap.com/currencies/banksocial/"
         }
     ],
-    "cmc_id": 10036
+    "cmc_id": 10102,
+    "token_name": "BankSocial"
 }

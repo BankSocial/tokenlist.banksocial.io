@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xf7413489c474ca4399eeE604716c72879Eea3615",
     "status": "active",
     "id": "0xf7413489c474ca4399eeE604716c72879Eea3615",
-    "cmc_id": 8419
+    "cmc_id": 8419,
+    "token_name": "APYSwap"
 }

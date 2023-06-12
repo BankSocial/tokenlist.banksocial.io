@@ -35,5 +35,6 @@
         "nft",
         "staking"
     ],
-    "cmc_id": 15463
+    "cmc_id": 15463,
+    "token_name": "SIDUS"
 }

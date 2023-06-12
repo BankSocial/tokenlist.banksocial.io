@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xa7f976C360ebBeD4465c2855684D1AAE5271eFa9",
     "status": "active",
     "id": "0xa7f976C360ebBeD4465c2855684D1AAE5271eFa9",
-    "cmc_id": 1905
+    "cmc_id": 1905,
+    "token_name": "TFL.io"
 }

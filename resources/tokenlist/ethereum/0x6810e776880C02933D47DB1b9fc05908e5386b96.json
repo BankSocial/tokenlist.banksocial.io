@@ -37,5 +37,6 @@
             "url": "https://coingecko.com/en/coins/gnosis/"
         }
     ],
-    "cmc_id": 1659
+    "cmc_id": 1659,
+    "token_name": "Gnosis"
 }

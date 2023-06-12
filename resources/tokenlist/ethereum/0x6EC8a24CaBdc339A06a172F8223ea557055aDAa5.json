@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x6EC8a24CaBdc339A06a172F8223ea557055aDAa5",
     "status": "active",
     "id": "0x6EC8a24CaBdc339A06a172F8223ea557055aDAa5",
-    "cmc_id": 2291
+    "cmc_id": 2291,
+    "token_name": "Genaro Network"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x076641aF1B8f06B7f8C92587156143C109002cbe",
     "status": "active",
     "id": "0x076641aF1B8f06B7f8C92587156143C109002cbe",
-    "cmc_id": 2947
+    "cmc_id": 2947,
+    "token_name": "SoPay"
 }

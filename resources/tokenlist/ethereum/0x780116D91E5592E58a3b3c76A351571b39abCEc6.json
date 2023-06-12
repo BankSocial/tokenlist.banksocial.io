@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x780116D91E5592E58a3b3c76A351571b39abCEc6",
     "status": "active",
     "id": "0x780116D91E5592E58a3b3c76A351571b39abCEc6",
-    "cmc_id": 3314
+    "cmc_id": 3314,
+    "token_name": "Blockparty (BOXX Token)"
 }

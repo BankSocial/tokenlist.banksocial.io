@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x14dDda446688b73161AA1382F4E4343353aF6FC8",
     "status": "active",
     "id": "0x14dDda446688b73161AA1382F4E4343353aF6FC8",
-    "cmc_id": 6477
+    "cmc_id": 6477,
+    "token_name": "FXPay"
 }

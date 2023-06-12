@@ -39,5 +39,6 @@
             "url": "https://coingecko.com/en/coins/yearn-finance/"
         }
     ],
-    "cmc_id": 5864
+    "cmc_id": 5864,
+    "token_name": "yearn.finance"
 }

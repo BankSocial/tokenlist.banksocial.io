@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xab85900cfa8a8a577fa5371cb7968af0906b902d",
     "status": "active",
     "id": "0xab85900CFa8a8a577fa5371cb7968aF0906B902d",
-    "cmc_id": 5365
+    "cmc_id": 5365,
+    "token_name": "Historia"
 }

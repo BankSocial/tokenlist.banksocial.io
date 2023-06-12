@@ -9,5 +9,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x4DC3643DbC642b72C158E7F3d2ff232df61cb6CE",
-    "cmc_id": 2081
+    "cmc_id": 2081,
+    "token_name": "AirDAO"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x73C9275c3a2Dd84b5741fD59AEbF102C91Eb033F",
     "status": "active",
     "id": "0x73C9275c3a2Dd84b5741fD59AEbF102C91Eb033F",
-    "cmc_id": 4257
+    "cmc_id": 4257,
+    "token_name": "Bitball Treasure"
 }

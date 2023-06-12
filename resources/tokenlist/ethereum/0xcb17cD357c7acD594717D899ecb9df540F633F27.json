@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xcb17cD357c7acD594717D899ecb9df540F633F27",
     "status": "active",
     "id": "0xcb17cD357c7acD594717D899ecb9df540F633F27",
-    "cmc_id": 4910
+    "cmc_id": 4910,
+    "token_name": "CoinDeal Token"
 }

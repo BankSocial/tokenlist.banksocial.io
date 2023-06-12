@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xAC4088748E1f737C82980A7f78669bE35FecD686",
     "status": "active",
     "id": "0xAC4088748E1f737C82980A7f78669bE35FecD686",
-    "cmc_id": 4888
+    "cmc_id": 4888,
+    "token_name": "Basecoin"
 }

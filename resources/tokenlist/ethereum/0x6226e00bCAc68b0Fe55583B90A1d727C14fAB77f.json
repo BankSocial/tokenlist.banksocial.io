@@ -58,5 +58,6 @@
             "url": "https://coingecko.com/en/coins/multivac"
         }
     ],
-    "cmc_id": 3853
+    "cmc_id": 3853,
+    "token_name": "MultiVAC"
 }

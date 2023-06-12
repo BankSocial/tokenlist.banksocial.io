@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xCc34366E3842cA1BD36c1f324d15257960fCC801",
     "status": "active",
     "id": "0xCc34366E3842cA1BD36c1f324d15257960fCC801",
-    "cmc_id": 2256
+    "cmc_id": 2256,
+    "token_name": "Bonpay"
 }

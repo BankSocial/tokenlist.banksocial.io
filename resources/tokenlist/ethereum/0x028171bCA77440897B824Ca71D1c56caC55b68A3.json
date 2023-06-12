@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x028171bCA77440897B824Ca71D1c56caC55b68A3",
     "status": "active",
     "id": "0x028171bCA77440897B824Ca71D1c56caC55b68A3",
-    "cmc_id": 5763
+    "cmc_id": 5763,
+    "token_name": "Aave DAI"
 }

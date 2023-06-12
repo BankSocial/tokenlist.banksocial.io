@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
     "status": "active",
     "id": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
-    "cmc_id": 5444
+    "cmc_id": 5444,
+    "token_name": "Cartesi"
 }

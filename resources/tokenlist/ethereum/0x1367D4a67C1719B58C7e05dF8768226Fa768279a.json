@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x1367D4a67C1719B58C7e05dF8768226Fa768279a",
     "status": "active",
     "id": "0x1367D4a67C1719B58C7e05dF8768226Fa768279a",
-    "cmc_id": 20685
+    "cmc_id": 20685,
+    "token_name": "OpenBlox"
 }

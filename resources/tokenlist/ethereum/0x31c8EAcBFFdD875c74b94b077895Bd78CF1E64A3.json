@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
     "status": "active",
     "id": "0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3",
-    "cmc_id": 6843
+    "cmc_id": 6843,
+    "token_name": "Radicle"
 }

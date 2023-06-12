@@ -1,1 +1,13 @@
-{'name': 'Mammon', 'type': 'BEP20', 'symbol': 'MMON', 'decimals': 8, 'website': 'https://mammon.money', 'description': 'Mammon (MMON) based on bsc blockchain to pay to trade on coffee industry import and export from Central America El Salvador, Honduras, Guatemala, Costa Rica and Panamá.', 'explorer': 'https://bscscan.com/token/0xa9F179C99567D6D671c3AC5eDf206F5fc647483f', 'status': 'active', 'id': '0xa9F179C99567D6D671c3AC5eDf206F5fc647483f', 'cmc_id': 10480}
+{
+    "name": "Mammon",
+    "type": "BEP20",
+    "symbol": "MMON",
+    "decimals": 8,
+    "website": "https://mammon.money",
+    "description": "Mammon (MMON) based on bsc blockchain to pay to trade on coffee industry import and export from Central America El Salvador, Honduras, Guatemala, Costa Rica and Panam\u00e1.",
+    "explorer": "https://bscscan.com/token/0xa9F179C99567D6D671c3AC5eDf206F5fc647483f",
+    "status": "active",
+    "id": "0xa9F179C99567D6D671c3AC5eDf206F5fc647483f",
+    "cmc_id": 10480,
+    "token_name": "Mammon"
+}

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x09970aec766b6f3223aCA9111555E99DC50Ff13a",
     "status": "active",
     "id": "0x09970aec766b6f3223aCA9111555E99DC50Ff13a",
-    "cmc_id": 4173
+    "cmc_id": 4173,
+    "token_name": "Levolution"
 }

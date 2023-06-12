@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xaDA62f7CCd6af6cAcff04ACCBC4f56f3D4FFd4Ef",
     "status": "active",
     "id": "0xaDA62f7CCd6af6cAcff04ACCBC4f56f3D4FFd4Ef",
-    "cmc_id": 5084
+    "cmc_id": 5084,
+    "token_name": "PlayFuel"
 }

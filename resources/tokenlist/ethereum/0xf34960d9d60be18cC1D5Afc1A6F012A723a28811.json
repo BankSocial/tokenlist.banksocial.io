@@ -34,5 +34,6 @@
             "url": "https://coingecko.com/en/coins/kucoin-shares/"
         }
     ],
-    "cmc_id": 2087
+    "cmc_id": 2087,
+    "token_name": "KuCoin Token"
 }

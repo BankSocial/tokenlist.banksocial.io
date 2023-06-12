@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xbDEC45952B5E234EdDC2981B43eeD360826D5087",
     "status": "active",
     "id": "0xbDEC45952B5E234EdDC2981B43eeD360826D5087",
-    "cmc_id": 4800
+    "cmc_id": 4800,
+    "token_name": "Mogu"
 }

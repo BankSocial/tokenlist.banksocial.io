@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x9903A4Cd589DA8e434f264deAFc406836418578E",
     "status": "active",
     "id": "0x9903A4Cd589DA8e434f264deAFc406836418578E",
-    "cmc_id": 6690
+    "cmc_id": 6690,
+    "token_name": "Harrison First"
 }

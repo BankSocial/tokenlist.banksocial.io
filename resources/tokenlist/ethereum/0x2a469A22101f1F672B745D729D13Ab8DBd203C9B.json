@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x2a469A22101f1F672B745D729D13Ab8DBd203C9B",
     "status": "active",
     "id": "0x2a469A22101f1F672B745D729D13Ab8DBd203C9B",
-    "cmc_id": 457
+    "cmc_id": 457,
+    "token_name": "CSCoin"
 }

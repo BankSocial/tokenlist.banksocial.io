@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x841FB148863454A3b3570f515414759BE9091465",
     "status": "active",
     "id": "0x841FB148863454A3b3570f515414759BE9091465",
-    "cmc_id": 9712
+    "cmc_id": 9712,
+    "token_name": "Shih Tzu"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xd478161c952357f05f0292b56012cd8457f1cfbf",
     "status": "active",
     "id": "0xD478161C952357F05f0292B56012Cd8457F1cfbF",
-    "cmc_id": 8579
+    "cmc_id": 8579,
+    "token_name": "Polkamarkets"
 }

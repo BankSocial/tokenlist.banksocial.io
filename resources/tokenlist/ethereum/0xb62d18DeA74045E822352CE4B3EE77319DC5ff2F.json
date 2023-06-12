@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xb62d18DeA74045E822352CE4B3EE77319DC5ff2F",
     "status": "active",
     "id": "0xb62d18DeA74045E822352CE4B3EE77319DC5ff2F",
-    "cmc_id": 2237
+    "cmc_id": 2237,
+    "token_name": "EventChain"
 }

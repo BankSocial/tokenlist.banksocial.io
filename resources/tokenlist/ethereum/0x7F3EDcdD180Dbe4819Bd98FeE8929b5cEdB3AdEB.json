@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x7F3EDcdD180Dbe4819Bd98FeE8929b5cEdB3AdEB",
-    "cmc_id": 8599
+    "cmc_id": 8599,
+    "token_name": "xToken"
 }

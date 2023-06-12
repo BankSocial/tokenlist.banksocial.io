@@ -9,5 +9,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
-    "cmc_id": 7055
+    "cmc_id": 7055,
+    "token_name": "DeFi Pulse Index"
 }

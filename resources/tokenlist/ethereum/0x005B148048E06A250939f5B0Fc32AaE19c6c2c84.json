@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x005B148048E06A250939f5B0Fc32AaE19c6c2c84",
     "status": "active",
     "id": "0x005B148048E06A250939f5B0Fc32AaE19c6c2c84",
-    "cmc_id": 2986
+    "cmc_id": 2986,
+    "token_name": "DACC"
 }

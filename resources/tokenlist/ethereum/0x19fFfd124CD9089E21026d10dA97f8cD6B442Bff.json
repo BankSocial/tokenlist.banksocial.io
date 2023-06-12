@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x19fFfd124CD9089E21026d10dA97f8cD6B442Bff",
     "status": "active",
     "id": "0x19fFfd124CD9089E21026d10dA97f8cD6B442Bff",
-    "cmc_id": 5247
+    "cmc_id": 5247,
+    "token_name": "Zuflo Coin"
 }

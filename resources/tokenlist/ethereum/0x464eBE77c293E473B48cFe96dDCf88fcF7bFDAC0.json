@@ -34,5 +34,6 @@
             "url": "https://coingecko.com/en/coins/kryll/"
         }
     ],
-    "cmc_id": 2949
+    "cmc_id": 2949,
+    "token_name": "Kryll"
 }

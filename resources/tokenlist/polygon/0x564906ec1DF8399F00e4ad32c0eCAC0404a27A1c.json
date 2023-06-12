@@ -51,5 +51,6 @@
             "url": "https://coingecko.com/coins/ambire-wallet"
         }
     ],
-    "cmc_id": 17722
+    "cmc_id": 17722,
+    "token_name": "Ambire Wallet"
 }

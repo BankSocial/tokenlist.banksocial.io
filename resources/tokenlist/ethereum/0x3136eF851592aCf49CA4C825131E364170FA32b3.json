@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x3136eF851592aCf49CA4C825131E364170FA32b3",
     "status": "active",
     "id": "0x3136eF851592aCf49CA4C825131E364170FA32b3",
-    "cmc_id": 2478
+    "cmc_id": 2478,
+    "token_name": "CoinFi"
 }

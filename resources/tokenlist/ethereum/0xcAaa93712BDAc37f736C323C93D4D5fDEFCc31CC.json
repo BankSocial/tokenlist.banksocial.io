@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xcAaa93712BDAc37f736C323C93D4D5fDEFCc31CC",
     "status": "active",
     "id": "0xcAaa93712BDAc37f736C323C93D4D5fDEFCc31CC",
-    "cmc_id": 3367
+    "cmc_id": 3367,
+    "token_name": "CRD Network"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x687BfC3E73f6af55F0CccA8450114D107E781a0e",
     "status": "active",
     "id": "0x687BfC3E73f6af55F0CccA8450114D107E781a0e",
-    "cmc_id": 3337
+    "cmc_id": 3337,
+    "token_name": "QChi"
 }

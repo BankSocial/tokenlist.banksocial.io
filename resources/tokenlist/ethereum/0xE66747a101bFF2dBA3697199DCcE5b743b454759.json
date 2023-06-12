@@ -26,5 +26,6 @@
             "url": "https://coingecko.com/en/coins/gatechain-token/"
         }
     ],
-    "cmc_id": 4269
+    "cmc_id": 4269,
+    "token_name": "GateToken"
 }

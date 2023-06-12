@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x5102791cA02FC3595398400BFE0e33d7B6C82267",
     "status": "active",
     "id": "0x5102791cA02FC3595398400BFE0e33d7B6C82267",
-    "cmc_id": 2580
+    "cmc_id": 2580,
+    "token_name": "Leadcoin"
 }

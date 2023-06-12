@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x28b5E12CcE51f15594B0b91d5b5AdaA70F684a02",
     "status": "active",
     "id": "0x28b5E12CcE51f15594B0b91d5b5AdaA70F684a02",
-    "cmc_id": 2602
+    "cmc_id": 2602,
+    "token_name": "NaPoleonX"
 }

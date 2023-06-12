@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xFF603F43946A3A28DF5E6A73172555D8C8b02386",
     "status": "active",
     "id": "0xFF603F43946A3A28DF5E6A73172555D8C8b02386",
-    "cmc_id": 2400
+    "cmc_id": 2400,
+    "token_name": "OneRoot Network"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x03fB52D4eE633ab0D06C833E32EFdd8D388f3E6a",
     "status": "active",
     "id": "0x03fB52D4eE633ab0D06C833E32EFdd8D388f3E6a",
-    "cmc_id": 5254
+    "cmc_id": 5254,
+    "token_name": "Super Black Hole"
 }

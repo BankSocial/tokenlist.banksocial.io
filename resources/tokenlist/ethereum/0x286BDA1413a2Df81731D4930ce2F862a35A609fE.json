@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x286BDA1413a2Df81731D4930ce2F862a35A609fE",
     "status": "active",
     "id": "0x286BDA1413a2Df81731D4930ce2F862a35A609fE",
-    "cmc_id": 2267
+    "cmc_id": 2267,
+    "token_name": "Wabi"
 }

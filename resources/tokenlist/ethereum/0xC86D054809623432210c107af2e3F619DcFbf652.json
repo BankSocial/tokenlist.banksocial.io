@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xC86D054809623432210c107af2e3F619DcFbf652",
     "status": "active",
     "id": "0xC86D054809623432210c107af2e3F619DcFbf652",
-    "cmc_id": 2866
+    "cmc_id": 2866,
+    "token_name": "Sentinel Protocol"
 }

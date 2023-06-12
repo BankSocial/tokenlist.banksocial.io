@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x9b6443b0fB9C241A7fdAC375595cEa13e6B7807A",
     "status": "active",
     "id": "0x9b6443b0fB9C241A7fdAC375595cEa13e6B7807A",
-    "cmc_id": 4371
+    "cmc_id": 4371,
+    "token_name": "Reality Clash Coin"
 }

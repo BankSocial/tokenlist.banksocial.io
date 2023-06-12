@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x469861BDfd02E7ebCE7CdEb281e8EEC53069cf5f",
     "status": "active",
     "id": "0x469861BDfd02E7ebCE7CdEb281e8EEC53069cf5f",
-    "cmc_id": 7312
+    "cmc_id": 7312,
+    "token_name": "Florin"
 }

@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x3ac2AB91dDF57e2385089202Ca221C360CED0062",
-    "cmc_id": 7191
+    "cmc_id": 7191,
+    "token_name": "SwapShip"
 }

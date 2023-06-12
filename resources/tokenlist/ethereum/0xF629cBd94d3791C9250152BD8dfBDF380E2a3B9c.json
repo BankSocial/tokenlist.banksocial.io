@@ -46,5 +46,6 @@
             "url": "https://coingecko.com/en/coins/enjincoin/"
         }
     ],
-    "cmc_id": 2130
+    "cmc_id": 2130,
+    "token_name": "Enjin Coin"
 }

@@ -8,5 +8,6 @@
     "status": "active",
     "id": "0x9d1C2A187cf908aEd8CFAe2353Ef72F06223d54D",
     "website": "https://strike.org",
-    "cmc_id": 11095
+    "cmc_id": 11095,
+    "token_name": "Strike WBTC"
 }

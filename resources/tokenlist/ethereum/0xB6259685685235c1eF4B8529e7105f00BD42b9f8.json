@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xB6259685685235c1eF4B8529e7105f00BD42b9f8",
     "status": "active",
     "id": "0xB6259685685235c1eF4B8529e7105f00BD42b9f8",
-    "cmc_id": 3193
+    "cmc_id": 3193,
+    "token_name": "RRCoin"
 }

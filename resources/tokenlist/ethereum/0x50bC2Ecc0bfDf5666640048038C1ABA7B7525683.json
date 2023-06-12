@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x50bC2Ecc0bfDf5666640048038C1ABA7B7525683",
     "status": "active",
     "id": "0x50bC2Ecc0bfDf5666640048038C1ABA7B7525683",
-    "cmc_id": 2450
+    "cmc_id": 2450,
+    "token_name": "carVertical"
 }

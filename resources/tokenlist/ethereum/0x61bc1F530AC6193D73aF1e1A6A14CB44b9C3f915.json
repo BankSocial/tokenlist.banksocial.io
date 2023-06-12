@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x61bc1F530AC6193D73aF1e1A6A14CB44b9C3f915",
-    "cmc_id": 7269
+    "cmc_id": 7269,
+    "token_name": "Pajama.Finance"
 }

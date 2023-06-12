@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xB119Ce94D098C18fe380904c24e358bd887F00BE",
     "status": "active",
     "id": "0xB119Ce94D098C18fe380904c24e358bd887F00BE",
-    "cmc_id": 4984
+    "cmc_id": 4984,
+    "token_name": "MACH Project"
 }

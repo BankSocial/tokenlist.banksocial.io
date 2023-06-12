@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x4Dd672e77c795844fe3A464eF8eF0FAAe617C8fB",
     "status": "active",
     "id": "0x4Dd672e77c795844fe3A464eF8eF0FAAe617C8fB",
-    "cmc_id": 3866
+    "cmc_id": 3866,
+    "token_name": "CONUN"
 }

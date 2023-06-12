@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0xe18AF2C54B852AC2260834534CE70661ABbB321B",
-    "cmc_id": 18845
+    "cmc_id": 18845,
+    "token_name": "BetDao"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x0488401c3F535193Fa8Df029d9fFe615A06E74E6",
     "status": "active",
     "id": "0x0488401c3F535193Fa8Df029d9fFe615A06E74E6",
-    "cmc_id": 3935
+    "cmc_id": 3935,
+    "token_name": "SparkPoint"
 }

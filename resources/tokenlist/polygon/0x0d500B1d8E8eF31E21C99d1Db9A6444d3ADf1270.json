@@ -22,5 +22,6 @@
             "url": "https://github.com/maticnetwork/"
         }
     ],
-    "cmc_id": 8925
+    "cmc_id": 8925,
+    "token_name": "Wrapped Matic"
 }

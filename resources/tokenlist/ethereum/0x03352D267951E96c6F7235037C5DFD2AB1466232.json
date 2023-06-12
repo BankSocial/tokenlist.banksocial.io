@@ -37,5 +37,6 @@
             "url": "https://coingecko.com/coins/stable-fox"
         }
     ],
-    "cmc_id": 17421
+    "cmc_id": 17421,
+    "token_name": "Stable FOX"
 }

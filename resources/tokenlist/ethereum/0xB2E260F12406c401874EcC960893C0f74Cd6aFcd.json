@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xB2E260F12406c401874EcC960893C0f74Cd6aFcd",
     "status": "active",
     "id": "0xB2E260F12406c401874EcC960893C0f74Cd6aFcd",
-    "cmc_id": 3258
+    "cmc_id": 3258,
+    "token_name": "BitUP Token"
 }

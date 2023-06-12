@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x2c2Ad243E228405A0331C946C655b2Ae6c9CF457",
     "status": "active",
     "id": "0x2c2Ad243E228405A0331C946C655b2Ae6c9CF457",
-    "cmc_id": 16011
+    "cmc_id": 16011,
+    "token_name": "Goldario"
 }

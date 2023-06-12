@@ -30,5 +30,6 @@
             "url": "https://streamr.network/docs"
         }
     ],
-    "cmc_id": 2143
+    "cmc_id": 2143,
+    "token_name": "Streamr"
 }

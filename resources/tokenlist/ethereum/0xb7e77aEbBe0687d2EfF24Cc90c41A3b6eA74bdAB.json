@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xb7e77aEbBe0687d2EfF24Cc90c41A3b6eA74bdAB",
     "status": "active",
     "id": "0xb7e77aEbBe0687d2EfF24Cc90c41A3b6eA74bdAB",
-    "cmc_id": 4809
+    "cmc_id": 4809,
+    "token_name": "Project WITH"
 }

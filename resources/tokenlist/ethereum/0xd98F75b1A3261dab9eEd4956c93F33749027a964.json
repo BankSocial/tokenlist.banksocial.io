@@ -30,5 +30,6 @@
             "url": "https://sharering.network/public/sharetoken-whitepaper-en-web-v1.2.pdf"
         }
     ],
-    "cmc_id": 4197
+    "cmc_id": 4197,
+    "token_name": "ShareToken"
 }

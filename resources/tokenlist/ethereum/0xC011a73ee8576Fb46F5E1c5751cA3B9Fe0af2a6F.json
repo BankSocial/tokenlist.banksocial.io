@@ -38,5 +38,6 @@
             "url": "https://coingecko.com/en/coins/havven/"
         }
     ],
-    "cmc_id": 2586
+    "cmc_id": 2586,
+    "token_name": "Synthetix"
 }

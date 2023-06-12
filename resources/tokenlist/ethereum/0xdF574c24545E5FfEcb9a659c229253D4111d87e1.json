@@ -29,5 +29,6 @@
             "url": "https://coingecko.com/en/coins/husd/"
         }
     ],
-    "cmc_id": 4779
+    "cmc_id": 4779,
+    "token_name": "HUSD"
 }

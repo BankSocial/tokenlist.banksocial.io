@@ -46,5 +46,6 @@
             "url": "https://reddit.com/r/ArdCoin/"
         }
     ],
-    "cmc_id": 4985
+    "cmc_id": 4985,
+    "token_name": "ArdCoin"
 }

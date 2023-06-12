@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x7A8Ca2f815A260660158a38C34ca321A3605eCFE",
     "status": "active",
     "id": "0x7A8Ca2f815A260660158a38C34ca321A3605eCFE",
-    "cmc_id": 5437
+    "cmc_id": 5437,
+    "token_name": "BIZZCOIN"
 }

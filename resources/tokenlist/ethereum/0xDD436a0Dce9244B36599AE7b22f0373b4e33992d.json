@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xDD436a0Dce9244B36599AE7b22f0373b4e33992d",
     "status": "active",
     "id": "0xDD436a0Dce9244B36599AE7b22f0373b4e33992d",
-    "cmc_id": 5605
+    "cmc_id": 5605,
+    "token_name": "TrustUSD"
 }

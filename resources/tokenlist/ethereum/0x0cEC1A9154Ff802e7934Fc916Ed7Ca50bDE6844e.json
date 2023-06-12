@@ -26,5 +26,6 @@
             "url": "https://github.com/pooltogether"
         }
     ],
-    "cmc_id": 8508
+    "cmc_id": 8508,
+    "token_name": "PoolTogether"
 }

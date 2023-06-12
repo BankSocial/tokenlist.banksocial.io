@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xfE4455fd433Ed3CA025ec7c43cb8686eD89826CD",
     "status": "active",
     "id": "0xfE4455fd433Ed3CA025ec7c43cb8686eD89826CD",
-    "cmc_id": 4937
+    "cmc_id": 4937,
+    "token_name": "Moozicore"
 }

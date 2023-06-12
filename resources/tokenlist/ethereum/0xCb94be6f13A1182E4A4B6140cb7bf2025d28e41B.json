@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xCb94be6f13A1182E4A4B6140cb7bf2025d28e41B",
     "status": "active",
     "id": "0xCb94be6f13A1182E4A4B6140cb7bf2025d28e41B",
-    "cmc_id": 1638
+    "cmc_id": 1638,
+    "token_name": "WeTrust"
 }

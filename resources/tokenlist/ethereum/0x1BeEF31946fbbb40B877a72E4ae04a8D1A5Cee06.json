@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x1BeEF31946fbbb40B877a72E4ae04a8D1A5Cee06",
     "status": "active",
     "id": "0x1BeEF31946fbbb40B877a72E4ae04a8D1A5Cee06",
-    "cmc_id": 4051
+    "cmc_id": 4051,
+    "token_name": "Parachute"
 }

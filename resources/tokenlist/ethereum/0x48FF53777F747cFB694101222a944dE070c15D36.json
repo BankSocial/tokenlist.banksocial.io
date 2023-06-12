@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x48FF53777F747cFB694101222a944dE070c15D36",
     "status": "active",
     "id": "0x48FF53777F747cFB694101222a944dE070c15D36",
-    "cmc_id": 3271
+    "cmc_id": 3271,
+    "token_name": "Ether Kingdoms Token"
 }

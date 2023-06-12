@@ -45,5 +45,6 @@
             "url": "https://coingecko.com/en/coins/republic-protocol/"
         }
     ],
-    "cmc_id": 2539
+    "cmc_id": 2539,
+    "token_name": "Ren"
 }

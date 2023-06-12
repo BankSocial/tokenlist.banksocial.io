@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x171D750d42d661B62C277a6B486ADb82348c3Eca",
     "status": "active",
     "id": "0x171D750d42d661B62C277a6B486ADb82348c3Eca",
-    "cmc_id": 3081
+    "cmc_id": 3081,
+    "token_name": "Omnitude"
 }

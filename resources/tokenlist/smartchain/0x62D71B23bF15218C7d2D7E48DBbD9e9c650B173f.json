@@ -1,1 +1,14 @@
-{'name': 'Wrapped Mirror GOOGL Token', 'website': 'https://mirror.finance', 'description': 'Mirror Protocol allows the creation of fungible assets, “synthetics”, that track the price of real-world assets.', 'explorer': 'https://bscscan.com/token/0x62D71B23bF15218C7d2D7E48DBbD9e9c650B173f', 'research': '', 'type': 'BEP20', 'symbol': 'mGOOGL', 'decimals': 18, 'status': 'active', 'id': '0x62D71B23bF15218C7d2D7E48DBbD9e9c650B173f', 'cmc_id': 8003}
+{
+    "name": "Wrapped Mirror GOOGL Token",
+    "website": "https://mirror.finance",
+    "description": "Mirror Protocol allows the creation of fungible assets, \u201csynthetics\u201d, that track the price of real-world assets.",
+    "explorer": "https://bscscan.com/token/0x62D71B23bF15218C7d2D7E48DBbD9e9c650B173f",
+    "research": "",
+    "type": "BEP20",
+    "symbol": "mGOOGL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x62D71B23bF15218C7d2D7E48DBbD9e9c650B173f",
+    "cmc_id": 8003,
+    "token_name": "Mirrored Google"
+}

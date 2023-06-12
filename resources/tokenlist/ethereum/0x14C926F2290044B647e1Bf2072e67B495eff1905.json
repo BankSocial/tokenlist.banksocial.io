@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x14C926F2290044B647e1Bf2072e67B495eff1905",
     "status": "active",
     "id": "0x14C926F2290044B647e1Bf2072e67B495eff1905",
-    "cmc_id": 3373
+    "cmc_id": 3373,
+    "token_name": "Bethereum"
 }

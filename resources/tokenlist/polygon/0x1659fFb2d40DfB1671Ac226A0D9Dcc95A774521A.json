@@ -33,5 +33,6 @@
     "tags": [
         "stablecoin"
     ],
-    "cmc_id": 11801
+    "cmc_id": 11801,
+    "token_name": "Daily COP"
 }

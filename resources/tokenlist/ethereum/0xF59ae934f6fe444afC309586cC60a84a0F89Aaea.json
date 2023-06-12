@@ -9,5 +9,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0xF59ae934f6fe444afC309586cC60a84a0F89Aaea",
-    "cmc_id": 9017
+    "cmc_id": 9017,
+    "token_name": "Polkadex"
 }

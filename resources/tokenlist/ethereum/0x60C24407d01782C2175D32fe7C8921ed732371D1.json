@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x60C24407d01782C2175D32fe7C8921ed732371D1",
     "status": "active",
     "id": "0x60C24407d01782C2175D32fe7C8921ed732371D1",
-    "cmc_id": 2950
+    "cmc_id": 2950,
+    "token_name": "LemoChain"
 }

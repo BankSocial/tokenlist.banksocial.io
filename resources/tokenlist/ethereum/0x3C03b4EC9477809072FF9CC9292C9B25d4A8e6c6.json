@@ -18,5 +18,6 @@
             "url": "https://coingecko.com/en/coins/polkacover"
         }
     ],
-    "cmc_id": 8300
+    "cmc_id": 8300,
+    "token_name": "CoverCompared"
 }

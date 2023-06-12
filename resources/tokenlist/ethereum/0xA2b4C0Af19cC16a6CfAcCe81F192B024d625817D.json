@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xa2b4c0af19cc16a6cfacce81f192b024d625817d",
     "status": "active",
     "id": "0xA2b4C0Af19cC16a6CfAcCe81F192B024d625817D",
-    "cmc_id": 9386
+    "cmc_id": 9386,
+    "token_name": "Kishu Inu"
 }

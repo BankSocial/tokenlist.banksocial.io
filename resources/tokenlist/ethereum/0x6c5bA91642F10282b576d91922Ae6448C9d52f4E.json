@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x6c5bA91642F10282b576d91922Ae6448C9d52f4E",
     "status": "active",
     "id": "0x6c5bA91642F10282b576d91922Ae6448C9d52f4E",
-    "cmc_id": 6841
+    "cmc_id": 6841,
+    "token_name": "Phala Network"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x6C5024Cd4F8A59110119C56f8933403A539555EB",
     "status": "active",
     "id": "0x6C5024Cd4F8A59110119C56f8933403A539555EB",
-    "cmc_id": 5756
+    "cmc_id": 5756,
+    "token_name": "Aave SUSD"
 }

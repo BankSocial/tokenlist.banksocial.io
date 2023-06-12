@@ -33,5 +33,6 @@
             "url": "https://coingecko.com/en/coins/linear-bsc/"
         }
     ],
-    "cmc_id": 7102
+    "cmc_id": 7102,
+    "token_name": "Linear Finance"
 }

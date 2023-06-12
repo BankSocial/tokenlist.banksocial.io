@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x66186008C1050627F979d464eABb258860563dbE",
     "status": "active",
     "id": "0x66186008C1050627F979d464eABb258860563dbE",
-    "cmc_id": 2274
+    "cmc_id": 2274,
+    "token_name": "MediShares"
 }

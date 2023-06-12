@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x6e1A19F235bE7ED8E3369eF73b196C07257494DE",
-    "cmc_id": 7770
+    "cmc_id": 7770,
+    "token_name": "Wrapped Filecoin"
 }

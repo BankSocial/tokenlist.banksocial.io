@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xe481f2311C774564D517d015e678c2736A25Ddd3",
     "status": "active",
     "id": "0xe481f2311C774564D517d015e678c2736A25Ddd3",
-    "cmc_id": 7720
+    "cmc_id": 7720,
+    "token_name": "DefHold"
 }

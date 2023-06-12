@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xDDD460bBD9F79847ea08681563e8A9696867210C",
     "status": "active",
     "id": "0xDDD460bBD9F79847ea08681563e8A9696867210C",
-    "cmc_id": 3307
+    "cmc_id": 3307,
+    "token_name": "Spendcoin"
 }

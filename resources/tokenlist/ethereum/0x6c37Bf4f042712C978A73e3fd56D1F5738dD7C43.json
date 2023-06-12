@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x6c37Bf4f042712C978A73e3fd56D1F5738dD7C43",
     "status": "active",
     "id": "0x6c37Bf4f042712C978A73e3fd56D1F5738dD7C43",
-    "cmc_id": 3931
+    "cmc_id": 3931,
+    "token_name": "Elementeum"
 }

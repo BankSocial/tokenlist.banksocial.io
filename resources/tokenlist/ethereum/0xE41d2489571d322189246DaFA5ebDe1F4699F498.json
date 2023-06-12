@@ -39,5 +39,6 @@
             "url": "https://coingecko.com/en/coins/0x/"
         }
     ],
-    "cmc_id": 1896
+    "cmc_id": 1896,
+    "token_name": "0x Protocol"
 }

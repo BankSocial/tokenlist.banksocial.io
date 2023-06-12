@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x26DDF6CabADcBF4F013841BD8d914830BeB0d984",
     "status": "active",
     "id": "0x26DDF6CabADcBF4F013841BD8d914830BeB0d984",
-    "cmc_id": 18005
+    "cmc_id": 18005,
+    "token_name": "KingdomX"
 }

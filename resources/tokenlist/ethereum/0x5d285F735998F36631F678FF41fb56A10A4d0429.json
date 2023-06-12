@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x5d285F735998F36631F678FF41fb56A10A4d0429",
     "status": "active",
     "id": "0x5d285F735998F36631F678FF41fb56A10A4d0429",
-    "cmc_id": 4366
+    "cmc_id": 4366,
+    "token_name": "MixMarvel"
 }

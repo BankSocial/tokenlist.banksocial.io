@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b",
-    "cmc_id": 8075
+    "cmc_id": 8075,
+    "token_name": "Rally"
 }

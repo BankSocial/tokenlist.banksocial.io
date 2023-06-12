@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x23Ccc43365D9dD3882eab88F43d515208f832430",
     "status": "active",
     "id": "0x23Ccc43365D9dD3882eab88F43d515208f832430",
-    "cmc_id": 3352
+    "cmc_id": 3352,
+    "token_name": "MidasProtocol"
 }

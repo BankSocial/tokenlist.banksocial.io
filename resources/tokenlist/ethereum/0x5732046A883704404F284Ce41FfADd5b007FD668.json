@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x5732046A883704404F284Ce41FfADd5b007FD668",
     "status": "active",
     "id": "0x5732046A883704404F284Ce41FfADd5b007FD668",
-    "cmc_id": 2505
+    "cmc_id": 2505,
+    "token_name": "Bluzelle"
 }

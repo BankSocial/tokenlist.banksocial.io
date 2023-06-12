@@ -66,5 +66,6 @@
             "url": "https://coinmarketcap.com/currencies/stakewise/"
         }
     ],
-    "cmc_id": 10439
+    "cmc_id": 10439,
+    "token_name": "StakeWise"
 }

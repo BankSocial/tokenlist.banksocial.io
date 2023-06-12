@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x066798d9ef0833ccc719076Dab77199eCbd178b0",
-    "cmc_id": 6997
+    "cmc_id": 6997,
+    "token_name": "SakeToken"
 }

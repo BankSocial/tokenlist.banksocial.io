@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xa06bC25B5805d5F8d82847D191Cb4Af5A3e873E0",
     "status": "active",
     "id": "0xa06bC25B5805d5F8d82847D191Cb4Af5A3e873E0",
-    "cmc_id": 5751
+    "cmc_id": 5751,
+    "token_name": "Aave LINK"
 }

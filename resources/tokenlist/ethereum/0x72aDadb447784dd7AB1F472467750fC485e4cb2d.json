@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x72aDadb447784dd7AB1F472467750fC485e4cb2d",
     "status": "active",
     "id": "0x72aDadb447784dd7AB1F472467750fC485e4cb2d",
-    "cmc_id": 2288
+    "cmc_id": 2288,
+    "token_name": "Worldcore"
 }

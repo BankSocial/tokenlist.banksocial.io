@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xeaf61FC150CD5c3BeA75744e830D916E60EA5A9F",
     "status": "active",
     "id": "0xeaf61FC150CD5c3BeA75744e830D916E60EA5A9F",
-    "cmc_id": 3505
+    "cmc_id": 3505,
+    "token_name": "Typerium"
 }

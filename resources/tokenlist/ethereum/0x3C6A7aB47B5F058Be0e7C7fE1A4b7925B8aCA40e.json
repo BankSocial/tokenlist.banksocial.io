@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x3C6A7aB47B5F058Be0e7C7fE1A4b7925B8aCA40e",
     "status": "active",
     "id": "0x3C6A7aB47B5F058Be0e7C7fE1A4b7925B8aCA40e",
-    "cmc_id": 3715
+    "cmc_id": 3715,
+    "token_name": "Cajutel"
 }

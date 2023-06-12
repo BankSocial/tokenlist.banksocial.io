@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x85f6eB2BD5a062f5F8560BE93FB7147e16c81472",
     "status": "active",
     "id": "0x85f6eB2BD5a062f5F8560BE93FB7147e16c81472",
-    "cmc_id": 9120
+    "cmc_id": 9120,
+    "token_name": "Franklin"
 }

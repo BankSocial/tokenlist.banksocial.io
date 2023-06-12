@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x809826cceAb68c387726af962713b64Cb5Cb3CCA",
     "status": "active",
     "id": "0x809826cceAb68c387726af962713b64Cb5Cb3CCA",
-    "cmc_id": 2544
+    "cmc_id": 2544,
+    "token_name": "Nitro Network"
 }

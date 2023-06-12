@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x6226caA1857AFBc6DFB6ca66071Eb241228031A1",
     "status": "active",
     "id": "0x6226caA1857AFBc6DFB6ca66071Eb241228031A1",
-    "cmc_id": 5251
+    "cmc_id": 5251,
+    "token_name": "LinkArt"
 }

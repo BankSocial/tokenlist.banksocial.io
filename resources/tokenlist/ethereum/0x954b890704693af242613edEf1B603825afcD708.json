@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x954b890704693af242613edEf1B603825afcD708",
     "status": "active",
     "id": "0x954b890704693af242613edEf1B603825afcD708",
-    "cmc_id": 2891
+    "cmc_id": 2891,
+    "token_name": "Cardstack"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x905E337c6c8645263D3521205Aa37bf4d034e745",
     "status": "active",
     "id": "0x905E337c6c8645263D3521205Aa37bf4d034e745",
-    "cmc_id": 2711
+    "cmc_id": 2711,
+    "token_name": "DOC.COM"
 }

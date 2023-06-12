@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xD8912C10681D8B21Fd3742244f44658dBA12264E",
     "status": "active",
     "id": "0xD8912C10681D8B21Fd3742244f44658dBA12264E",
-    "cmc_id": 1392
+    "cmc_id": 1392,
+    "token_name": "Pluton"
 }

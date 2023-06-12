@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xEEd3aE7b0F8b5B9BB8C035A9941382B1822671CD",
     "status": "active",
     "id": "0xEEd3aE7b0F8b5B9BB8C035A9941382B1822671CD",
-    "cmc_id": 3754
+    "cmc_id": 3754,
+    "token_name": "EveryCoin "
 }

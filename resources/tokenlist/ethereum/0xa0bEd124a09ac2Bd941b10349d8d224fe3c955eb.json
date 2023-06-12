@@ -34,5 +34,6 @@
             "url": "https://depay.medium.com"
         }
     ],
-    "cmc_id": 8181
+    "cmc_id": 8181,
+    "token_name": "DePay"
 }

@@ -9,5 +9,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x5B09A0371C1DA44A8E24D36Bf5DEb1141a84d875",
-    "cmc_id": 19281
+    "cmc_id": 19281,
+    "token_name": "MAD Bucks"
 }

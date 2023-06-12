@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x1Cb3209D45B2a60B7fBCA1cCDBF87f674237A4aa",
     "status": "active",
     "id": "0x1Cb3209D45B2a60B7fBCA1cCDBF87f674237A4aa",
-    "cmc_id": 3144
+    "cmc_id": 3144,
+    "token_name": "ThoreCoin"
 }

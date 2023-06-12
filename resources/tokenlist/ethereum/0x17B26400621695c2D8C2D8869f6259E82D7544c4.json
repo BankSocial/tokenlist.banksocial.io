@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x17B26400621695c2D8C2D8869f6259E82D7544c4",
     "status": "active",
     "id": "0x17B26400621695c2D8C2D8869f6259E82D7544c4",
-    "cmc_id": 3770
+    "cmc_id": 3770,
+    "token_name": "CustomContractNetwork"
 }

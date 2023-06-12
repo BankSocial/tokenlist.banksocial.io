@@ -25,5 +25,6 @@
             "url": "https://coinmarketcap.com/currencies/braintrust/"
         }
     ],
-    "cmc_id": 11584
+    "cmc_id": 11584,
+    "token_name": "Braintrust"
 }

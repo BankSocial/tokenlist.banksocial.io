@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D",
     "status": "active",
     "id": "0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D",
-    "cmc_id": 1950
+    "cmc_id": 1950,
+    "token_name": "Hiveterminal Token"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x6DD4e4Aad29A40eDd6A409b9c1625186C9855b4D",
     "status": "active",
     "id": "0x6DD4e4Aad29A40eDd6A409b9c1625186C9855b4D",
-    "cmc_id": 13632
+    "cmc_id": 13632,
+    "token_name": "Genopets"
 }

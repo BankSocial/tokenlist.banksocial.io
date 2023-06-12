@@ -38,5 +38,6 @@
             "url": "https://www.changeinvest.com/investor"
         }
     ],
-    "cmc_id": 2060
+    "cmc_id": 2060,
+    "token_name": "Change"
 }

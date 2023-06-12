@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x6C2adC2073994fb2CCC5032cC2906Fa221e9B391",
     "status": "active",
     "id": "0x6C2adC2073994fb2CCC5032cC2906Fa221e9B391",
-    "cmc_id": 2162
+    "cmc_id": 2162,
+    "token_name": "Delphy"
 }

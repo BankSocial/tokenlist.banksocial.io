@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x3883f5e181fccaf8410fa61e12b59bad963fb645",
     "status": "active",
     "id": "0x3883f5e181fccaF8410FA61e12b59BAd963fb645",
-    "cmc_id": 2416
+    "cmc_id": 2416,
+    "token_name": "Theta Network"
 }

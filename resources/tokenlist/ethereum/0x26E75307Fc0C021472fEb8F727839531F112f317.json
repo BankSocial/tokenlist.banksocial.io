@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x26E75307Fc0C021472fEb8F727839531F112f317",
     "status": "active",
     "id": "0x26E75307Fc0C021472fEb8F727839531F112f317",
-    "cmc_id": 2444
+    "cmc_id": 2444,
+    "token_name": "CRYPTO20"
 }

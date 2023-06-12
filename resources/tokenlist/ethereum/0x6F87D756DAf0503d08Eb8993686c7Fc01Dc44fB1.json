@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x6F87D756DAf0503d08Eb8993686c7Fc01Dc44fB1",
-    "cmc_id": 10465
+    "cmc_id": 10465,
+    "token_name": "Polytrade"
 }

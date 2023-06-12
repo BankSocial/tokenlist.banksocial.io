@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x23b75Bc7AaF28e2d6628C3f424B3882F8f072a3c",
     "status": "active",
     "id": "0x23b75Bc7AaF28e2d6628C3f424B3882F8f072a3c",
-    "cmc_id": 11015
+    "cmc_id": 11015,
+    "token_name": "Team Vitality Fan Token"
 }

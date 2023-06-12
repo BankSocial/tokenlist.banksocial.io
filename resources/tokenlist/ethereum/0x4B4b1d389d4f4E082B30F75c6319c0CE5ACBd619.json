@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x4B4b1d389d4f4E082B30F75c6319c0CE5ACBd619",
-    "cmc_id": 6464
+    "cmc_id": 6464,
+    "token_name": "Heart Number"
 }

@@ -9,5 +9,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83",
-    "cmc_id": 8260
+    "cmc_id": 8260,
+    "token_name": "Indexed Finance"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xd433138d12beB9929FF6fd583DC83663eea6Aaa5",
     "status": "active",
     "id": "0xd433138d12beB9929FF6fd583DC83663eea6Aaa5",
-    "cmc_id": 4167
+    "cmc_id": 4167,
+    "token_name": "Bitrue Coin"
 }

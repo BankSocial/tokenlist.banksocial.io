@@ -23,5 +23,6 @@
             "url": "https://github.com/aragon"
         }
     ],
-    "cmc_id": 1680
+    "cmc_id": 1680,
+    "token_name": "Aragon"
 }

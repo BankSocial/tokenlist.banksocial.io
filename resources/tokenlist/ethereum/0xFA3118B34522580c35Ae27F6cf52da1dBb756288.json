@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xFA3118B34522580c35Ae27F6cf52da1dBb756288",
     "status": "active",
     "id": "0xFA3118B34522580c35Ae27F6cf52da1dBb756288",
-    "cmc_id": 2468
+    "cmc_id": 2468,
+    "token_name": "LinkEye"
 }

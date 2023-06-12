@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x1453Dbb8A29551ADe11D89825CA812e05317EAEB",
-    "cmc_id": 5971
+    "cmc_id": 5971,
+    "token_name": "Tendies"
 }

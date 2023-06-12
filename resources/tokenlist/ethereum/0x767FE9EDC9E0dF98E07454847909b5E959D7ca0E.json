@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E",
     "status": "active",
     "id": "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E",
-    "cmc_id": 8719
+    "cmc_id": 8719,
+    "token_name": "Illuvium"
 }

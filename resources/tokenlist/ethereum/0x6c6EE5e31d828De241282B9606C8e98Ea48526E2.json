@@ -42,5 +42,6 @@
             "url": "https://coingecko.com/en/coins/holotoken/"
         }
     ],
-    "cmc_id": 2682
+    "cmc_id": 2682,
+    "token_name": "Holo"
 }

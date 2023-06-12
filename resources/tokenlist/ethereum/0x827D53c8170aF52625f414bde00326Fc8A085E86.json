@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x827D53c8170aF52625f414bde00326Fc8A085E86",
     "status": "active",
     "id": "0x827D53c8170aF52625f414bde00326Fc8A085E86",
-    "cmc_id": 4646
+    "cmc_id": 4646,
+    "token_name": "Beaxy"
 }

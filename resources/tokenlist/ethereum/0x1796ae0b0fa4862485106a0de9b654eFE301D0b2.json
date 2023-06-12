@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2",
-    "cmc_id": 8968
+    "cmc_id": 8968,
+    "token_name": "Polychain Monsters"
 }

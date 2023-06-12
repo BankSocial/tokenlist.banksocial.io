@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x722F2f3EaC7e9597C73a593f7CF3de33Fbfc3308",
     "status": "active",
     "id": "0x722F2f3EaC7e9597C73a593f7CF3de33Fbfc3308",
-    "cmc_id": 3648
+    "cmc_id": 3648,
+    "token_name": "CoinUs"
 }

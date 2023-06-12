@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x49184E6dAe8C8ecD89d8Bdc1B950c597b8167c90",
     "status": "active",
     "id": "0x49184E6dAe8C8ecD89d8Bdc1B950c597b8167c90",
-    "cmc_id": 5997
+    "cmc_id": 5997,
+    "token_name": "Libertas Token"
 }

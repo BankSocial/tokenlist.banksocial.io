@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x10Be9a8dAe441d276a5027936c3aADEd2d82bC15",
     "status": "active",
     "id": "0x10Be9a8dAe441d276a5027936c3aADEd2d82bC15",
-    "cmc_id": 8229
+    "cmc_id": 8229,
+    "token_name": "UniMex Network"
 }

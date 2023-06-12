@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0",
-    "cmc_id": 4944
+    "cmc_id": 4944,
+    "token_name": "Tellor"
 }

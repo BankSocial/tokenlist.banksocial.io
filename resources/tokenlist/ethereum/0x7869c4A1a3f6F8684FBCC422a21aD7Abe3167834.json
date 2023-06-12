@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x7869c4A1a3f6F8684FBCC422a21aD7Abe3167834",
     "status": "active",
     "id": "0x7869c4A1a3f6F8684FBCC422a21aD7Abe3167834",
-    "cmc_id": 4115
+    "cmc_id": 4115,
+    "token_name": "Pivot Token"
 }

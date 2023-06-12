@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x0Ae055097C6d159879521C384F1D2123D1f195e6",
-    "cmc_id": 5601
+    "cmc_id": 5601,
+    "token_name": "STAKE"
 }

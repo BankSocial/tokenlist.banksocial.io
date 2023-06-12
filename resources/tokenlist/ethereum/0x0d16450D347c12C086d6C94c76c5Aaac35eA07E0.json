@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x0d16450D347c12C086d6C94c76c5Aaac35eA07E0",
     "status": "active",
     "id": "0x0d16450D347c12C086d6C94c76c5Aaac35eA07E0",
-    "cmc_id": 8281
+    "cmc_id": 8281,
+    "token_name": "Golden Goose"
 }

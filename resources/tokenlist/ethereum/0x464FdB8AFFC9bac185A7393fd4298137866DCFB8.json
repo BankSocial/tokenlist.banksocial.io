@@ -22,5 +22,6 @@
             "url": "https://coingecko.com/en/coins/realm"
         }
     ],
-    "cmc_id": 11869
+    "cmc_id": 11869,
+    "token_name": "Realm"
 }

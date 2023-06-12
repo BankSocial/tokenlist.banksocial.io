@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xa96F31F1C187c28980176C3A27ba7069f48abDE4",
     "status": "active",
     "id": "0xa96F31F1C187c28980176C3A27ba7069f48abDE4",
-    "cmc_id": 3810
+    "cmc_id": 3810,
+    "token_name": "Ethereum Gold Project"
 }

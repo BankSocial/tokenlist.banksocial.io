@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x558EC3152e2eb2174905cd19AeA4e34A23DE9aD6",
-    "cmc_id": 2306
+    "cmc_id": 2306,
+    "token_name": "Bread"
 }

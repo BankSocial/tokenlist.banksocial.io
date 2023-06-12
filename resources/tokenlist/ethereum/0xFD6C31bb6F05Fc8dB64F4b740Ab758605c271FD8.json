@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xFD6C31bb6F05Fc8dB64F4b740Ab758605c271FD8",
     "status": "active",
     "id": "0xFD6C31bb6F05Fc8dB64F4b740Ab758605c271FD8",
-    "cmc_id": 5313
+    "cmc_id": 5313,
+    "token_name": "CONTRACOIN"
 }

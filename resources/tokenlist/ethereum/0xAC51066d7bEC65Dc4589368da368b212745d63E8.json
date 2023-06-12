@@ -30,5 +30,6 @@
             "url": "https://coingecko.com/en/coins/my-neighbor-alice/"
         }
     ],
-    "cmc_id": 8766
+    "cmc_id": 8766,
+    "token_name": "MyNeighborAlice"
 }

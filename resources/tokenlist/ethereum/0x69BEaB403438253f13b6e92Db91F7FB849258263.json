@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x69BEaB403438253f13b6e92Db91F7FB849258263",
     "status": "active",
     "id": "0x69BEaB403438253f13b6e92Db91F7FB849258263",
-    "cmc_id": 2536
+    "cmc_id": 2536,
+    "token_name": "Neurotoken"
 }

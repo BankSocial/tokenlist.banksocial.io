@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x3597bfD533a99c9aa083587B074434E61Eb0A258",
     "status": "active",
     "id": "0x3597bfD533a99c9aa083587B074434E61Eb0A258",
-    "cmc_id": 1886
+    "cmc_id": 1886,
+    "token_name": "Dent"
 }

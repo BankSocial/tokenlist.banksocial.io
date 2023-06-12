@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x0AbdAce70D3790235af448C88547603b945604ea",
     "status": "active",
     "id": "0x0AbdAce70D3790235af448C88547603b945604ea",
-    "cmc_id": 1856
+    "cmc_id": 1856,
+    "token_name": "district0x"
 }

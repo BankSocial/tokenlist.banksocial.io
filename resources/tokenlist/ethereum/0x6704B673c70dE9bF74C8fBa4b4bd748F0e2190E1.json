@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x6704B673c70dE9bF74C8fBa4b4bd748F0e2190E1",
     "status": "active",
     "id": "0x6704B673c70dE9bF74C8fBa4b4bd748F0e2190E1",
-    "cmc_id": 3140
+    "cmc_id": 3140,
+    "token_name": "Ubex"
 }

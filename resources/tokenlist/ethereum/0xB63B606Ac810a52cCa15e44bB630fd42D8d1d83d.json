@@ -8,5 +8,6 @@
     "decimals": 8,
     "status": "active",
     "id": "0xB63B606Ac810a52cCa15e44bB630fd42D8d1d83d",
-    "cmc_id": 1776
+    "cmc_id": 1776,
+    "token_name": "MCO"
 }

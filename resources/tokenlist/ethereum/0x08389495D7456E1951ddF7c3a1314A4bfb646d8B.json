@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x08389495D7456E1951ddF7c3a1314A4bfb646d8B",
-    "cmc_id": 2447
+    "cmc_id": 2447,
+    "token_name": "Crypterium"
 }

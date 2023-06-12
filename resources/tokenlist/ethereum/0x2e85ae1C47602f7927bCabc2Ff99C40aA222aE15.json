@@ -45,5 +45,6 @@
             "url": "https://coinmarketcap.com/currencies/katana-inu/"
         }
     ],
-    "cmc_id": 15142
+    "cmc_id": 15142,
+    "token_name": "Katana Inu"
 }

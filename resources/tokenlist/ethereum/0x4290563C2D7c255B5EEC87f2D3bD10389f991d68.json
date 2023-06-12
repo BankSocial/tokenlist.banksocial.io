@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x4290563C2D7c255B5EEC87f2D3bD10389f991d68",
     "status": "active",
     "id": "0x4290563C2D7c255B5EEC87f2D3bD10389f991d68",
-    "cmc_id": 2454
+    "cmc_id": 2454,
+    "token_name": "UnlimitedIP"
 }

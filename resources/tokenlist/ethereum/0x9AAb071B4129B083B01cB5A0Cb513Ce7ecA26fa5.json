@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x9AAb071B4129B083B01cB5A0Cb513Ce7ecA26fa5",
     "status": "active",
     "id": "0x9AAb071B4129B083B01cB5A0Cb513Ce7ecA26fa5",
-    "cmc_id": 5380
+    "cmc_id": 5380,
+    "token_name": "HUNT"
 }

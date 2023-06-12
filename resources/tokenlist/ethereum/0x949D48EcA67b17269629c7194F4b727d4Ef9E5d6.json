@@ -46,5 +46,6 @@
             "url": "https://coingecko.com/en/coins/merit-circle"
         }
     ],
-    "cmc_id": 13523
+    "cmc_id": 13523,
+    "token_name": "Merit Circle"
 }

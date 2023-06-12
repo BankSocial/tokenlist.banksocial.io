@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x839961692c56270b73538F9906f8736fC1DA4fA6",
     "status": "active",
     "id": "0x839961692c56270b73538F9906f8736fC1DA4fA6",
-    "cmc_id": 5813
+    "cmc_id": 5813,
+    "token_name": "CHALLENGE"
 }

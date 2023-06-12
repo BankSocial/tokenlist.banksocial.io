@@ -1,1 +1,13 @@
-{'name': 'EyeSwap', 'type': 'BEP20', 'symbol': 'EYE', 'decimals': 18, 'website': 'https://eyeswap.finance/', 'description': 'EYE is a fully decentralized token create a stable token', 'explorer': 'https://bscscan.com/token/0x2B54d3d7aB8e65895168938F7145F39225Db7CE5', 'status': 'active', 'id': '0x2B54d3d7aB8e65895168938F7145F39225Db7CE5', 'cmc_id': 14996}
+{
+    "name": "EyeSwap",
+    "type": "BEP20",
+    "symbol": "EYE",
+    "decimals": 18,
+    "website": "https://eyeswap.finance/",
+    "description": "EYE is a fully decentralized token create a stable token",
+    "explorer": "https://bscscan.com/token/0x2B54d3d7aB8e65895168938F7145F39225Db7CE5",
+    "status": "active",
+    "id": "0x2B54d3d7aB8e65895168938F7145F39225Db7CE5",
+    "cmc_id": 14996,
+    "token_name": "MEDIA EYE NFT Portal"
+}

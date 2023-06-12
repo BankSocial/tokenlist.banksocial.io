@@ -42,5 +42,6 @@
             "url": "https://coingecko.com/en/coins/decentraland/"
         }
     ],
-    "cmc_id": 1966
+    "cmc_id": 1966,
+    "token_name": "Decentraland"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xa6a840E50bCaa50dA017b91A0D86B8b2d41156EE",
     "status": "active",
     "id": "0xa6a840E50bCaa50dA017b91A0D86B8b2d41156EE",
-    "cmc_id": 2391
+    "cmc_id": 2391,
+    "token_name": "EchoLink"
 }

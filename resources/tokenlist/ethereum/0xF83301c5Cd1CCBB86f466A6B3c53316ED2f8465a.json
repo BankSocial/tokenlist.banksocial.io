@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xF83301c5Cd1CCBB86f466A6B3c53316ED2f8465a",
     "status": "active",
     "id": "0xF83301c5Cd1CCBB86f466A6B3c53316ED2f8465a",
-    "cmc_id": 2262
+    "cmc_id": 2262,
+    "token_name": "COMSA [ETH]"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x21D5A14e625d767Ce6b7A167491C2d18e0785fDa",
     "status": "active",
     "id": "0x21D5A14e625d767Ce6b7A167491C2d18e0785fDa",
-    "cmc_id": 3759
+    "cmc_id": 3759,
+    "token_name": "Jinbi Token"
 }

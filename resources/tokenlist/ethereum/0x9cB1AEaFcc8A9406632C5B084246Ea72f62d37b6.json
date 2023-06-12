@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x9cB1AEaFcc8A9406632C5B084246Ea72f62d37b6",
     "status": "active",
     "id": "0x9cB1AEaFcc8A9406632C5B084246Ea72f62d37b6",
-    "cmc_id": 5445
+    "cmc_id": 5445,
+    "token_name": "LBK"
 }

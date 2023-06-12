@@ -42,5 +42,6 @@
             "url": "https://docs.dxsale.network"
         }
     ],
-    "cmc_id": 6742
+    "cmc_id": 6742,
+    "token_name": "DxSale.Network"
 }

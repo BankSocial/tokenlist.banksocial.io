@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xEA26c4aC16D4a5A106820BC8AEE85fd0b7b2b664",
     "status": "active",
     "id": "0xEA26c4aC16D4a5A106820BC8AEE85fd0b7b2b664",
-    "cmc_id": 2840
+    "cmc_id": 2840,
+    "token_name": "QuarkChain"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x6096d2460CF5177E40B515223428DC005ad35123",
     "status": "active",
     "id": "0x6096d2460CF5177E40B515223428DC005ad35123",
-    "cmc_id": 1217
+    "cmc_id": 1217,
+    "token_name": "PROCOM coin"
 }

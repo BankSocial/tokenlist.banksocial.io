@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x7659CE147D0e714454073a5dd7003544234b6Aa0",
     "status": "active",
     "id": "0x7659CE147D0e714454073a5dd7003544234b6Aa0",
-    "cmc_id": 9868
+    "cmc_id": 9868,
+    "token_name": "XCAD Network"
 }

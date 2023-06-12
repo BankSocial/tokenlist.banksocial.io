@@ -33,5 +33,6 @@
             "url": "https://coingecko.com/en/coins/gemini-dollar/"
         }
     ],
-    "cmc_id": 3306
+    "cmc_id": 3306,
+    "token_name": "Gemini Dollar"
 }

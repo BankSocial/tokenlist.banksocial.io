@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xfDBc1aDc26F0F8f8606a5d63b7D3a3CD21c22B23",
     "status": "active",
     "id": "0xfDBc1aDc26F0F8f8606a5d63b7D3a3CD21c22B23",
-    "cmc_id": 2601
+    "cmc_id": 2601,
+    "token_name": "1World"
 }

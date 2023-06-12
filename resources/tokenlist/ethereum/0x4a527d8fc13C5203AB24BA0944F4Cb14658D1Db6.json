@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x4a527d8fc13C5203AB24BA0944F4Cb14658D1Db6",
     "status": "active",
     "id": "0x4a527d8fc13C5203AB24BA0944F4Cb14658D1Db6",
-    "cmc_id": 2709
+    "cmc_id": 2709,
+    "token_name": "Morpheus Labs"
 }

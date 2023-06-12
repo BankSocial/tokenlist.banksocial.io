@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x686C650dbcFEaa75D09B883621Ad810F5952bD5d",
     "status": "active",
     "id": "0x686C650dbcFEaa75D09B883621Ad810F5952bD5d",
-    "cmc_id": 5509
+    "cmc_id": 5509,
+    "token_name": "AAX Token"
 }

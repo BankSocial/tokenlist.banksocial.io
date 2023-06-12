@@ -26,5 +26,6 @@
             "url": "https://coingecko.com/coins/looksrare/"
         }
     ],
-    "cmc_id": 17081
+    "cmc_id": 17081,
+    "token_name": "LooksRare"
 }

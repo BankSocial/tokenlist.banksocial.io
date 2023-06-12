@@ -54,5 +54,6 @@
             "url": "https://coingecko.com/en/coins/qanplatform"
         }
     ],
-    "cmc_id": 5858
+    "cmc_id": 5858,
+    "token_name": "QANplatform"
 }

@@ -9,5 +9,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0xba100000625a3754423978a60c9317c58a424e3D",
-    "cmc_id": 5728
+    "cmc_id": 5728,
+    "token_name": "Balancer"
 }

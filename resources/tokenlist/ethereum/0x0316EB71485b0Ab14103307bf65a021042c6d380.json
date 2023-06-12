@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x0316EB71485b0Ab14103307bf65a021042c6d380",
-    "cmc_id": 6941
+    "cmc_id": 6941,
+    "token_name": "Huobi BTC"
 }

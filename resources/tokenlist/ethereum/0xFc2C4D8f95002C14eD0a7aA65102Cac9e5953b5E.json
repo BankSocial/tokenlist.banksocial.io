@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xFc2C4D8f95002C14eD0a7aA65102Cac9e5953b5E",
     "status": "active",
     "id": "0xFc2C4D8f95002C14eD0a7aA65102Cac9e5953b5E",
-    "cmc_id": 2689
+    "cmc_id": 2689,
+    "token_name": "Rublix"
 }

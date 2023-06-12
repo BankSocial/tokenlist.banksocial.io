@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x2D3E7D4870a51b918919E7B851FE19983E4c38d5",
     "status": "active",
     "id": "0x2D3E7D4870a51b918919E7B851FE19983E4c38d5",
-    "cmc_id": 3245
+    "cmc_id": 3245,
+    "token_name": "Ubcoin Market"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x94236591125E935F5ac128Bb3d5062944C24958c",
     "status": "active",
     "id": "0x94236591125E935F5ac128Bb3d5062944C24958c",
-    "cmc_id": 3735
+    "cmc_id": 3735,
+    "token_name": "VegaWallet Token"
 }

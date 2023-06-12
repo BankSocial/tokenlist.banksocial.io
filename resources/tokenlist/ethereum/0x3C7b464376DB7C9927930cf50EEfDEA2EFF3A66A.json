@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x3C7b464376DB7C9927930cf50EEfDEA2EFF3A66A",
     "status": "active",
     "id": "0x3C7b464376DB7C9927930cf50EEfDEA2EFF3A66A",
-    "cmc_id": 5058
+    "cmc_id": 5058,
+    "token_name": "USDA"
 }

@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x87eDfFDe3E14c7a66c9b9724747a1C5696b742e6",
-    "cmc_id": 4321
+    "cmc_id": 4321,
+    "token_name": "SwagChain"
 }

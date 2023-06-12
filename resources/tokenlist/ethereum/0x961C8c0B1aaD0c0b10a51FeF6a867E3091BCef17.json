@@ -44,5 +44,6 @@
         "defi",
         "staking-native"
     ],
-    "cmc_id": 8080
+    "cmc_id": 8080,
+    "token_name": "Dypius"
 }

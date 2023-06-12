@@ -26,5 +26,6 @@
             "url": "https://coingecko.com/en/coins/litentry/"
         }
     ],
-    "cmc_id": 6833
+    "cmc_id": 6833,
+    "token_name": "Litentry"
 }

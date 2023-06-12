@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x245ef47D4d0505ECF3Ac463F4d81f41ADE8f1fd1",
     "status": "active",
     "id": "0x245ef47D4d0505ECF3Ac463F4d81f41ADE8f1fd1",
-    "cmc_id": 3092
+    "cmc_id": 3092,
+    "token_name": "Nuggets"
 }

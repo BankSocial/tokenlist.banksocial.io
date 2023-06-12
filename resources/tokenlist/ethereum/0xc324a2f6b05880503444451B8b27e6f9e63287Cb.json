@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xc324a2f6b05880503444451B8b27e6f9e63287Cb",
     "status": "active",
     "id": "0xc324a2f6b05880503444451B8b27e6f9e63287Cb",
-    "cmc_id": 2091
+    "cmc_id": 2091,
+    "token_name": "Exchange Union"
 }

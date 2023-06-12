@@ -30,5 +30,6 @@
             "url": "https://coingecko.com/en/coins/huobi-token/"
         }
     ],
-    "cmc_id": 2502
+    "cmc_id": 2502,
+    "token_name": "Huobi Token"
 }

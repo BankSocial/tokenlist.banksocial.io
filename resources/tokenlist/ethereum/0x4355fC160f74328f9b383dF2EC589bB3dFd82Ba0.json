@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x4355fC160f74328f9b383dF2EC589bB3dFd82Ba0",
     "status": "active",
     "id": "0x4355fC160f74328f9b383dF2EC589bB3dFd82Ba0",
-    "cmc_id": 20931
+    "cmc_id": 20931,
+    "token_name": "Optimus"
 }

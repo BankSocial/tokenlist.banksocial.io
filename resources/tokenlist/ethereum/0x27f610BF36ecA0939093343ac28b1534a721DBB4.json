@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x27f610BF36ecA0939093343ac28b1534a721DBB4",
     "status": "active",
     "id": "0x27f610BF36ecA0939093343ac28b1534a721DBB4",
-    "cmc_id": 2269
+    "cmc_id": 2269,
+    "token_name": "WandX"
 }

@@ -38,5 +38,6 @@
             "url": "https://coingecko.com/en/coins/ocean-protocol/"
         }
     ],
-    "cmc_id": 3911
+    "cmc_id": 3911,
+    "token_name": "Ocean Protocol"
 }

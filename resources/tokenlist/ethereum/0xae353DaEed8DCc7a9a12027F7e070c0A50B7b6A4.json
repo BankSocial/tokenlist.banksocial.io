@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xae353DaEed8DCc7a9a12027F7e070c0A50B7b6A4",
     "status": "active",
     "id": "0xae353DaEed8DCc7a9a12027F7e070c0A50B7b6A4",
-    "cmc_id": 4012
+    "cmc_id": 4012,
+    "token_name": "InnovaMinex"
 }

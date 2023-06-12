@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xa44E5137293E855B1b7bC7E2C6f8cD796fFCB037",
     "status": "active",
     "id": "0xa44E5137293E855B1b7bC7E2C6f8cD796fFCB037",
-    "cmc_id": 11702
+    "cmc_id": 11702,
+    "token_name": "Sentiment Token"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xD0D6D6C5Fe4a677D343cC433536BB717bAe167dD",
     "status": "active",
     "id": "0xD0D6D6C5Fe4a677D343cC433536BB717bAe167dD",
-    "cmc_id": 17369
+    "cmc_id": 17369,
+    "token_name": "Dot Arcade"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x256845e721C0c46d54E6afBD4FA3B52CB72353EA",
     "status": "active",
     "id": "0x256845e721C0c46d54E6afBD4FA3B52CB72353EA",
-    "cmc_id": 5694
+    "cmc_id": 5694,
+    "token_name": "UniDollar"
 }

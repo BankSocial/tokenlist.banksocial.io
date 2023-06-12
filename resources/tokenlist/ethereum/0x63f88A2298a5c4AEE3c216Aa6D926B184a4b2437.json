@@ -42,5 +42,6 @@
             "url": "https://gamecredits.org/wp-content/uploads/2020/04/GC_whitepaper.pdf"
         }
     ],
-    "cmc_id": 576
+    "cmc_id": 576,
+    "token_name": "GameCredits"
 }

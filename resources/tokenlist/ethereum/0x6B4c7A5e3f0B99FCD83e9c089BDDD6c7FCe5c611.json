@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611",
-    "cmc_id": 10866
+    "cmc_id": 10866,
+    "token_name": "Million"
 }

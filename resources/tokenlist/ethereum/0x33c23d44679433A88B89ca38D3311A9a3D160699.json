@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x33c23d44679433A88B89ca38D3311A9a3D160699",
-    "cmc_id": 12180
+    "cmc_id": 12180,
+    "token_name": "Rainbow Token"
 }

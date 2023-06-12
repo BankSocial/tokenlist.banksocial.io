@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x2F109021aFe75B949429fe30523Ee7C0D5B27207",
     "status": "active",
     "id": "0x2F109021aFe75B949429fe30523Ee7C0D5B27207",
-    "cmc_id": 9191
+    "cmc_id": 9191,
+    "token_name": "Occam.Fi"
 }

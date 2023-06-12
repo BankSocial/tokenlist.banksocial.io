@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xB17DF9a3B09583a9bDCf757d6367171476D4D8a3",
     "status": "active",
     "id": "0xB17DF9a3B09583a9bDCf757d6367171476D4D8a3",
-    "cmc_id": 7703
+    "cmc_id": 7703,
+    "token_name": "MileVerse"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x08d967bb0134F2d07f7cfb6E246680c53927DD30",
     "status": "active",
     "id": "0x08d967bb0134F2d07f7cfb6E246680c53927DD30",
-    "cmc_id": 5616
+    "cmc_id": 5616,
+    "token_name": "MATH"
 }

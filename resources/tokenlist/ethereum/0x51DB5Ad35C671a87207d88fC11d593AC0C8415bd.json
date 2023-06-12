@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x51DB5Ad35C671a87207d88fC11d593AC0C8415bd",
     "status": "active",
     "id": "0x51DB5Ad35C671a87207d88fC11d593AC0C8415bd",
-    "cmc_id": 1954
+    "cmc_id": 1954,
+    "token_name": "Moeda Loyalty Points"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x0A913beaD80F321E7Ac35285Ee10d9d922659cB7",
     "status": "active",
     "id": "0x0A913beaD80F321E7Ac35285Ee10d9d922659cB7",
-    "cmc_id": 3809
+    "cmc_id": 3809,
+    "token_name": "DOS Network"
 }

@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0xA3E059c0b01F07F211c85bF7b4f1d907AfB011df",
-    "cmc_id": 9855
+    "cmc_id": 9855,
+    "token_name": "EthereumMax"
 }

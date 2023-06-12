@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x08AD83D779BDf2BBE1ad9cc0f78aa0D24AB97802",
-    "cmc_id": 5936
+    "cmc_id": 5936,
+    "token_name": "Robonomics Web Services"
 }

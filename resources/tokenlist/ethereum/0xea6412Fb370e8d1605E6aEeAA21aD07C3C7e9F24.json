@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xea6412Fb370e8d1605E6aEeAA21aD07C3C7e9F24",
     "status": "active",
     "id": "0xea6412Fb370e8d1605E6aEeAA21aD07C3C7e9F24",
-    "cmc_id": 8502
+    "cmc_id": 8502,
+    "token_name": "Mushroom"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xE1Aee98495365fc179699C1bB3E761FA716beE62",
     "status": "active",
     "id": "0xE1Aee98495365fc179699C1bB3E761FA716beE62",
-    "cmc_id": 2727
+    "cmc_id": 2727,
+    "token_name": "Bezant"
 }

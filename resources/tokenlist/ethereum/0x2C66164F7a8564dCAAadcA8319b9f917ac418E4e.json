@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x2C66164F7a8564dCAAadcA8319b9f917ac418E4e",
-    "cmc_id": 1970
+    "cmc_id": 1970,
+    "token_name": "ATBCoin"
 }

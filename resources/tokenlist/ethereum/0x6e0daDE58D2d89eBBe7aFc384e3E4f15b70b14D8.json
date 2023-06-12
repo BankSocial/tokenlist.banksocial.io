@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x6e0daDE58D2d89eBBe7aFc384e3E4f15b70b14D8",
-    "cmc_id": 7510
+    "cmc_id": 7510,
+    "token_name": "QuiverX"
 }

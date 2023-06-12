@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x5555e6B8e710BBCd7804f5172395b87c09621f80",
-    "cmc_id": 7094
+    "cmc_id": 7094,
+    "token_name": "dHedge DAO"
 }

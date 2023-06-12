@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x6737fE98389Ffb356F64ebB726aA1a92390D94Fb",
     "status": "active",
     "id": "0x6737fE98389Ffb356F64ebB726aA1a92390D94Fb",
-    "cmc_id": 516
+    "cmc_id": 516,
+    "token_name": "ZcCoin"
 }

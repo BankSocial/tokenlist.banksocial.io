@@ -26,5 +26,6 @@
             "url": "https://coingecko.com/en/coins/wrapped-bitcoin/"
         }
     ],
-    "cmc_id": 3717
+    "cmc_id": 3717,
+    "token_name": "Wrapped Bitcoin"
 }

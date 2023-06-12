@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x01fF50f8b7f74E4f00580d9596cd3D0d6d6E326f",
     "status": "active",
     "id": "0x01fF50f8b7f74E4f00580d9596cd3D0d6d6E326f",
-    "cmc_id": 2605
+    "cmc_id": 2605,
+    "token_name": "BnkToTheFuture"
 }

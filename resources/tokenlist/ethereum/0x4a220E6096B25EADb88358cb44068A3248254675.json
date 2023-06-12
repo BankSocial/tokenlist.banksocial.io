@@ -42,5 +42,6 @@
             "url": "https://coingecko.com/en/coins/quant-network/"
         }
     ],
-    "cmc_id": 3155
+    "cmc_id": 3155,
+    "token_name": "Quant"
 }

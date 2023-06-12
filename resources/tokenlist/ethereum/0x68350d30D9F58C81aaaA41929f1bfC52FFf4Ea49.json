@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x68350d30D9F58C81aaaA41929f1bfC52FFf4Ea49",
     "status": "active",
     "id": "0x68350d30D9F58C81aaaA41929f1bfC52FFf4Ea49",
-    "cmc_id": 4298
+    "cmc_id": 4298,
+    "token_name": "Rapidz"
 }

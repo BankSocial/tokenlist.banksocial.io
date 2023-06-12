@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x1CCAA0F2a7210d76E1fDec740d5F323E2E1b1672",
     "status": "active",
     "id": "0x1CCAA0F2a7210d76E1fDec740d5F323E2E1b1672",
-    "cmc_id": 2775
+    "cmc_id": 2775,
+    "token_name": "Faceter"
 }

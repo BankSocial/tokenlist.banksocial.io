@@ -66,5 +66,6 @@
         "stablecoin",
         "wrapped"
     ],
-    "cmc_id": 21420
+    "cmc_id": 21420,
+    "token_name": "Axelar Wrapped USDC"
 }

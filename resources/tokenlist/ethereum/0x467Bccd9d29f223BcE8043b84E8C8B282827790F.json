@@ -38,5 +38,6 @@
             "url": "https://coingecko.com/en/coins/telcoin/"
         }
     ],
-    "cmc_id": 2394
+    "cmc_id": 2394,
+    "token_name": "Telcoin"
 }

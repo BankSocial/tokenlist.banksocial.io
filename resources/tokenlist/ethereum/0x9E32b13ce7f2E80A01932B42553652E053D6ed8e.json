@@ -8,5 +8,6 @@
     "symbol": "Metis",
     "decimals": 18,
     "status": "active",
-    "cmc_id": 9640
+    "cmc_id": 9640,
+    "token_name": "MetisDAO"
 }

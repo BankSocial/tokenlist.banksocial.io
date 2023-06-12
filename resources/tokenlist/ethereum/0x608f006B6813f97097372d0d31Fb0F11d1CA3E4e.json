@@ -38,5 +38,6 @@
             "url": "https://cryptoads.exchange"
         }
     ],
-    "cmc_id": 4255
+    "cmc_id": 4255,
+    "token_name": "CryptoAds Marketplace"
 }

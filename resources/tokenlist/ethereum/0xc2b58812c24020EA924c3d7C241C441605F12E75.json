@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xc2b58812c24020EA924c3d7C241C441605F12E75",
     "status": "active",
     "id": "0xc2b58812c24020EA924c3d7C241C441605F12E75",
-    "cmc_id": 5441
+    "cmc_id": 5441,
+    "token_name": "Entherfound"
 }

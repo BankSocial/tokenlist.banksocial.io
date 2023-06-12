@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xa7DE087329BFcda5639247F96140f9DAbe3DeED1",
     "status": "active",
     "id": "0xa7DE087329BFcda5639247F96140f9DAbe3DeED1",
-    "cmc_id": 21963
+    "cmc_id": 21963,
+    "token_name": "STA"
 }

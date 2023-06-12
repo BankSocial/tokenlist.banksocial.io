@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x045Eb7e34e94B28C7A3641BC5e1A1F61f225Af9F",
     "status": "active",
     "id": "0x045Eb7e34e94B28C7A3641BC5e1A1F61f225Af9F",
-    "cmc_id": 5663
+    "cmc_id": 5663,
+    "token_name": "ZelaaPayAE"
 }

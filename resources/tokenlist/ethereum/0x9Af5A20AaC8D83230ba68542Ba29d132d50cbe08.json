@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x9Af5A20AaC8D83230ba68542Ba29d132d50cbe08",
     "status": "active",
     "id": "0x9Af5A20AaC8D83230ba68542Ba29d132d50cbe08",
-    "cmc_id": 21178
+    "cmc_id": 21178,
+    "token_name": "Metars Genesis"
 }

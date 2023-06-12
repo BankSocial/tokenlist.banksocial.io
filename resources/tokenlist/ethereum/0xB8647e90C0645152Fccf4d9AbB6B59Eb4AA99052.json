@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xB8647e90C0645152Fccf4d9AbB6B59Eb4AA99052",
     "status": "active",
     "id": "0xB8647e90C0645152Fccf4d9AbB6B59Eb4AA99052",
-    "cmc_id": 8561
+    "cmc_id": 8561,
+    "token_name": "KeyFi"
 }

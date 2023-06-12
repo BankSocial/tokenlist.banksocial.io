@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x5Cf04716BA20127F1E2297AdDCf4B5035000c9eb",
     "status": "active",
     "id": "0x5Cf04716BA20127F1E2297AdDCf4B5035000c9eb",
-    "cmc_id": 2780
+    "cmc_id": 2780,
+    "token_name": "NKN"
 }

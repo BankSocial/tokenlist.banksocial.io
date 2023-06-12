@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x26DB5439F651CAF491A87d48799dA81F191bDB6b",
     "status": "active",
     "id": "0x26DB5439F651CAF491A87d48799dA81F191bDB6b",
-    "cmc_id": 2855
+    "cmc_id": 2855,
+    "token_name": "CBC.network"
 }

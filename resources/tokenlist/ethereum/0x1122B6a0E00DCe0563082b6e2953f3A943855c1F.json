@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x1122B6a0E00DCe0563082b6e2953f3A943855c1F",
-    "cmc_id": 2585
+    "cmc_id": 2585,
+    "token_name": "CENNZnet"
 }

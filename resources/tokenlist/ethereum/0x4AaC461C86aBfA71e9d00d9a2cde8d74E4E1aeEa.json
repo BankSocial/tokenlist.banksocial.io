@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x4AaC461C86aBfA71e9d00d9a2cde8d74E4E1aeEa",
     "status": "active",
     "id": "0x4AaC461C86aBfA71e9d00d9a2cde8d74E4E1aeEa",
-    "cmc_id": 2883
+    "cmc_id": 2883,
+    "token_name": "ZINC"
 }

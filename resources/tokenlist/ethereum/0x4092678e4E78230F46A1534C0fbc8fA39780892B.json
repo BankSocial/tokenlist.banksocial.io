@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x4092678e4E78230F46A1534C0fbc8fA39780892B",
     "status": "active",
     "id": "0x4092678e4E78230F46A1534C0fbc8fA39780892B",
-    "cmc_id": 2458
+    "cmc_id": 2458,
+    "token_name": "Odyssey"
 }

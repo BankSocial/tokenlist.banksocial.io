@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x41dBECc1cdC5517C6f76f6a6E836aDbEe2754DE3",
     "status": "active",
     "id": "0x41dBECc1cdC5517C6f76f6a6E836aDbEe2754DE3",
-    "cmc_id": 2497
+    "cmc_id": 2497,
+    "token_name": "Medicalchain"
 }

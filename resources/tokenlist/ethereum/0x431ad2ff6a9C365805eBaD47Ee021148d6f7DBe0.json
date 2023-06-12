@@ -34,5 +34,6 @@
             "url": "https://coingecko.com/en/coins/dforce-token/"
         }
     ],
-    "cmc_id": 4758
+    "cmc_id": 4758,
+    "token_name": "dForce"
 }

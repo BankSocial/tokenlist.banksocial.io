@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x12f649A9E821F90BB143089a6e56846945892ffB",
     "status": "active",
     "id": "0x12f649A9E821F90BB143089a6e56846945892ffB",
-    "cmc_id": 3608
+    "cmc_id": 3608,
+    "token_name": "Hyprr"
 }

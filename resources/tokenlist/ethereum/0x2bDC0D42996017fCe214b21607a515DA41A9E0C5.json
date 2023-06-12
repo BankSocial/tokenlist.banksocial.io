@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x2bDC0D42996017fCe214b21607a515DA41A9E0C5",
     "status": "active",
     "id": "0x2bDC0D42996017fCe214b21607a515DA41A9E0C5",
-    "cmc_id": 1830
+    "cmc_id": 1830,
+    "token_name": "SkinCoin"
 }

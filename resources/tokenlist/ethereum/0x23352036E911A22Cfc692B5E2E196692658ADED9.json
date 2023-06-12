@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x23352036E911A22Cfc692B5E2E196692658ADED9",
     "status": "active",
     "id": "0x23352036E911A22Cfc692B5E2E196692658ADED9",
-    "cmc_id": 2626
+    "cmc_id": 2626,
+    "token_name": "Friendz"
 }

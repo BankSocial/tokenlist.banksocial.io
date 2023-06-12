@@ -41,5 +41,6 @@
             "url": "https://coingecko.com/en/coins/loopring/"
         }
     ],
-    "cmc_id": 1934
+    "cmc_id": 1934,
+    "token_name": "Loopring"
 }

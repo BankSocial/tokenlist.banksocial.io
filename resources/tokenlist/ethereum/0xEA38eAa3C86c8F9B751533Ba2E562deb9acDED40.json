@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xEA38eAa3C86c8F9B751533Ba2E562deb9acDED40",
     "status": "active",
     "id": "0xEA38eAa3C86c8F9B751533Ba2E562deb9acDED40",
-    "cmc_id": 2120
+    "cmc_id": 2120,
+    "token_name": "Etherparty"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x4e005a760e00e17c4912A8070EEc047CfecBabbb",
     "status": "active",
     "id": "0x4e005a760e00e17c4912A8070EEc047CfecBabbb",
-    "cmc_id": 23148
+    "cmc_id": 23148,
+    "token_name": "ShopNEXT"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x556148562d5DdeB72545D7EC4B3eC8edc8F55Ba7",
     "status": "active",
     "id": "0x556148562d5DdeB72545D7EC4B3eC8edc8F55Ba7",
-    "cmc_id": 6971
+    "cmc_id": 6971,
+    "token_name": "Predix Network"
 }

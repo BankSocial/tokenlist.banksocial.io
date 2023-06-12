@@ -18,5 +18,6 @@
             "url": "https://xbtc.fi/whitepaper.pdf"
         }
     ],
-    "cmc_id": 7168
+    "cmc_id": 7168,
+    "token_name": "xBTC"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x06e0feB0D74106c7adA8497754074D222Ec6BCDf",
     "status": "active",
     "id": "0x06e0feB0D74106c7adA8497754074D222Ec6BCDf",
-    "cmc_id": 3687
+    "cmc_id": 3687,
+    "token_name": "BitBall"
 }

@@ -8,5 +8,6 @@
     "decimals": 9,
     "status": "active",
     "id": "0x1341A2257fa7b770420Ef70616f888056f90926c",
-    "cmc_id": 10005
+    "cmc_id": 10005,
+    "token_name": "Zoo Token"
 }

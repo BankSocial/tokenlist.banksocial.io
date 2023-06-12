@@ -27,5 +27,6 @@
             "url": "https://coingecko.com/en/coins/uma/"
         }
     ],
-    "cmc_id": 5617
+    "cmc_id": 5617,
+    "token_name": "UMA"
 }

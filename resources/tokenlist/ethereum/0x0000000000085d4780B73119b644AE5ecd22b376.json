@@ -33,5 +33,6 @@
             "url": "https://coingecko.com/en/coins/true-usd/"
         }
     ],
-    "cmc_id": 2563
+    "cmc_id": 2563,
+    "token_name": "TrueUSD"
 }

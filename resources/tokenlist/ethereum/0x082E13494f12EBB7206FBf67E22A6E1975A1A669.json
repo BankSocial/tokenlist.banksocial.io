@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x082E13494f12EBB7206FBf67E22A6E1975A1A669",
     "status": "active",
     "id": "0x082E13494f12EBB7206FBf67E22A6E1975A1A669",
-    "cmc_id": 5008
+    "cmc_id": 5008,
+    "token_name": "Artis Turba"
 }

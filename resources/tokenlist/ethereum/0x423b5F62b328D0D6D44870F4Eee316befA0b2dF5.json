@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x423b5F62b328D0D6D44870F4Eee316befA0b2dF5",
     "status": "active",
     "id": "0x423b5F62b328D0D6D44870F4Eee316befA0b2dF5",
-    "cmc_id": 20035
+    "cmc_id": 20035,
+    "token_name": "Era7: Game of Truth"
 }

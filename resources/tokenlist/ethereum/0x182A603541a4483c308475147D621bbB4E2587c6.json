@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x182A603541a4483c308475147D621bbB4E2587c6",
     "status": "active",
     "id": "0x182A603541a4483c308475147D621bbB4E2587c6",
-    "cmc_id": 3351
+    "cmc_id": 3351,
+    "token_name": "ZB Token"
 }

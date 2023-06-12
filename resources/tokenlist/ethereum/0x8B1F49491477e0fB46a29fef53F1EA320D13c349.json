@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x8B1F49491477e0fB46a29fef53F1EA320D13c349",
     "status": "active",
     "id": "0x8B1F49491477e0fB46a29fef53F1EA320D13c349",
-    "cmc_id": 2286
+    "cmc_id": 2286,
+    "token_name": "MicroMoney"
 }

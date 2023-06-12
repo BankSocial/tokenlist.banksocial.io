@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x15B543e986b8c34074DFc9901136d9355a537e7E",
-    "cmc_id": 5966
+    "cmc_id": 5966,
+    "token_name": "Student Coin"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x41875C2332B0877cDFAA699B641402b7D4642c32",
     "status": "active",
     "id": "0x41875C2332B0877cDFAA699B641402b7D4642c32",
-    "cmc_id": 3219
+    "cmc_id": 3219,
+    "token_name": "FUTURAX"
 }

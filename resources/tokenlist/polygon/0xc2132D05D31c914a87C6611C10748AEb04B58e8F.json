@@ -22,5 +22,6 @@
             "url": "https://coinmarketcap.com/ru/currencies/tether/"
         }
     ],
-    "cmc_id": 825
+    "cmc_id": 825,
+    "token_name": "Tether"
 }

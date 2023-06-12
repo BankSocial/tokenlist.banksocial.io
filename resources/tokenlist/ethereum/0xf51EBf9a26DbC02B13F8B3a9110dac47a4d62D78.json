@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xf51EBf9a26DbC02B13F8B3a9110dac47a4d62D78",
     "status": "active",
     "id": "0xf51EBf9a26DbC02B13F8B3a9110dac47a4d62D78",
-    "cmc_id": 5258
+    "cmc_id": 5258,
+    "token_name": "APIX"
 }

@@ -21,5 +21,6 @@
             "url": "https://docs.perp.fi/"
         }
     ],
-    "cmc_id": 6950
+    "cmc_id": 6950,
+    "token_name": "Perpetual Protocol"
 }

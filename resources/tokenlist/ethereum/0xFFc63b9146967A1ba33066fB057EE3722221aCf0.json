@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xFFc63b9146967A1ba33066fB057EE3722221aCf0",
     "status": "active",
     "id": "0xFFc63b9146967A1ba33066fB057EE3722221aCf0",
-    "cmc_id": 3869
+    "cmc_id": 3869,
+    "token_name": "Alpha Token"
 }

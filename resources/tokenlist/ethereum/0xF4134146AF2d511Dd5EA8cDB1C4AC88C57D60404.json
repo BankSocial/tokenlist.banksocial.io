@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xF4134146AF2d511Dd5EA8cDB1C4AC88C57D60404",
     "status": "active",
     "id": "0xF4134146AF2d511Dd5EA8cDB1C4AC88C57D60404",
-    "cmc_id": 1786
+    "cmc_id": 1786,
+    "token_name": "SunContract"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xAAD54C9f27B876D2538455DdA69207279fF673a5",
     "status": "active",
     "id": "0xAAD54C9f27B876D2538455DdA69207279fF673a5",
-    "cmc_id": 3154
+    "cmc_id": 3154,
+    "token_name": "Davinci Coin"
 }

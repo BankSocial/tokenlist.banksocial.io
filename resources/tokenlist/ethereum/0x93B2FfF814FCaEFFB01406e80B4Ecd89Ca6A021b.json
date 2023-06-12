@@ -8,5 +8,6 @@
     "decimals": 9,
     "status": "active",
     "id": "0x93B2FfF814FCaEFFB01406e80B4Ecd89Ca6A021b",
-    "cmc_id": 8816
+    "cmc_id": 8816,
+    "token_name": "Grumpy.finance"
 }

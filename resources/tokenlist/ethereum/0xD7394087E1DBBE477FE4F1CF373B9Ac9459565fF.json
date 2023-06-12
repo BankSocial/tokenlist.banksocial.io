@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xD7394087E1DBBE477FE4F1CF373B9Ac9459565fF",
     "status": "active",
     "id": "0xD7394087E1DBBE477FE4F1CF373B9Ac9459565fF",
-    "cmc_id": 3280
+    "cmc_id": 3280,
+    "token_name": "RealTract"
 }

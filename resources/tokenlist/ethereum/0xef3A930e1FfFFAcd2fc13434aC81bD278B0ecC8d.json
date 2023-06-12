@@ -30,5 +30,6 @@
             "url": "https://t.me/stafi_protocol"
         }
     ],
-    "cmc_id": 5882
+    "cmc_id": 5882,
+    "token_name": "StaFi"
 }

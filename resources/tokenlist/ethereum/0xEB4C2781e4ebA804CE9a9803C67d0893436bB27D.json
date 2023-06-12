@@ -41,5 +41,6 @@
             "url": "https://coingecko.com/en/coins/renbtc/"
         }
     ],
-    "cmc_id": 5777
+    "cmc_id": 5777,
+    "token_name": "renBTC"
 }

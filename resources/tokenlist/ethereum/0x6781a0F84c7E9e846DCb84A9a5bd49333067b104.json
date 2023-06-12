@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x6781a0F84c7E9e846DCb84A9a5bd49333067b104",
     "status": "active",
     "id": "0x6781a0F84c7E9e846DCb84A9a5bd49333067b104",
-    "cmc_id": 2363
+    "cmc_id": 2363,
+    "token_name": "Zap"
 }

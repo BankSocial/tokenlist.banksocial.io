@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x1C1C14A6B5074905Ce5d367B0A7E098b58EbFD47",
     "status": "active",
     "id": "0x1C1C14A6B5074905Ce5d367B0A7E098b58EbFD47",
-    "cmc_id": 3800
+    "cmc_id": 3800,
+    "token_name": "FidexToken"
 }

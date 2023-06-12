@@ -31,5 +31,6 @@
             "url": "https://hybrix.io/en/docs/papers"
         }
     ],
-    "cmc_id": 6261
+    "cmc_id": 6261,
+    "token_name": "hybrix"
 }

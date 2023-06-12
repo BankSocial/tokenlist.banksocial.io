@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xbC647aAd10114B89564c0a7aabE542bd0cf2C5aF",
     "status": "active",
     "id": "0xbC647aAd10114B89564c0a7aabE542bd0cf2C5aF",
-    "cmc_id": 3506
+    "cmc_id": 3506,
+    "token_name": "IONChain"
 }

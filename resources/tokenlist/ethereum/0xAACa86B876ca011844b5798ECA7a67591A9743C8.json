@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xAACa86B876ca011844b5798ECA7a67591A9743C8",
     "status": "active",
     "id": "0xAACa86B876ca011844b5798ECA7a67591A9743C8",
-    "cmc_id": 1018
+    "cmc_id": 1018,
+    "token_name": "BiosCrypto"
 }

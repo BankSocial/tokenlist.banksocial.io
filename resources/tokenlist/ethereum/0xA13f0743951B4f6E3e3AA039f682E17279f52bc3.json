@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xA13f0743951B4f6E3e3AA039f682E17279f52bc3",
     "status": "active",
     "id": "0xA13f0743951B4f6E3e3AA039f682E17279f52bc3",
-    "cmc_id": 2624
+    "cmc_id": 2624,
+    "token_name": "Sentinel Chain"
 }

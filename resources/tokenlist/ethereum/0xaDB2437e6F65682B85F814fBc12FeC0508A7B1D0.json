@@ -34,5 +34,6 @@
             "url": "https://docs.unicrypt.network/"
         }
     ],
-    "cmc_id": 7664
+    "cmc_id": 7664,
+    "token_name": "UniCrypt"
 }

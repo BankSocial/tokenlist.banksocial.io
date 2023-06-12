@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x48c80F1f4D53D5951e5D5438B54Cba84f29F32a5",
     "status": "active",
     "id": "0x48c80F1f4D53D5951e5D5438B54Cba84f29F32a5",
-    "cmc_id": 1104
+    "cmc_id": 1104,
+    "token_name": "Augur"
 }

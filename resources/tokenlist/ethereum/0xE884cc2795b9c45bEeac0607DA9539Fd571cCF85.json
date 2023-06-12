@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xE884cc2795b9c45bEeac0607DA9539Fd571cCF85",
     "status": "active",
     "id": "0xE884cc2795b9c45bEeac0607DA9539Fd571cCF85",
-    "cmc_id": 3666
+    "cmc_id": 3666,
+    "token_name": "Ultiledger"
 }

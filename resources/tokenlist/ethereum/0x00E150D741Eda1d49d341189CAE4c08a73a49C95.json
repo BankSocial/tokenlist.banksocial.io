@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x00E150D741Eda1d49d341189CAE4c08a73a49C95",
     "status": "active",
     "id": "0x00E150D741Eda1d49d341189CAE4c08a73a49C95",
-    "cmc_id": 15829
+    "cmc_id": 15829,
+    "token_name": "INFAM"
 }

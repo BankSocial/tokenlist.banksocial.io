@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x6E605c269E0C92e70BEeB85486f1fC550f9380BD",
     "status": "active",
     "id": "0x6E605c269E0C92e70BEeB85486f1fC550f9380BD",
-    "cmc_id": 4045
+    "cmc_id": 4045,
+    "token_name": "Catex Token"
 }

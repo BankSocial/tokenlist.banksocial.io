@@ -37,5 +37,6 @@
             "url": "https://coingecko.com/en/coins/hoge-finance"
         }
     ],
-    "cmc_id": 8438
+    "cmc_id": 8438,
+    "token_name": "Hoge Finance"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x37F04d2C3AE075Fad5483bB918491F656B12BDB6",
     "status": "active",
     "id": "0x37F04d2C3AE075Fad5483bB918491F656B12BDB6",
-    "cmc_id": 3607
+    "cmc_id": 3607,
+    "token_name": "VestChain"
 }

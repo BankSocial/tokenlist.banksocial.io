@@ -33,5 +33,6 @@
             "url": "https://coingecko.com/coins/pleasure-coin"
         }
     ],
-    "cmc_id": 9840
+    "cmc_id": 9840,
+    "token_name": "Pleasure Coin"
 }

@@ -43,5 +43,6 @@
             "url": "https://coingecko.com/en/coins/aave/"
         }
     ],
-    "cmc_id": 7278
+    "cmc_id": 7278,
+    "token_name": "Aave"
 }

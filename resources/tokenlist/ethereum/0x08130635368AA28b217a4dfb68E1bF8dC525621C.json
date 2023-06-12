@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x08130635368AA28b217a4dfb68E1bF8dC525621C",
     "status": "active",
     "id": "0x08130635368AA28b217a4dfb68E1bF8dC525621C",
-    "cmc_id": 5135
+    "cmc_id": 5135,
+    "token_name": "AfroDex"
 }

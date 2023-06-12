@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xF0ACF8949e705E0ebb6CB42c2164B0B986454223",
     "status": "active",
     "id": "0xF0ACF8949e705E0ebb6CB42c2164B0B986454223",
-    "cmc_id": 6543
+    "cmc_id": 6543,
+    "token_name": "Barter"
 }

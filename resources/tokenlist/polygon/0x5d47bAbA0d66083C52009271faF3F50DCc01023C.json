@@ -50,5 +50,6 @@
             "url": "https://coingecko.com/en/coins/apeswap-finance"
         }
     ],
-    "cmc_id": 8497
+    "cmc_id": 8497,
+    "token_name": "ApeSwap"
 }

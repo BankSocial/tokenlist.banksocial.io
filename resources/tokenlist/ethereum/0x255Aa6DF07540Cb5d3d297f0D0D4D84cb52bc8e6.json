@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6",
     "status": "active",
     "id": "0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6",
-    "cmc_id": 2161
+    "cmc_id": 2161,
+    "token_name": "Raiden Network Token"
 }

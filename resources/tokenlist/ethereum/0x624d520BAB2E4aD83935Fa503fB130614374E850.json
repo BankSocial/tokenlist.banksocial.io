@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x624d520BAB2E4aD83935Fa503fB130614374E850",
     "status": "active",
     "id": "0x624d520BAB2E4aD83935Fa503fB130614374E850",
-    "cmc_id": 2862
+    "cmc_id": 2862,
+    "token_name": "Smartshare"
 }

@@ -22,5 +22,6 @@
             "url": "https://t.me/qcore_finance"
         }
     ],
-    "cmc_id": 7426
+    "cmc_id": 7426,
+    "token_name": "Qcore.Finance"
 }

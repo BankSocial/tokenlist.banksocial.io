@@ -8,5 +8,6 @@
     "decimals": 8,
     "status": "active",
     "id": "0xCE1298eF635326d9F197963E49E1E67422761897",
-    "cmc_id": 7833
+    "cmc_id": 7833,
+    "token_name": "PiSwap Token"
 }

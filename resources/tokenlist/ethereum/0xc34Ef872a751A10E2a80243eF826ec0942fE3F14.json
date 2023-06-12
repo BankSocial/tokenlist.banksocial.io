@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0xc34Ef872a751A10E2a80243eF826ec0942fE3F14",
-    "cmc_id": 1163
+    "cmc_id": 1163,
+    "token_name": "BitcoinUltra"
 }

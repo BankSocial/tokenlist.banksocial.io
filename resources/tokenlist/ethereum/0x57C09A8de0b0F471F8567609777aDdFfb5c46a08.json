@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x57C09A8de0b0F471F8567609777aDdFfb5c46a08",
     "status": "active",
     "id": "0x57C09A8de0b0F471F8567609777aDdFfb5c46a08",
-    "cmc_id": 3797
+    "cmc_id": 3797,
+    "token_name": "Bitex Global XBX Coin"
 }

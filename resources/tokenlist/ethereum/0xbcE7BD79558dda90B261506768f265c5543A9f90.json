@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0xbcE7BD79558dda90B261506768f265c5543A9f90",
-    "cmc_id": 7238
+    "cmc_id": 7238,
+    "token_name": "TKN Token"
 }

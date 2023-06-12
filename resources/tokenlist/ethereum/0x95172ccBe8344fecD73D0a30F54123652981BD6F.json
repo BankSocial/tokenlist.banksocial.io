@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x95172ccBe8344fecD73D0a30F54123652981BD6F",
     "status": "active",
     "id": "0x95172ccBe8344fecD73D0a30F54123652981BD6F",
-    "cmc_id": 6566
+    "cmc_id": 6566,
+    "token_name": "Meridian Network"
 }

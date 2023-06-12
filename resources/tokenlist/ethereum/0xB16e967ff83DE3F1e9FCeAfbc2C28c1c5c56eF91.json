@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0xB16e967ff83DE3F1e9FCeAfbc2C28c1c5c56eF91",
-    "cmc_id": 10626
+    "cmc_id": 10626,
+    "token_name": "Polkadog"
 }

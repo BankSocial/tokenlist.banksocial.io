@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x3166C570935a7D8554c8f4eA792ff965D2EFe1f2",
     "status": "active",
     "id": "0x3166C570935a7D8554c8f4eA792ff965D2EFe1f2",
-    "cmc_id": 4053
+    "cmc_id": 4053,
+    "token_name": "Q DAO Governance token v1.0"
 }

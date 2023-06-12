@@ -34,5 +34,6 @@
             "url": "https://coingecko.com/en/coins/ethos/"
         }
     ],
-    "cmc_id": 1817
+    "cmc_id": 1817,
+    "token_name": "Voyager Token"
 }

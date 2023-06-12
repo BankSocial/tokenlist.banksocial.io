@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xf05a9382A4C3F29E2784502754293D88b835109C",
     "status": "active",
     "id": "0xf05a9382A4C3F29E2784502754293D88b835109C",
-    "cmc_id": 1961
+    "cmc_id": 1961,
+    "token_name": "imbrex"
 }

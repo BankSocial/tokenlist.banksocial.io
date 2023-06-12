@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0xF1290473E210b2108A85237fbCd7b6eb42Cc654F",
-    "cmc_id": 3662
+    "cmc_id": 3662,
+    "token_name": "HedgeTrade"
 }

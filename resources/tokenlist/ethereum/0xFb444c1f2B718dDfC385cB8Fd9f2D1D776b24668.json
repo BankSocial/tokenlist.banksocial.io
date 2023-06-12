@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xFb444c1f2B718dDfC385cB8Fd9f2D1D776b24668",
     "status": "active",
     "id": "0xFb444c1f2B718dDfC385cB8Fd9f2D1D776b24668",
-    "cmc_id": 3734
+    "cmc_id": 3734,
+    "token_name": "Elamachain"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xB1A30851E3f7d841b231B086479608e17198363A",
     "status": "active",
     "id": "0xB1A30851E3f7d841b231B086479608e17198363A",
-    "cmc_id": 5336
+    "cmc_id": 5336,
+    "token_name": "Homeros"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xaD22f63404f7305e4713CcBd4F296f34770513f4",
     "status": "active",
     "id": "0xaD22f63404f7305e4713CcBd4F296f34770513f4",
-    "cmc_id": 3667
+    "cmc_id": 3667,
+    "token_name": "Atomic Wallet Coin"
 }

@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0xBF494F02EE3FdE1F20BEE6242bCe2d1ED0c15e47",
-    "cmc_id": 8366
+    "cmc_id": 8366,
+    "token_name": "World Token"
 }

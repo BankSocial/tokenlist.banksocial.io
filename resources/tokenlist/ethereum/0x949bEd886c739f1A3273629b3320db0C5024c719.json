@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x949bEd886c739f1A3273629b3320db0C5024c719",
     "status": "active",
     "id": "0x949bEd886c739f1A3273629b3320db0C5024c719",
-    "cmc_id": 1639
+    "cmc_id": 1639,
+    "token_name": "AMIS"
 }

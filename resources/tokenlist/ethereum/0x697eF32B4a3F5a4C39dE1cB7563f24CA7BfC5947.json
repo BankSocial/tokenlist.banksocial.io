@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x697eF32B4a3F5a4C39dE1cB7563f24CA7BfC5947",
     "status": "active",
     "id": "0x697eF32B4a3F5a4C39dE1cB7563f24CA7BfC5947",
-    "cmc_id": 5389
+    "cmc_id": 5389,
+    "token_name": "Insula"
 }

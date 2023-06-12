@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xd4c435F5B09F855C3317c8524Cb1F586E42795fa",
     "status": "active",
     "id": "0xd4c435F5B09F855C3317c8524Cb1F586E42795fa",
-    "cmc_id": 2043
+    "cmc_id": 2043,
+    "token_name": "Cindicator"
 }

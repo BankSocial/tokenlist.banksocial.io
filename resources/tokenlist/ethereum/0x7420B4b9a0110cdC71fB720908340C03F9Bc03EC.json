@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC",
-    "cmc_id": 8425
+    "cmc_id": 8425,
+    "token_name": "JasmyCoin"
 }

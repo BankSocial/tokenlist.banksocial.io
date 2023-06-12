@@ -62,5 +62,6 @@
             "url": "https://github.com/stakewise/contracts/blob/master/contracts/tokens/RewardEthToken.sol"
         }
     ],
-    "cmc_id": 18672
+    "cmc_id": 18672,
+    "token_name": "StakeWise"
 }

@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC",
-    "cmc_id": 2496
+    "cmc_id": 2496,
+    "token_name": "Polymath"
 }

@@ -34,5 +34,6 @@
             "url": "https://coingecko.com/en/coins/livepeer/"
         }
     ],
-    "cmc_id": 3640
+    "cmc_id": 3640,
+    "token_name": "Livepeer"
 }

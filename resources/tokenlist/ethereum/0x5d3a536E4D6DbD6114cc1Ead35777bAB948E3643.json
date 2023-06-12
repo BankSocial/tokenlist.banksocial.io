@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
     "status": "active",
     "id": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
-    "cmc_id": 5263
+    "cmc_id": 5263,
+    "token_name": "Compound Dai"
 }

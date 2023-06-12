@@ -50,5 +50,6 @@
             "url": "https://coingecko.com/en/coins/ridotto"
         }
     ],
-    "cmc_id": 12465
+    "cmc_id": 12465,
+    "token_name": "Ridotto"
 }

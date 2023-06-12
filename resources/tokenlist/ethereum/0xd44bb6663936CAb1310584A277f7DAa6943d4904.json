@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xd44bb6663936CAb1310584A277f7DAa6943d4904",
     "status": "active",
     "id": "0xd44bb6663936CAb1310584A277f7DAa6943d4904",
-    "cmc_id": 3669
+    "cmc_id": 3669,
+    "token_name": "Winco"
 }

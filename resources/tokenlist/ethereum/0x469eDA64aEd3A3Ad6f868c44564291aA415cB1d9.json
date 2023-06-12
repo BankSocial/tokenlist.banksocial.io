@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x469eDA64aEd3A3Ad6f868c44564291aA415cB1d9",
     "status": "active",
     "id": "0x469eDA64aEd3A3Ad6f868c44564291aA415cB1d9",
-    "cmc_id": 3029
+    "cmc_id": 3029,
+    "token_name": "Flux"
 }

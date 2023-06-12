@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xe96F2c381E267a96C29bbB8ab05AB7d3527b45Ab",
     "status": "active",
     "id": "0xe96F2c381E267a96C29bbB8ab05AB7d3527b45Ab",
-    "cmc_id": 5430
+    "cmc_id": 5430,
+    "token_name": "SatoExchange Token"
 }

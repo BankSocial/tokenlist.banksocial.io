@@ -8,5 +8,6 @@
     "decimals": 8,
     "status": "active",
     "id": "0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784",
-    "cmc_id": 7725
+    "cmc_id": 7725,
+    "token_name": "TrueFi"
 }

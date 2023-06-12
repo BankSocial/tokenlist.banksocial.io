@@ -34,5 +34,6 @@
         "staking-native",
         "wrapped"
     ],
-    "cmc_id": 16559
+    "cmc_id": 16559,
+    "token_name": "Cherry Network"
 }

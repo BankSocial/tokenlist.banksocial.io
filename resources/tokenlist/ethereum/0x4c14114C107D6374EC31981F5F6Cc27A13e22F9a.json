@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x4c14114C107D6374EC31981F5F6Cc27A13e22F9a",
     "status": "active",
     "id": "0x4c14114C107D6374EC31981F5F6Cc27A13e22F9a",
-    "cmc_id": 1183
+    "cmc_id": 1183,
+    "token_name": "Stress"
 }

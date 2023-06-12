@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xDB13025b219dB5e4529f48b65Ff009a26B6Ae733",
     "status": "active",
     "id": "0xDB13025b219dB5e4529f48b65Ff009a26B6Ae733",
-    "cmc_id": 4071
+    "cmc_id": 4071,
+    "token_name": "Ubricoin"
 }

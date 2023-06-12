@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x7C5A0CE9267ED19B22F8cae653F198e3E8daf098",
     "status": "active",
     "id": "0x7C5A0CE9267ED19B22F8cae653F198e3E8daf098",
-    "cmc_id": 1807
+    "cmc_id": 1807,
+    "token_name": "Santiment Network Token"
 }

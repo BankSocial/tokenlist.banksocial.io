@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x35f6B052C598d933D69A4EEC4D04c73A191fE6c2",
     "status": "active",
     "id": "0x35f6B052C598d933D69A4EEC4D04c73A191fE6c2",
-    "cmc_id": 5752
+    "cmc_id": 5752,
+    "token_name": "Aave SNX"
 }

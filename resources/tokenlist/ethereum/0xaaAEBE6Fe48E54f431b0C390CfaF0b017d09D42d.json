@@ -38,5 +38,6 @@
             "url": "https://coingecko.com/en/coins/celsius-degree-token/"
         }
     ],
-    "cmc_id": 2700
+    "cmc_id": 2700,
+    "token_name": "Celsius"
 }

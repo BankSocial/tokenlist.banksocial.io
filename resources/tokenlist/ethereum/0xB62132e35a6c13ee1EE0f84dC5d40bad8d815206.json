@@ -38,5 +38,6 @@
             "url": "https://coingecko.com/en/coins/nexo/"
         }
     ],
-    "cmc_id": 2694
+    "cmc_id": 2694,
+    "token_name": "Nexo"
 }

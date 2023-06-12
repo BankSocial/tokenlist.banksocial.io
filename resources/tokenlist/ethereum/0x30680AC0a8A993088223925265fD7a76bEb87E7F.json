@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x30680AC0a8A993088223925265fD7a76bEb87E7F",
     "status": "active",
     "id": "0x30680AC0a8A993088223925265fD7a76bEb87E7F",
-    "cmc_id": 3792
+    "cmc_id": 3792,
+    "token_name": "ARAW"
 }

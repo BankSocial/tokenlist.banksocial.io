@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xc690F7C7FcfFA6a82b79faB7508c466FEfdfc8c5",
     "status": "active",
     "id": "0xc690F7C7FcfFA6a82b79faB7508c466FEfdfc8c5",
-    "cmc_id": 2554
+    "cmc_id": 2554,
+    "token_name": "Lympo"
 }

@@ -55,5 +55,6 @@
             "url": "https://community.singularitynet.io/"
         }
     ],
-    "cmc_id": 2424
+    "cmc_id": 2424,
+    "token_name": "SingularityNET"
 }

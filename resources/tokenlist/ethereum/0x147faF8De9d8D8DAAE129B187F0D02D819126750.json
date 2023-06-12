@@ -14,5 +14,6 @@
             "url": "https://geodb.com/docs/geodb-white-paper.pdf"
         }
     ],
-    "cmc_id": 5590
+    "cmc_id": 5590,
+    "token_name": "GeoDB"
 }

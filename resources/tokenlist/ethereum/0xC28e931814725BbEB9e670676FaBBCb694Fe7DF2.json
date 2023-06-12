@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2",
     "status": "active",
     "id": "0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2",
-    "cmc_id": 3625
+    "cmc_id": 3625,
+    "token_name": "QuadrantProtocol"
 }

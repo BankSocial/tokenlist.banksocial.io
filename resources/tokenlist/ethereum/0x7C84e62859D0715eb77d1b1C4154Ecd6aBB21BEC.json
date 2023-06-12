@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x7C84e62859D0715eb77d1b1C4154Ecd6aBB21BEC",
     "status": "active",
     "id": "0x7C84e62859D0715eb77d1b1C4154Ecd6aBB21BEC",
-    "cmc_id": 3422
+    "cmc_id": 3422,
+    "token_name": "SHPING"
 }

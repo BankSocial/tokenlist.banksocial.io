@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x8E5610ab5E39d26828167640EA29823fe1dD5843",
     "status": "active",
     "id": "0x8E5610ab5E39d26828167640EA29823fe1dD5843",
-    "cmc_id": 2890
+    "cmc_id": 2890,
+    "token_name": "KanadeCoin"
 }

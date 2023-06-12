@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x3D46454212c61ECb7b31248047Fa033120B88668",
     "status": "active",
     "id": "0x3D46454212c61ECb7b31248047Fa033120B88668",
-    "cmc_id": 8861
+    "cmc_id": 8861,
+    "token_name": "Movement DAO"
 }

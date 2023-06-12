@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xA6446D655a0c34bC4F05042EE88170D056CBAf45",
     "status": "active",
     "id": "0xA6446D655a0c34bC4F05042EE88170D056CBAf45",
-    "cmc_id": 3842
+    "cmc_id": 3842,
+    "token_name": "Caspian"
 }

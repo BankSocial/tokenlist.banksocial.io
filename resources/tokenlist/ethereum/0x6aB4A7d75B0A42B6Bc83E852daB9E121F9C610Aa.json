@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x6aB4A7d75B0A42B6Bc83E852daB9E121F9C610Aa",
     "status": "active",
     "id": "0x6aB4A7d75B0A42B6Bc83E852daB9E121F9C610Aa",
-    "cmc_id": 3968
+    "cmc_id": 3968,
+    "token_name": "Elitium"
 }

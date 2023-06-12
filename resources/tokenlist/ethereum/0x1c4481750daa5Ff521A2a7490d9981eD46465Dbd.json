@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x1c4481750daa5Ff521A2a7490d9981eD46465Dbd",
     "status": "active",
     "id": "0x1c4481750daa5Ff521A2a7490d9981eD46465Dbd",
-    "cmc_id": 2061
+    "cmc_id": 2061,
+    "token_name": "Blockmason Credit Protocol"
 }

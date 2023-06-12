@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x43044f861ec040DB59A7e324c40507adDb673142",
-    "cmc_id": 5809
+    "cmc_id": 5809,
+    "token_name": "Cap"
 }

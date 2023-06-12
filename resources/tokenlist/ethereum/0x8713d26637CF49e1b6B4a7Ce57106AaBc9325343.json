@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x8713d26637CF49e1b6B4a7Ce57106AaBc9325343",
     "status": "active",
     "id": "0x8713d26637CF49e1b6B4a7Ce57106AaBc9325343",
-    "cmc_id": 2735
+    "cmc_id": 2735,
+    "token_name": "Content Neutrality Network"
 }

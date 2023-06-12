@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x639ae8F3EEd18690bF451229d14953a5A5627b72",
-    "cmc_id": 10632
+    "cmc_id": 10632,
+    "token_name": "Nimbus Governance Token"
 }

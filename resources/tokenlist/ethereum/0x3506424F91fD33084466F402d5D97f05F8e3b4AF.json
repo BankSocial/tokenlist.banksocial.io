@@ -37,5 +37,6 @@
             "url": "https://coingecko.com/en/coins/chiliz/"
         }
     ],
-    "cmc_id": 4066
+    "cmc_id": 4066,
+    "token_name": "Chiliz"
 }

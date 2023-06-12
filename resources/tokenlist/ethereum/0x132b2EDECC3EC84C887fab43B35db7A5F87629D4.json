@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x132b2edecc3ec84c887fab43b35db7a5f87629d4",
     "status": "active",
     "id": "0x132b2EDECC3EC84C887fab43B35db7A5F87629D4",
-    "cmc_id": 12122
+    "cmc_id": 12122,
+    "token_name": "BuffaloSwap"
 }

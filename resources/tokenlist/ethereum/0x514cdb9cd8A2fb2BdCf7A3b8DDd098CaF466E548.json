@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x514cdb9cd8A2fb2BdCf7A3b8DDd098CaF466E548",
     "status": "active",
     "id": "0x514cdb9cd8A2fb2BdCf7A3b8DDd098CaF466E548",
-    "cmc_id": 23233
+    "cmc_id": 23233,
+    "token_name": "Redpanda Earth (V2)"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x02F61Fd266DA6E8B102D4121f5CE7b992640CF98",
     "status": "active",
     "id": "0x02F61Fd266DA6E8B102D4121f5CE7b992640CF98",
-    "cmc_id": 2909
+    "cmc_id": 2909,
+    "token_name": "LikeCoin"
 }

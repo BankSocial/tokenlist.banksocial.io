@@ -29,5 +29,6 @@
             "url": "https://gather.network/whitepaper.html"
         }
     ],
-    "cmc_id": 7041
+    "cmc_id": 7041,
+    "token_name": "Gather"
 }

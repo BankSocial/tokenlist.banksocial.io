@@ -38,5 +38,6 @@
             "url": "https://coingecko.com/en/coins/bitdao"
         }
     ],
-    "cmc_id": 11221
+    "cmc_id": 11221,
+    "token_name": "BitDAO"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x2396FBC0e2E3AE4B7206EbDb5706e2a5920349CB",
     "status": "active",
     "id": "0x2396FBC0e2E3AE4B7206EbDb5706e2a5920349CB",
-    "cmc_id": 4681
+    "cmc_id": 4681,
+    "token_name": "Color Platform"
 }

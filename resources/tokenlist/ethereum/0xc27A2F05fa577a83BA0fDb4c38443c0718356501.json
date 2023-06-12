@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xc27A2F05fa577a83BA0fDb4c38443c0718356501",
     "status": "active",
     "id": "0xc27A2F05fa577a83BA0fDb4c38443c0718356501",
-    "cmc_id": 2337
+    "cmc_id": 2337,
+    "token_name": "Lamden"
 }

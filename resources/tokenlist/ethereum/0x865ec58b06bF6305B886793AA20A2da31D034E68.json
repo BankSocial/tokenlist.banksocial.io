@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x865ec58b06bF6305B886793AA20A2da31D034E68",
     "status": "active",
     "id": "0x865ec58b06bF6305B886793AA20A2da31D034E68",
-    "cmc_id": 2915
+    "cmc_id": 2915,
+    "token_name": "Moss Coin"
 }

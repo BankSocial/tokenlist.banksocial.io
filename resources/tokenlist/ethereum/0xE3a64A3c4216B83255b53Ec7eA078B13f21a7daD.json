@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xE3a64A3c4216B83255b53Ec7eA078B13f21a7daD",
     "status": "active",
     "id": "0xE3a64A3c4216B83255b53Ec7eA078B13f21a7daD",
-    "cmc_id": 7483
+    "cmc_id": 7483,
+    "token_name": "DeFi Gold"
 }

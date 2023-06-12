@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xf263292e14d9D8ECd55B58dAD1F1dF825a874b7c",
     "status": "active",
     "id": "0xf263292e14d9D8ECd55B58dAD1F1dF825a874b7c",
-    "cmc_id": 244
+    "cmc_id": 244,
+    "token_name": "EduCoin"
 }

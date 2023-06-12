@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xDf7FF54aAcAcbFf42dfe29DD6144A69b629f8C9e",
     "status": "active",
     "id": "0xDf7FF54aAcAcbFf42dfe29DD6144A69b629f8C9e",
-    "cmc_id": 5758
+    "cmc_id": 5758,
+    "token_name": "Aave ZRX"
 }

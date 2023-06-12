@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x67B6D479c7bB412C54e03dCA8E1Bc6740ce6b99C",
     "status": "active",
     "id": "0x67B6D479c7bB412C54e03dCA8E1Bc6740ce6b99C",
-    "cmc_id": 8644
+    "cmc_id": 8644,
+    "token_name": "Kylin"
 }

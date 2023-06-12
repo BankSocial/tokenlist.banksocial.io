@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xC8C424B91D8ce0137bAB4B832B7F7D154156BA6c",
     "status": "active",
     "id": "0xC8C424B91D8ce0137bAB4B832B7F7D154156BA6c",
-    "cmc_id": 5079
+    "cmc_id": 5079,
+    "token_name": "apM Coin"
 }

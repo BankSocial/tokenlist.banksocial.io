@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x9Ed8e7C9604790F7Ec589F99b94361d8AAB64E5E",
-    "cmc_id": 7512
+    "cmc_id": 7512,
+    "token_name": "Unistake"
 }

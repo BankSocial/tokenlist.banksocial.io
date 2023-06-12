@@ -38,5 +38,6 @@
         "defi",
         "staking"
     ],
-    "cmc_id": 8627
+    "cmc_id": 8627,
+    "token_name": "Flashstake"
 }

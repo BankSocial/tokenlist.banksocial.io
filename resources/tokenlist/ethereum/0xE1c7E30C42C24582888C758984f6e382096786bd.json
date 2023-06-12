@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xE1c7E30C42C24582888C758984f6e382096786bd",
     "status": "active",
     "id": "0xE1c7E30C42C24582888C758984f6e382096786bd",
-    "cmc_id": 7942
+    "cmc_id": 7942,
+    "token_name": "Curate"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x5c743a35E903F6c584514ec617ACEe0611Cf44f3",
     "status": "active",
     "id": "0x5c743a35E903F6c584514ec617ACEe0611Cf44f3",
-    "cmc_id": 2547
+    "cmc_id": 2547,
+    "token_name": "Experty"
 }

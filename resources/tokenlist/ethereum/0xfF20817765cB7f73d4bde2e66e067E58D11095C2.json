@@ -26,5 +26,6 @@
             "url": "https://coingecko.com/en/coins/amp-token/"
         }
     ],
-    "cmc_id": 6945
+    "cmc_id": 6945,
+    "token_name": "Amp"
 }

@@ -13,5 +13,6 @@
         "defi",
         "stablecoin"
     ],
-    "cmc_id": 9566
+    "cmc_id": 9566,
+    "token_name": "Liquity USD"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xE3F4b4A5d91e5cB9435B947F090A319737036312",
     "status": "active",
     "id": "0xE3F4b4A5d91e5cB9435B947F090A319737036312",
-    "cmc_id": 2902
+    "cmc_id": 2902,
+    "token_name": "POPCHAIN"
 }

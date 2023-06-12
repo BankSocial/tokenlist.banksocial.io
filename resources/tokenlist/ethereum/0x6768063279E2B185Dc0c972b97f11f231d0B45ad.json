@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x6768063279E2B185Dc0c972b97f11f231d0B45ad",
-    "cmc_id": 7498
+    "cmc_id": 7498,
+    "token_name": "Yield Protocol"
 }

@@ -8,5 +8,6 @@
     "decimals": 6,
     "status": "active",
     "id": "0x2B89bF8ba858cd2FCee1faDa378D5cd6936968Be",
-    "cmc_id": 8337
+    "cmc_id": 8337,
+    "token_name": "Secret (ERC20)"
 }

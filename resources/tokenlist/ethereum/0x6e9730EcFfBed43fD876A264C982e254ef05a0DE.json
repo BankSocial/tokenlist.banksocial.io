@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x6e9730ecffbed43fd876a264c982e254ef05a0de",
     "status": "active",
     "id": "0x6e9730EcFfBed43fD876A264C982e254ef05a0DE",
-    "cmc_id": 8143
+    "cmc_id": 8143,
+    "token_name": "Nord Finance"
 }

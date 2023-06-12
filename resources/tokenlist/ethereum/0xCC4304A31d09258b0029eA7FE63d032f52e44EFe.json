@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xCC4304A31d09258b0029eA7FE63d032f52e44EFe",
     "status": "active",
     "id": "0xCC4304A31d09258b0029eA7FE63d032f52e44EFe",
-    "cmc_id": 5829
+    "cmc_id": 5829,
+    "token_name": "TrustSwap"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xDBdDf072d7aae7B9288e31A4eebe6C54e3a143b1",
     "status": "active",
     "id": "0xDBdDf072d7aae7B9288e31A4eebe6C54e3a143b1",
-    "cmc_id": 9348
+    "cmc_id": 9348,
+    "token_name": "Crowny"
 }

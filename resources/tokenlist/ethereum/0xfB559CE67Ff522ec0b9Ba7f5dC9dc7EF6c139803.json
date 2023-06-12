@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xfB559CE67Ff522ec0b9Ba7f5dC9dc7EF6c139803",
     "status": "active",
     "id": "0xfB559CE67Ff522ec0b9Ba7f5dC9dc7EF6c139803",
-    "cmc_id": 4586
+    "cmc_id": 4586,
+    "token_name": "ProBit Token"
 }

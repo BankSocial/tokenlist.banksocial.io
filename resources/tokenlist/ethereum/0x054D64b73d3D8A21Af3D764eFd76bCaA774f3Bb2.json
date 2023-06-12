@@ -21,5 +21,6 @@
             "url": "https://docs.plasmapay.com/about/ppay-token"
         }
     ],
-    "cmc_id": 7870
+    "cmc_id": 7870,
+    "token_name": "Plasma Finance"
 }

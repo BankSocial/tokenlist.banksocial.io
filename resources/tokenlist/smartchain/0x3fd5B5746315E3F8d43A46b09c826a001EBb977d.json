@@ -1,1 +1,14 @@
-{'name': 'oxbull.tech', 'website': 'https://www.oxbull.tech', 'description': 'Charging the Future of Blockchains', 'explorer': 'https://bscscan.com/token/0x3fd5B5746315E3F8d43A46b09c826a001EBb977d', 'research': '', 'type': 'BEP20', 'symbol': 'OXB', 'decimals': 9, 'status': 'active', 'id': '0x3fd5B5746315E3F8d43A46b09c826a001EBb977d', 'cmc_id': 8649}
+{
+    "name": "oxbull.tech",
+    "website": "https://www.oxbull.tech",
+    "description": "Charging the Future of Blockchains",
+    "explorer": "https://bscscan.com/token/0x3fd5B5746315E3F8d43A46b09c826a001EBb977d",
+    "research": "",
+    "type": "BEP20",
+    "symbol": "OXB",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x3fd5B5746315E3F8d43A46b09c826a001EBb977d",
+    "cmc_id": 8649,
+    "token_name": "Oxbull.tech"
+}

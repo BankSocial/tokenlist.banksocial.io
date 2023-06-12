@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x5925f67d2767d937F47141DAC24166B469558222",
     "status": "active",
     "id": "0x5925f67d2767d937F47141DAC24166B469558222",
-    "cmc_id": 3823
+    "cmc_id": 3823,
+    "token_name": "OLXA"
 }

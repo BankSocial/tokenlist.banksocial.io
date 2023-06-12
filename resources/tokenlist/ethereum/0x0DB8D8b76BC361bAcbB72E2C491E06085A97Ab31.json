@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x0DB8D8b76BC361bAcbB72E2C491E06085A97Ab31",
     "status": "active",
     "id": "0x0DB8D8b76BC361bAcbB72E2C491E06085A97Ab31",
-    "cmc_id": 3336
+    "cmc_id": 3336,
+    "token_name": "IQeon"
 }

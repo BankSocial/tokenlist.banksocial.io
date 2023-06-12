@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
-    "cmc_id": 8085
+    "cmc_id": 8085,
+    "token_name": "Lido Staked ETH"
 }

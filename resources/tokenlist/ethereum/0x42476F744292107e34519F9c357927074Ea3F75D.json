@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x42476F744292107e34519F9c357927074Ea3F75D",
-    "cmc_id": 2588
+    "cmc_id": 2588,
+    "token_name": "Loom Network"
 }

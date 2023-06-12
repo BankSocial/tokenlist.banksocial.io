@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xB8366948B4A3F07BcBf14EB1739daA42A26b07c4",
     "status": "active",
     "id": "0xB8366948B4A3F07BcBf14EB1739daA42A26b07c4",
-    "cmc_id": 6947
+    "cmc_id": 6947,
+    "token_name": "Valobit"
 }

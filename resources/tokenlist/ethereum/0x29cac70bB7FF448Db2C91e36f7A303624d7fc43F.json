@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x29cac70bB7FF448Db2C91e36f7A303624d7fc43F",
     "status": "active",
     "id": "0x29cac70bB7FF448Db2C91e36f7A303624d7fc43F",
-    "cmc_id": 20696
+    "cmc_id": 20696,
+    "token_name": "MetaVerse-M"
 }

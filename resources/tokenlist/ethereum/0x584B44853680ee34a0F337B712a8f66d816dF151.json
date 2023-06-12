@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x584B44853680ee34a0F337B712a8f66d816dF151",
     "status": "active",
     "id": "0x584B44853680ee34a0F337B712a8f66d816dF151",
-    "cmc_id": 2357
+    "cmc_id": 2357,
+    "token_name": "AI Doctor"
 }

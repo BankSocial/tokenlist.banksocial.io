@@ -34,5 +34,6 @@
         "staking",
         "defi"
     ],
-    "cmc_id": 23285
+    "cmc_id": 23285,
+    "token_name": "Diversified Staked Ethereum Index"
 }

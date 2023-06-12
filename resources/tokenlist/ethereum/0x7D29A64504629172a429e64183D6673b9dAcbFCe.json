@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x7D29A64504629172a429e64183D6673b9dAcbFCe",
     "status": "active",
     "id": "0x7D29A64504629172a429e64183D6673b9dAcbFCe",
-    "cmc_id": 4441
+    "cmc_id": 4441,
+    "token_name": "Vectorspace AI"
 }

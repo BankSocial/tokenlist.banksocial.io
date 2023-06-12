@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421",
     "status": "active",
     "id": "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421",
-    "cmc_id": 8492
+    "cmc_id": 8492,
+    "token_name": "Vesper"
 }

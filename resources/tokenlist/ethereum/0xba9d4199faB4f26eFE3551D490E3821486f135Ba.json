@@ -38,5 +38,6 @@
             "url": "https://coingecko.com/en/coins/swissborg/"
         }
     ],
-    "cmc_id": 2499
+    "cmc_id": 2499,
+    "token_name": "SwissBorg"
 }

@@ -28,5 +28,6 @@
             "url": "https://freedomreserv.eth.link/img/FreedomReserveWhitepaper.pdf"
         }
     ],
-    "cmc_id": 7712
+    "cmc_id": 7712,
+    "token_name": "Freedom Reserve"
 }

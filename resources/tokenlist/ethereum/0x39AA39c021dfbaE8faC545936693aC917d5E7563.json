@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x39AA39c021dfbaE8faC545936693aC917d5E7563",
     "status": "active",
     "id": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
-    "cmc_id": 5265
+    "cmc_id": 5265,
+    "token_name": "Compound USD Coin"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x1014613E2B3CBc4d575054D4982E580d9b99d7B1",
     "status": "active",
     "id": "0x1014613E2B3CBc4d575054D4982E580d9b99d7B1",
-    "cmc_id": 3066
+    "cmc_id": 3066,
+    "token_name": "BitCapitalVendor"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x44197A4c44D6A059297cAf6be4F7e172BD56Caaf",
     "status": "active",
     "id": "0x44197A4c44D6A059297cAf6be4F7e172BD56Caaf",
-    "cmc_id": 2147
+    "cmc_id": 2147,
+    "token_name": "ELTCOIN"
 }

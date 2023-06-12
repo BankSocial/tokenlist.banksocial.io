@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x660e71483785f66133548B10f6926dC332b06e61",
     "status": "active",
     "id": "0x660e71483785f66133548B10f6926dC332b06e61",
-    "cmc_id": 1725
+    "cmc_id": 1725,
+    "token_name": "Adelphoi"
 }

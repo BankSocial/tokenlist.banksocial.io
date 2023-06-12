@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0xDe7D85157d9714EADf595045CC12Ca4A5f3E2aDb",
-    "cmc_id": 4006
+    "cmc_id": 4006,
+    "token_name": "STP"
 }

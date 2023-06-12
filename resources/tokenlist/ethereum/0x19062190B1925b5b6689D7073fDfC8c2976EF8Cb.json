@@ -58,5 +58,6 @@
         "privacy",
         "staking"
     ],
-    "cmc_id": 10293
+    "cmc_id": 10293,
+    "token_name": "Swarm"
 }

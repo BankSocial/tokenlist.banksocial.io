@@ -31,5 +31,6 @@
             "url": "https://coingecko.com/en/coins/maker/"
         }
     ],
-    "cmc_id": 1518
+    "cmc_id": 1518,
+    "token_name": "Maker"
 }

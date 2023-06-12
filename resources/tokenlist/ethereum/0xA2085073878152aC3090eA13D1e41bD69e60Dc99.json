@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0xA2085073878152aC3090eA13D1e41bD69e60Dc99",
-    "cmc_id": 10312
+    "cmc_id": 10312,
+    "token_name": "EscoinToken"
 }

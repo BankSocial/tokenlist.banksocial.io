@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x5cAf454Ba92e6F2c929DF14667Ee360eD9fD5b26",
     "status": "active",
     "id": "0x5cAf454Ba92e6F2c929DF14667Ee360eD9fD5b26",
-    "cmc_id": 5990
+    "cmc_id": 5990,
+    "token_name": "Dev Protocol"
 }

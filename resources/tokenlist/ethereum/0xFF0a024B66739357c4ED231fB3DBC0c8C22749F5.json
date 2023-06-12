@@ -9,5 +9,6 @@
     "decimals": 8,
     "status": "active",
     "id": "0xFF0a024B66739357c4ED231fB3DBC0c8C22749F5",
-    "cmc_id": 12683
+    "cmc_id": 12683,
+    "token_name": "Wrapped WRX"
 }

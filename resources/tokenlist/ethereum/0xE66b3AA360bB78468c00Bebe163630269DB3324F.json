@@ -34,5 +34,6 @@
             "url": "https://coingecko.com/en/coins/merchant-token"
         }
     ],
-    "cmc_id": 12395
+    "cmc_id": 12395,
+    "token_name": "Merchant Token"
 }

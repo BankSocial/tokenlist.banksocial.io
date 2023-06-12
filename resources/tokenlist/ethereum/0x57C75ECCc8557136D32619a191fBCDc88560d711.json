@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x57C75ECCc8557136D32619a191fBCDc88560d711",
     "status": "active",
     "id": "0x57C75ECCc8557136D32619a191fBCDc88560d711",
-    "cmc_id": 3205
+    "cmc_id": 3205,
+    "token_name": "VeriDocGlobal"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xb6EE9668771a79be7967ee29a63D4184F8097143",
     "status": "active",
     "id": "0xb6EE9668771a79be7967ee29a63D4184F8097143",
-    "cmc_id": 2490
+    "cmc_id": 2490,
+    "token_name": "CargoX"
 }

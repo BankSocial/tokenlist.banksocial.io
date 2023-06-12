@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x83869DE76B9Ad8125e22b857f519F001588c0f62",
     "status": "active",
     "id": "0x83869DE76B9Ad8125e22b857f519F001588c0f62",
-    "cmc_id": 4974
+    "cmc_id": 4974,
+    "token_name": "EXMO Coin"
 }

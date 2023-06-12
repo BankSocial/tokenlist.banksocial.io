@@ -35,5 +35,6 @@
         "nft",
         "staking"
     ],
-    "cmc_id": 15240
+    "cmc_id": 15240,
+    "token_name": "SENATE"
 }

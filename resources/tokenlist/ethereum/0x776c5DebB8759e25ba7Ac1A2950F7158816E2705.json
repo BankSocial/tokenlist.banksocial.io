@@ -15,5 +15,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x776c5DebB8759e25ba7Ac1A2950F7158816E2705",
-    "cmc_id": 6222
+    "cmc_id": 6222,
+    "token_name": "Bitdisk"
 }

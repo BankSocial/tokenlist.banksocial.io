@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x13339fD07934CD674269726EdF3B5ccEE9DD93de",
     "status": "active",
     "id": "0x13339fD07934CD674269726EdF3B5ccEE9DD93de",
-    "cmc_id": 5083
+    "cmc_id": 5083,
+    "token_name": "Curio"
 }

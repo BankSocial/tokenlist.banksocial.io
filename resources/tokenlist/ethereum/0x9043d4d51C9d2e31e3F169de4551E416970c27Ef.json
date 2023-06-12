@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x9043d4d51C9d2e31e3F169de4551E416970c27Ef",
-    "cmc_id": 6729
+    "cmc_id": 6729,
+    "token_name": "Prime DAI"
 }

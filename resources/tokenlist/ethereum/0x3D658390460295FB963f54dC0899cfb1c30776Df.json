@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x3D658390460295FB963f54dC0899cfb1c30776Df",
     "status": "active",
     "id": "0x3D658390460295FB963f54dC0899cfb1c30776Df",
-    "cmc_id": 788
+    "cmc_id": 788,
+    "token_name": "Circuits of Value"
 }

@@ -8,5 +8,6 @@
     "status": "active",
     "id": "0x69702cfd7DAd8bCcAA24D6B440159404AAA140F5",
     "website": "https://strike.org",
-    "cmc_id": 11096
+    "cmc_id": 11096,
+    "token_name": "Strike USDT"
 }

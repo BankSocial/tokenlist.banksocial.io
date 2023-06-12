@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x2baac9330Cf9aC479D819195794d79AD0c7616e3",
     "status": "active",
     "id": "0x2baac9330Cf9aC479D819195794d79AD0c7616e3",
-    "cmc_id": 2501
+    "cmc_id": 2501,
+    "token_name": "adbank"
 }

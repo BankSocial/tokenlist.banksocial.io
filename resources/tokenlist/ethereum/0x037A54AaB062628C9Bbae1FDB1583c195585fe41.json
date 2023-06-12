@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x037A54AaB062628C9Bbae1FDB1583c195585fe41",
     "status": "active",
     "id": "0x037A54AaB062628C9Bbae1FDB1583c195585fe41",
-    "cmc_id": 4950
+    "cmc_id": 4950,
+    "token_name": "LCX"
 }

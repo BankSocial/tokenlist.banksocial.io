@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x0b498ff89709d3838a063f1dfa463091f9801c2b",
     "status": "active",
     "id": "0x0B498ff89709d3838a063f1dFA463091F9801c2b",
-    "cmc_id": 16137
+    "cmc_id": 16137,
+    "token_name": "BTC 2x Flexible Leverage Index"
 }

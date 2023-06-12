@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0xEC213F83defB583af3A000B1c0ada660b1902A0F",
-    "cmc_id": 2245
+    "cmc_id": 2245,
+    "token_name": "Presearch"
 }

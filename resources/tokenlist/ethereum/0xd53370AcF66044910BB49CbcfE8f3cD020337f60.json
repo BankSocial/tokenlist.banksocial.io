@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xd53370AcF66044910BB49CbcfE8f3cD020337f60",
     "status": "active",
     "id": "0xd53370AcF66044910BB49CbcfE8f3cD020337f60",
-    "cmc_id": 2621
+    "cmc_id": 2621,
+    "token_name": "Sentient Coin"
 }

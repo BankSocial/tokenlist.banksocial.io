@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xf04a8ac553FceDB5BA99A64799155826C136b0Be",
     "status": "active",
     "id": "0xf04a8ac553FceDB5BA99A64799155826C136b0Be",
-    "cmc_id": 2231
+    "cmc_id": 2231,
+    "token_name": "Flixxo"
 }

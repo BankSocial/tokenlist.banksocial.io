@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x537edD52ebcb9F48ff2f8a28c51FCdB9D6a6E0D4",
-    "cmc_id": 9680
+    "cmc_id": 9680,
+    "token_name": "Small Doge"
 }

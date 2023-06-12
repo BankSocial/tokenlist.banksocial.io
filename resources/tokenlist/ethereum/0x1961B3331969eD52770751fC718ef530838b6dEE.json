@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x1961B3331969eD52770751fC718ef530838b6dEE",
     "status": "active",
     "id": "0x1961B3331969eD52770751fC718ef530838b6dEE",
-    "cmc_id": 301
+    "cmc_id": 301,
+    "token_name": "BadgerCoin"
 }

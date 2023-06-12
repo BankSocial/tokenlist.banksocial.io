@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x667088b212ce3d06a1b553a7221E1fD19000d9aF",
     "status": "active",
     "id": "0x667088b212ce3d06a1b553a7221E1fD19000d9aF",
-    "cmc_id": 1500
+    "cmc_id": 1500,
+    "token_name": "Wings"
 }

@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
-    "cmc_id": 3890
+    "cmc_id": 3890,
+    "token_name": "Polygon"
 }

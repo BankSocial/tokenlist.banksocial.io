@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x72e364F2ABdC788b7E918bc238B21f109Cd634D7",
     "status": "active",
     "id": "0x72e364F2ABdC788b7E918bc238B21f109Cd634D7",
-    "cmc_id": 9207
+    "cmc_id": 9207,
+    "token_name": "Metaverse Index"
 }

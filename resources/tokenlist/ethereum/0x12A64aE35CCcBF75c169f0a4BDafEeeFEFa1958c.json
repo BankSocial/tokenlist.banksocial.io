@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x12A64aE35CCcBF75c169f0a4BDafEeeFEFa1958c",
     "status": "active",
     "id": "0x12A64aE35CCcBF75c169f0a4BDafEeeFEFa1958c",
-    "cmc_id": 8497
+    "cmc_id": 8497,
+    "token_name": "ApeSwap"
 }

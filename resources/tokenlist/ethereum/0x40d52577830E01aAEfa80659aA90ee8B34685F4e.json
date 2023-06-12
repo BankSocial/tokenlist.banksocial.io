@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x40d52577830E01aAEfa80659aA90ee8B34685F4e",
     "status": "active",
     "id": "0x40d52577830E01aAEfa80659aA90ee8B34685F4e",
-    "cmc_id": 3872
+    "cmc_id": 3872,
+    "token_name": "Bilaxy Token"
 }

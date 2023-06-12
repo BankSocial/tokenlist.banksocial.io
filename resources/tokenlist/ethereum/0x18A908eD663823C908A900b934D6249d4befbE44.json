@@ -8,5 +8,6 @@
     "status": "active",
     "id": "0x18A908eD663823C908A900b934D6249d4befbE44",
     "website": "https://strike.org",
-    "cmc_id": 11094
+    "cmc_id": 11094,
+    "token_name": "Strike BUSD"
 }

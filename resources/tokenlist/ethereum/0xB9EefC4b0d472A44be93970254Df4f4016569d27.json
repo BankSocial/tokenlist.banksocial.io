@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xB9EefC4b0d472A44be93970254Df4f4016569d27",
     "status": "active",
     "id": "0xB9EefC4b0d472A44be93970254Df4f4016569d27",
-    "cmc_id": 4566
+    "cmc_id": 4566,
+    "token_name": "DigitalBits"
 }

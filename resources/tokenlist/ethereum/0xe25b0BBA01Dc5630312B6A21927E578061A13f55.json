@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xe25b0BBA01Dc5630312B6A21927E578061A13f55",
     "status": "active",
     "id": "0xe25b0BBA01Dc5630312B6A21927E578061A13f55",
-    "cmc_id": 2579
+    "cmc_id": 2579,
+    "token_name": "ShipChain"
 }

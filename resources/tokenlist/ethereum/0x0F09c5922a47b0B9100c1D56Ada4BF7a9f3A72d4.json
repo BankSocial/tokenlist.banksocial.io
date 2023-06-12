@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x0F09c5922a47b0B9100c1D56Ada4BF7a9f3A72d4",
     "status": "active",
     "id": "0x0F09c5922a47b0B9100c1D56Ada4BF7a9f3A72d4",
-    "cmc_id": 6603
+    "cmc_id": 6603,
+    "token_name": "UniTopia Token"
 }

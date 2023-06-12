@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x090185f2135308BaD17527004364eBcC2D37e5F6",
-    "cmc_id": 11289
+    "cmc_id": 11289,
+    "token_name": "Spell Token"
 }

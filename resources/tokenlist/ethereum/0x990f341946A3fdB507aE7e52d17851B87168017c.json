@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x990f341946A3fdB507aE7e52d17851B87168017c",
     "status": "active",
     "id": "0x990f341946A3fdB507aE7e52d17851B87168017c",
-    "cmc_id": 6511
+    "cmc_id": 6511,
+    "token_name": "Strong"
 }

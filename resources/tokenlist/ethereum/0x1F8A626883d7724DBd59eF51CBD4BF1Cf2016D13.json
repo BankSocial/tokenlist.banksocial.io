@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x1F8A626883d7724DBd59eF51CBD4BF1Cf2016D13",
     "status": "active",
     "id": "0x1F8A626883d7724DBd59eF51CBD4BF1Cf2016D13",
-    "cmc_id": 9441
+    "cmc_id": 9441,
+    "token_name": "Jigstack"
 }

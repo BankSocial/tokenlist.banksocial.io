@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x42726d074BBa68Ccc15200442B72Afa2D495A783",
     "status": "active",
     "id": "0x42726d074BBa68Ccc15200442B72Afa2D495A783",
-    "cmc_id": 5468
+    "cmc_id": 5468,
+    "token_name": "Isiklar Coin"
 }

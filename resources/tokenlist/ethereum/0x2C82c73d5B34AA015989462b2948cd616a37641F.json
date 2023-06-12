@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x2C82c73d5B34AA015989462b2948cd616a37641F",
     "status": "active",
     "id": "0x2C82c73d5B34AA015989462b2948cd616a37641F",
-    "cmc_id": 2382
+    "cmc_id": 2382,
+    "token_name": "Spectre.ai Utility Token"
 }

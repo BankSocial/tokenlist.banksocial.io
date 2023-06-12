@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x4b94c8567763654101F690Cf4d54957206383b75",
     "status": "active",
     "id": "0x4b94c8567763654101F690Cf4d54957206383b75",
-    "cmc_id": 3867
+    "cmc_id": 3867,
+    "token_name": "NeoWorld Cash"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x66fD97a78d8854fEc445cd1C80a07896B0b4851f",
     "status": "active",
     "id": "0x66fD97a78d8854fEc445cd1C80a07896B0b4851f",
-    "cmc_id": 4577
+    "cmc_id": 4577,
+    "token_name": "LunchMoney"
 }

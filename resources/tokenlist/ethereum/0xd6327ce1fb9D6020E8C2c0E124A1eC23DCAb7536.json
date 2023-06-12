@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xd6327ce1fb9D6020E8C2c0E124A1eC23DCAb7536",
     "status": "active",
     "id": "0xd6327ce1fb9D6020E8C2c0E124A1eC23DCAb7536",
-    "cmc_id": 10061
+    "cmc_id": 10061,
+    "token_name": "CumInu"
 }

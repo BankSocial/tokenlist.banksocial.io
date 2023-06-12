@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0xF989E16233ad1aD0F2aF739547eF92745341F52B",
-    "cmc_id": 20612
+    "cmc_id": 5678,
+    "token_name": "Coin Fella Token"
 }

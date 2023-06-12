@@ -25,5 +25,6 @@
             "url": "https://coinmarketcap.com/currencies/synapse-2/"
         }
     ],
-    "cmc_id": 12147
+    "cmc_id": 12147,
+    "token_name": "Synapse"
 }

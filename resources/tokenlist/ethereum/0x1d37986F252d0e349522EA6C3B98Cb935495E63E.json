@@ -19,5 +19,6 @@
             "url": "https://about.chartex.pro"
         }
     ],
-    "cmc_id": 6861
+    "cmc_id": 6861,
+    "token_name": "ChartEx"
 }

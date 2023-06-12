@@ -33,5 +33,6 @@
             "url": "https://coinmarketcap.com/currencies/keep-network/"
         }
     ],
-    "cmc_id": 5566
+    "cmc_id": 5566,
+    "token_name": "Keep Network"
 }

@@ -21,5 +21,6 @@
             "url": "https://coingecko.com/en/coins/x2y2"
         }
     ],
-    "cmc_id": 18106
+    "cmc_id": 18106,
+    "token_name": "X2Y2"
 }

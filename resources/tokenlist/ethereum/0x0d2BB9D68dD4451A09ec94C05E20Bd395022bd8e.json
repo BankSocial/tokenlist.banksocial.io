@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x0d2BB9D68dD4451A09ec94C05E20Bd395022bd8e",
     "status": "active",
     "id": "0x0d2BB9D68dD4451A09ec94C05E20Bd395022bd8e",
-    "cmc_id": 5087
+    "cmc_id": 5087,
+    "token_name": "CRYPTOBUCKS"
 }

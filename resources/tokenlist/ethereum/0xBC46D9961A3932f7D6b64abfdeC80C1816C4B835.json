@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xBC46D9961A3932f7D6b64abfdeC80C1816C4B835",
     "status": "active",
     "id": "0xBC46D9961A3932f7D6b64abfdeC80C1816C4B835",
-    "cmc_id": 3070
+    "cmc_id": 3070,
+    "token_name": "Litex"
 }

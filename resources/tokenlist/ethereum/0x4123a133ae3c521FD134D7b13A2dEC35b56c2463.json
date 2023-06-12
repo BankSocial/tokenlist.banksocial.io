@@ -50,5 +50,6 @@
             "url": "https://support.qredo.com/"
         }
     ],
-    "cmc_id": 10750
+    "cmc_id": 10750,
+    "token_name": "Qredo"
 }

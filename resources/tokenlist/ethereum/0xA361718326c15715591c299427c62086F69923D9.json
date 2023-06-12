@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xA361718326c15715591c299427c62086F69923D9",
     "status": "active",
     "id": "0xA361718326c15715591c299427c62086F69923D9",
-    "cmc_id": 5755
+    "cmc_id": 5755,
+    "token_name": "Aave BUSD"
 }

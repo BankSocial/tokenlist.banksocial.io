@@ -30,5 +30,6 @@
             "url": "https://coingecko.com/en/coins/pegaxy-stone"
         }
     ],
-    "cmc_id": 13030
+    "cmc_id": 13030,
+    "token_name": "Pegaxy"
 }

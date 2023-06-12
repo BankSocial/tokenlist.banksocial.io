@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x944eeE930933BE5E23b690c8589021Ec8619a301",
     "status": "active",
     "id": "0x944eeE930933BE5E23b690c8589021Ec8619a301",
-    "cmc_id": 9272
+    "cmc_id": 9272,
+    "token_name": "Munch Token"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x8c15Ef5b4B21951d50E53E4fbdA8298FFAD25057",
     "status": "active",
     "id": "0x8c15Ef5b4B21951d50E53E4fbdA8298FFAD25057",
-    "cmc_id": 3884
+    "cmc_id": 3884,
+    "token_name": "Function X"
 }

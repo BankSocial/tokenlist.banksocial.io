@@ -8,5 +8,6 @@
     "decimals": 9,
     "status": "active",
     "id": "0x7dE91B204C1C737bcEe6F000AAA6569Cf7061cb7",
-    "cmc_id": 4757
+    "cmc_id": 4757,
+    "token_name": "Robonomics.network"
 }

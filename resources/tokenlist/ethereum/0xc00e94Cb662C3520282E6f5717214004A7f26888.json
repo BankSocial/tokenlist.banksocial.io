@@ -26,5 +26,6 @@
             "url": "https://coingecko.com/en/coins/compound-governance-token/"
         }
     ],
-    "cmc_id": 5692
+    "cmc_id": 5692,
+    "token_name": "Compound"
 }

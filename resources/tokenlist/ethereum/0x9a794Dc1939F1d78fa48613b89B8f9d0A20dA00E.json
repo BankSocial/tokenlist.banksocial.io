@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x9a794Dc1939F1d78fa48613b89B8f9d0A20dA00E",
     "status": "active",
     "id": "0x9a794Dc1939F1d78fa48613b89B8f9d0A20dA00E",
-    "cmc_id": 3179
+    "cmc_id": 3179,
+    "token_name": "Arbidex"
 }

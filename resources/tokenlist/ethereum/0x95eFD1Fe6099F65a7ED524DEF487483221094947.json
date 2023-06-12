@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x95eFD1Fe6099F65a7ED524DEF487483221094947",
     "status": "active",
     "id": "0x95eFD1Fe6099F65a7ED524DEF487483221094947",
-    "cmc_id": 4253
+    "cmc_id": 4253,
+    "token_name": "CryptoBonusMiles"
 }

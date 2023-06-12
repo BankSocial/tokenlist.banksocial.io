@@ -31,5 +31,6 @@
             "url": "https://coingecko.com/en/coins/curve-dao-token/"
         }
     ],
-    "cmc_id": 6538
+    "cmc_id": 6538,
+    "token_name": "Curve DAO Token"
 }

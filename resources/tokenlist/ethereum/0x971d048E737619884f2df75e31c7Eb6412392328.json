@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x971d048E737619884f2df75e31c7Eb6412392328",
     "status": "active",
     "id": "0x971d048E737619884f2df75e31c7Eb6412392328",
-    "cmc_id": 4010
+    "cmc_id": 4010,
+    "token_name": "Sparkster"
 }

@@ -30,5 +30,6 @@
             "url": "https://coingecko.com/en/coins/frontier-token/"
         }
     ],
-    "cmc_id": 5893
+    "cmc_id": 5893,
+    "token_name": "Frontier"
 }

@@ -46,5 +46,6 @@
             "url": "https://coingecko.com/en/coins/naos-finance"
         }
     ],
-    "cmc_id": 9504
+    "cmc_id": 9504,
+    "token_name": "NAOS Finance"
 }

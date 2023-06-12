@@ -9,5 +9,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0xBA50933C268F567BDC86E1aC131BE072C6B0b71a",
-    "cmc_id": 4039
+    "cmc_id": 4039,
+    "token_name": "ARPA"
 }

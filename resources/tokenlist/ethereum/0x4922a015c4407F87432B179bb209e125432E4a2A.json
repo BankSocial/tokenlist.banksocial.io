@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x4922a015c4407F87432B179bb209e125432E4a2A",
     "status": "active",
     "id": "0x4922a015c4407F87432B179bb209e125432E4a2A",
-    "cmc_id": 5176
+    "cmc_id": 5176,
+    "token_name": "Tether Gold"
 }

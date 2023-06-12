@@ -34,5 +34,6 @@
             "url": "https://coingecko.com/en/coins/oneperl"
         }
     ],
-    "cmc_id": 12601
+    "cmc_id": 12601,
+    "token_name": "Stable PERL"
 }

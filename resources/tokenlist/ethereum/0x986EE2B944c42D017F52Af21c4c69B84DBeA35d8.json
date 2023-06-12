@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8",
     "status": "active",
     "id": "0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8",
-    "cmc_id": 2933
+    "cmc_id": 2933,
+    "token_name": "BitMart Token"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x701C244b988a513c945973dEFA05de933b23Fe1D",
     "status": "active",
     "id": "0x701C244b988a513c945973dEFA05de933b23Fe1D",
-    "cmc_id": 1853
+    "cmc_id": 1853,
+    "token_name": "OAX"
 }

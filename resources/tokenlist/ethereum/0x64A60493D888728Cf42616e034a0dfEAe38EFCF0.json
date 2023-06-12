@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x64A60493D888728Cf42616e034a0dfEAe38EFCF0",
     "status": "active",
     "id": "0x64A60493D888728Cf42616e034a0dfEAe38EFCF0",
-    "cmc_id": 2921
+    "cmc_id": 2921,
+    "token_name": "OneLedger"
 }

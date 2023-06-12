@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xbd1848e1491d4308Ad18287A745DD4DB2A4BD55B",
     "status": "active",
     "id": "0xbd1848e1491d4308Ad18287A745DD4DB2A4BD55B",
-    "cmc_id": 9440
+    "cmc_id": 9440,
+    "token_name": "Mochi Market"
 }

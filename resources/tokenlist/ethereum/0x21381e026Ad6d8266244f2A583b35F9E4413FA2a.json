@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x21381e026Ad6d8266244f2A583b35F9E4413FA2a",
-    "cmc_id": 10408
+    "cmc_id": 10408,
+    "token_name": "Formation Fi"
 }

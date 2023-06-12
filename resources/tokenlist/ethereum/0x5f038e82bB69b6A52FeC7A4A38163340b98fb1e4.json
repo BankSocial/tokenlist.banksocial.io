@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x5f038e82bB69b6A52FeC7A4A38163340b98fb1e4",
-    "cmc_id": 19376
+    "cmc_id": 19376,
+    "token_name": "Bitpaid Token"
 }

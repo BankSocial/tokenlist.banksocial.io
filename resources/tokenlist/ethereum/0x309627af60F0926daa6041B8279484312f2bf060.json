@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x309627af60F0926daa6041B8279484312f2bf060",
     "status": "active",
     "id": "0x309627af60F0926daa6041B8279484312f2bf060",
-    "cmc_id": 5219
+    "cmc_id": 5219,
+    "token_name": "USD Bancor"
 }

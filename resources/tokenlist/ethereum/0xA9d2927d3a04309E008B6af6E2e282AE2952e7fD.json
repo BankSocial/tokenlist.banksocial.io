@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xA9d2927d3a04309E008B6af6E2e282AE2952e7fD",
     "status": "active",
     "id": "0xA9d2927d3a04309E008B6af6E2e282AE2952e7fD",
-    "cmc_id": 2826
+    "cmc_id": 2826,
+    "token_name": "Zipper"
 }

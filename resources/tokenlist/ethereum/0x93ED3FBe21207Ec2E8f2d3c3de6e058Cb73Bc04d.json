@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
     "status": "active",
     "id": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
-    "cmc_id": 3581
+    "cmc_id": 3581,
+    "token_name": "Kleros"
 }

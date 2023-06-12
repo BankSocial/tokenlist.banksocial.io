@@ -33,5 +33,6 @@
             "url": "https://coingecko.com/en/coins/1inch/"
         }
     ],
-    "cmc_id": 8104
+    "cmc_id": 8104,
+    "token_name": "1inch Network"
 }

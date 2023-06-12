@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x41A3Dba3D677E573636BA691a70ff2D606c29666",
-    "cmc_id": 8695
+    "cmc_id": 8695,
+    "token_name": "BlockWallet"
 }

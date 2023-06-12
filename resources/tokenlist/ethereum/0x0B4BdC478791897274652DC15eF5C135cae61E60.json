@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x0B4BdC478791897274652DC15eF5C135cae61E60",
     "status": "active",
     "id": "0x0B4BdC478791897274652DC15eF5C135cae61E60",
-    "cmc_id": 2696
+    "cmc_id": 2696,
+    "token_name": "DAEX"
 }

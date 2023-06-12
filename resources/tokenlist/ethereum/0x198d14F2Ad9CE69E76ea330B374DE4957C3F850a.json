@@ -30,5 +30,6 @@
         "nft",
         "governance"
     ],
-    "cmc_id": 9816
+    "cmc_id": 9816,
+    "token_name": "APENFT"
 }

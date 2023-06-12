@@ -39,5 +39,6 @@
             "url": "https://coingecko.com/en/coins/dai/"
         }
     ],
-    "cmc_id": 4943
+    "cmc_id": 4943,
+    "token_name": "Dai"
 }

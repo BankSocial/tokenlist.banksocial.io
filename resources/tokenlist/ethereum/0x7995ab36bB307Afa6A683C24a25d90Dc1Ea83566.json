@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x7995ab36bB307Afa6A683C24a25d90Dc1Ea83566",
     "status": "active",
     "id": "0x7995ab36bB307Afa6A683C24a25d90Dc1Ea83566",
-    "cmc_id": 3182
+    "cmc_id": 3182,
+    "token_name": "HitChain"
 }

@@ -42,5 +42,6 @@
             "url": "https://coingecko.com/en/coins/bancor/"
         }
     ],
-    "cmc_id": 1727
+    "cmc_id": 1727,
+    "token_name": "Bancor"
 }

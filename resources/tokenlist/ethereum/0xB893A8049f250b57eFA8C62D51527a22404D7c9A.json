@@ -50,5 +50,6 @@
             "url": "https://coingecko.com/en/coins/american-shiba"
         }
     ],
-    "cmc_id": 9943
+    "cmc_id": 9943,
+    "token_name": "American Shiba"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x1735Db6AB5BAa19eA55d0AdcEeD7bcDc008B3136",
     "status": "active",
     "id": "0x1735Db6AB5BAa19eA55d0AdcEeD7bcDc008B3136",
-    "cmc_id": 9053
+    "cmc_id": 9053,
+    "token_name": "UREEQA"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x08Aa0ed0040736dd28d4c8B16Ab453b368248d19",
     "status": "active",
     "id": "0x08Aa0ed0040736dd28d4c8B16Ab453b368248d19",
-    "cmc_id": 3577
+    "cmc_id": 3577,
+    "token_name": "Platinum Ounce"
 }

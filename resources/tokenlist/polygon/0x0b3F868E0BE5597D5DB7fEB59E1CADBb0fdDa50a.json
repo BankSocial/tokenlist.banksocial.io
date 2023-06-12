@@ -26,5 +26,6 @@
             "url": "https://coingecko.com/en/coins/sushi/"
         }
     ],
-    "cmc_id": 6758
+    "cmc_id": 6758,
+    "token_name": "SushiSwap"
 }

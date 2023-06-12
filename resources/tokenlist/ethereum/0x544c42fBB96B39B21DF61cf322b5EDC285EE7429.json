@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429",
-    "cmc_id": 8799
+    "cmc_id": 8799,
+    "token_name": "InsurAce"
 }

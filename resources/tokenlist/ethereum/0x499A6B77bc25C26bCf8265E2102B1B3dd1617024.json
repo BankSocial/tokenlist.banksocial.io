@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x499A6B77bc25C26bCf8265E2102B1B3dd1617024",
     "status": "active",
     "id": "0x499A6B77bc25C26bCf8265E2102B1B3dd1617024",
-    "cmc_id": 4167
+    "cmc_id": 3256,
+    "token_name": "Bitether"
 }

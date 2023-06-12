@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x763186eB8d4856D536eD4478302971214FEbc6A9",
     "status": "active",
     "id": "0x763186eB8d4856D536eD4478302971214FEbc6A9",
-    "cmc_id": 2703
+    "cmc_id": 2703,
+    "token_name": "BetterBetting"
 }

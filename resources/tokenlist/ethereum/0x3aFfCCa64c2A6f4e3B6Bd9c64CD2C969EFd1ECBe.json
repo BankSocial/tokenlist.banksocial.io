@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x3aFfCCa64c2A6f4e3B6Bd9c64CD2C969EFd1ECBe",
     "status": "active",
     "id": "0x3aFfCCa64c2A6f4e3B6Bd9c64CD2C969EFd1ECBe",
-    "cmc_id": 5423
+    "cmc_id": 5423,
+    "token_name": "DSLA Protocol"
 }

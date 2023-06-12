@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xF70a642bD387F94380fFb90451C2c81d4Eb82CBc",
     "status": "active",
     "id": "0xF70a642bD387F94380fFb90451C2c81d4Eb82CBc",
-    "cmc_id": 2295
+    "cmc_id": 2295,
+    "token_name": "Starbase"
 }

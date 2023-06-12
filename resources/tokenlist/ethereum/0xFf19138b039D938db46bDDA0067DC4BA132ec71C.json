@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xFf19138b039D938db46bDDA0067DC4BA132ec71C",
     "status": "active",
     "id": "0xFf19138b039D938db46bDDA0067DC4BA132ec71C",
-    "cmc_id": 3435
+    "cmc_id": 3435,
+    "token_name": "Snetwork"
 }

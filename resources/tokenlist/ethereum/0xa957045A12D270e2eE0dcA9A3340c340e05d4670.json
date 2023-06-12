@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xa957045A12D270e2eE0dcA9A3340c340e05d4670",
     "status": "active",
     "id": "0xa957045A12D270e2eE0dcA9A3340c340e05d4670",
-    "cmc_id": 3785
+    "cmc_id": 3785,
+    "token_name": "AIDUS TOKEN"
 }

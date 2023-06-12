@@ -26,5 +26,6 @@
             "url": "https://coingecko.com/en/coins/chainlink/"
         }
     ],
-    "cmc_id": 1975
+    "cmc_id": 1975,
+    "token_name": "Chainlink"
 }

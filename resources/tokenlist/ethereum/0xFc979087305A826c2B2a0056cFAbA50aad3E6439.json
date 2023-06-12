@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0xFc979087305A826c2B2a0056cFAbA50aad3E6439",
     "status": "active",
     "id": "0xFc979087305A826c2B2a0056cFAbA50aad3E6439",
-    "cmc_id": 8874
+    "cmc_id": 8874,
+    "token_name": "DAFI Protocol"
 }

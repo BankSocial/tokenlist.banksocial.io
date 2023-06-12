@@ -8,5 +8,6 @@
     "explorer": "https://etherscan.io/token/0x737F98AC8cA59f2C68aD658E3C3d8C8963E40a4c",
     "status": "active",
     "id": "0x737F98AC8cA59f2C68aD658E3C3d8C8963E40a4c",
-    "cmc_id": 2705
+    "cmc_id": 2705,
+    "token_name": "Amon"
 }
