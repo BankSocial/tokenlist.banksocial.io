@@ -1,0 +1,20 @@
+{
+    "decimals": 8,
+    "icon": "/images/tokens/headstarter.svg",
+    "id": "0.0.968069",
+    "name": "HeadStarter",
+    "price": "18238958",
+    "priceUsd": 0.01180815,
+    "symbol": "HST",
+    "dueDiligenceComplete": true,
+    "isFeeOnTransferToken": false,
+    "description": "The HeadStarter decentralized application is optimized for the underlying distributed ledger technology and leverages the Hedera Smart Contract Service (HSCS) in conjunction with the Hedera Token Service (HTS) with the purpose of a wide Hedera ecosystem enablement by facilitating community awareness, visibility and the raise of capital in a fair and transparent manner.\n\nThe HeadStarter ecosystem is fueled by the native HeadStarter token - HST. The token is minted on the HTS, staying true to the project's ethos and leading the way in Hedera\u2019s visibility, interaction, and network growth. HST holders acquire privileges to participate in allowlist lotteries and potentially have access to sought after projects via IDO token launch. Although the HST token lives on the Hedera mainnet, it will be accessible across multiple DEXs and CEXs. \n\nThe incentivized HST token lock-up period will soon follow, where holders will receive additional perks, such as staking rewards. More utilities can be found in the project whitepaper and roadmap.",
+    "website": "https://headstarter.org/",
+    "sentinelReport": "https://sentinel.headstarter.org/details/headstarter",
+    "twitterHandle": "HeadStarterOrg",
+    "timestampSecondsLastListingChange": 0,
+    "cmc_id": 21019,
+    "token_name": "HeadStarter",
+    "type": "HEDERA",
+    "cmc_rank": 5058
+}

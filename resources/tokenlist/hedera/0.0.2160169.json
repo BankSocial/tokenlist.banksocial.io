@@ -1,0 +1,20 @@
+{
+    "decimals": 2,
+    "icon": null,
+    "id": "0.0.2160169",
+    "name": "Chain Token",
+    "price": "2310140",
+    "priceUsd": 0.00149562,
+    "symbol": "CHAIN",
+    "dueDiligenceComplete": false,
+    "isFeeOnTransferToken": false,
+    "description": "Chain token is the connection of all endeavours between -Degen Paradise and HashPot.",
+    "website": "https://chainhts.xyz/",
+    "sentinelReport": null,
+    "twitterHandle": "ChainHTS",
+    "timestampSecondsLastListingChange": 0,
+    "cmc_id": 6744,
+    "token_name": "Chain Token",
+    "type": "HEDERA",
+    "cmc_rank": 3950
+}

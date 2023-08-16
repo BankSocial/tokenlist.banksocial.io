@@ -1,0 +1,20 @@
+{
+    "decimals": 7,
+    "icon": "/images/tokens/sof.png",
+    "id": "0.0.1237128",
+    "name": "SOF",
+    "price": "141363965",
+    "priceUsd": 0.09152098,
+    "symbol": "SOF",
+    "dueDiligenceComplete": true,
+    "isFeeOnTransferToken": false,
+    "description": "SOF Center is a community driven Belgian organization, operational since 2012, with a network of over 3K members that support global transformation, entrepreneurship, truth, and awareness by guiding people through their processes for personal and spiritual growth. The SoF Community is supported by a native token called SOF.\n\nSOF is used by local organizations, businesses, and retail shops who are willing to offer the token as a loyalty reward to customers. The token can also been used as an on-chain medium of exchange, and can be swapped for fiat or other tokens on a DEX.\n\nThe SOF token is fully backed by the utility token HBAR as collateral. The collateral backed ratio (CBR) represents the backed value of the SOF token. It is a reference for people to know when the next batch of backed SOF tokens will come into circulation. A backed currency creates trust and stability. The CBR increases as more SOF tokens are backed by HBAR reserves and added to the liquidity pool on a DEX. When the CBR reaches 100%, the DRIP protocol will be triggered, which will begin the release of the next batch of SOF tokens to the Emission Wallet.",
+    "website": "https://sof.center/",
+    "sentinelReport": "https://sentinel.headstarter.org/details/sof",
+    "twitterHandle": "sof_center",
+    "timestampSecondsLastListingChange": 0,
+    "cmc_id": 15950,
+    "token_name": "SOF",
+    "type": "HEDERA",
+    "cmc_rank": null
+}

@@ -1,0 +1,20 @@
+{
+    "decimals": 3,
+    "icon": null,
+    "id": "0.0.2122292",
+    "name": "D\u00c4NKINU",
+    "price": "0",
+    "priceUsd": 0,
+    "symbol": "DINU",
+    "dueDiligenceComplete": false,
+    "isFeeOnTransferToken": false,
+    "description": "D\u00c4NK INU IS THE D\u00c4NKEST MEME INU TOKEN ON HEDERA HASHGRAPH",
+    "website": "https://discord.gg/htsdefi",
+    "sentinelReport": null,
+    "twitterHandle": null,
+    "timestampSecondsLastListingChange": 1680560570,
+    "cmc_id": 21551,
+    "token_name": "D\u00c4NKINU",
+    "type": "HEDERA",
+    "cmc_rank": 7166
+}

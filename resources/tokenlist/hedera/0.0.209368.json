@@ -1,0 +1,20 @@
+{
+    "decimals": 8,
+    "icon": "/images/tokens/siki.svg",
+    "id": "0.0.209368",
+    "name": "Siki",
+    "price": "0",
+    "priceUsd": 0,
+    "symbol": "SIKI",
+    "dueDiligenceComplete": false,
+    "isFeeOnTransferToken": false,
+    "description": "SIKI is a blockchain-based multimedia platform dedicated to building a more sustainable entertainment ecosystem. Founded in 2021, SIKI is created by young professionals and specialists who leveraged their experiences in the field of music, entertainment, technology, investment, and cryptocurrency, among many others, to create a revolutionary online community.\n\nAs the first of it's kind to be built on the Hedera network, SIKI looks to reinvent the current ecosystem of artists, influencers, and media curators. At its core, SIKI looks to increase monetization for all creators, while also rewarding community members for their engagement on the SIKI platform. For automated royalties and data collection, SIKI uses non-fungible tokens (NFTs) paired with other smart contracts. SIKI tokens, the Company\u2019s internal cryptocurrency, in addition to others, can used for tipping, royalty payment, staking, creating NFTs, buying NFTs, and much more. ",
+    "website": "https://www.siki.io/",
+    "sentinelReport": null,
+    "twitterHandle": "sikiapp",
+    "timestampSecondsLastListingChange": 0,
+    "cmc_id": 12968,
+    "token_name": "Siki",
+    "type": "HEDERA",
+    "cmc_rank": null
+}

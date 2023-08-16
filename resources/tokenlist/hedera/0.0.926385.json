@@ -1,0 +1,20 @@
+{
+    "decimals": 0,
+    "icon": "/images/tokens/cream.svg",
+    "id": "0.0.926385",
+    "name": "CREAM",
+    "price": "272316",
+    "priceUsd": 0.0001763,
+    "symbol": "CREAM",
+    "dueDiligenceComplete": true,
+    "isFeeOnTransferToken": false,
+    "description": "Creamies is a brand that descibes itself as the bridge between DeFi, NFTs, and degen games.\n\nStarting with their collection of 1,111 Korean inspired \u2018emoticon NFTs\u2019, they have also minted 111 Master Creamers NFTs, and most recently their 'Creamlands' collection. \n\nCREAM is the native token of the Creamies ecosystem.",
+    "website": "https://creamies.space/",
+    "sentinelReport": "https://sentinel.headstarter.org/details/creamies",
+    "twitterHandle": "CreamiesNFT",
+    "timestampSecondsLastListingChange": 0,
+    "cmc_id": 27058,
+    "token_name": "CREAM",
+    "type": "HEDERA",
+    "cmc_rank": null
+}

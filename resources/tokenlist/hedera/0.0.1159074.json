@@ -1,0 +1,20 @@
+{
+    "decimals": 8,
+    "icon": "/images/tokens/GRELF.png",
+    "id": "0.0.1159074",
+    "name": "GRELF",
+    "price": "79933374",
+    "priceUsd": 0.05174997,
+    "symbol": "GRELF",
+    "dueDiligenceComplete": true,
+    "isFeeOnTransferToken": false,
+    "description": "GRELF is a Hedera meme coin. The total supply is 6.6 million (6,666,666) and there are no keys. \n\nGRELF is based around a weird, unappealing, and frankly ugly character named Gerbert the Grelf who was created as a spin-off from the CREETS NFT project. The juxtaposition that is created by having his character as the mascot for a meme coin is found to be funny by some.\n\nThis is not a utility project; this project is about fun and weirdness.",
+    "website": "https://grelf.me/",
+    "sentinelReport": "https://sentinel.headstarter.org/details/grelf",
+    "twitterHandle": "GRELF_",
+    "timestampSecondsLastListingChange": 1677555875,
+    "cmc_id": 24191,
+    "token_name": "GRELF",
+    "type": "HEDERA",
+    "cmc_rank": 4980
+}

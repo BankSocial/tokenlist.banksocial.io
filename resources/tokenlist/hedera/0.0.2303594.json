@@ -1,0 +1,20 @@
+{
+    "decimals": 8,
+    "icon": "/images/tokens/inarigold.png",
+    "id": "0.0.2303594",
+    "name": "Inari Gold",
+    "price": "1690811871",
+    "priceUsd": 1.09465488,
+    "symbol": "INARI",
+    "dueDiligenceComplete": false,
+    "isFeeOnTransferToken": false,
+    "description": "Inari Gold is the \"Store of Value\" in the Foxy Fems NFT ecosystem. It is also used to provide rewards for $FOXY liquidity providers.",
+    "website": "https://foxyfems.com/blogs/project-news-updates/foxy-fems-foxy-token-litepaper",
+    "sentinelReport": null,
+    "twitterHandle": "Foxy_DeFi",
+    "timestampSecondsLastListingChange": 1684952459,
+    "cmc_id": 10809,
+    "token_name": "Inari Gold",
+    "type": "HEDERA",
+    "cmc_rank": null
+}

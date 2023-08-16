@@ -1,0 +1,20 @@
+{
+    "decimals": 0,
+    "icon": "/images/tokens/LIL.png",
+    "id": "0.0.1079680",
+    "name": "LIL",
+    "price": "162403",
+    "priceUsd": 0.00010514,
+    "symbol": "LIL",
+    "dueDiligenceComplete": false,
+    "isFeeOnTransferToken": false,
+    "description": "Lil Monkis are a family of 3,888 unique personable Lil Creatures that populate the Lil Universe.\n\nLIL is the fungible token powering the Lil Universe ecosystem.",
+    "website": "https://liluniverse.club/",
+    "sentinelReport": null,
+    "twitterHandle": "TheLilUniverse",
+    "timestampSecondsLastListingChange": 0,
+    "cmc_id": 11597,
+    "token_name": "LIL",
+    "type": "HEDERA",
+    "cmc_rank": null
+}

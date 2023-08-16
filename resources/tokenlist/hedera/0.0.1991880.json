@@ -1,0 +1,20 @@
+{
+    "decimals": 6,
+    "icon": "/images/tokens/iassets.png",
+    "id": "0.0.1991880",
+    "name": "iAssets",
+    "price": "335",
+    "priceUsd": 2.2e-07,
+    "symbol": "ASSET",
+    "dueDiligenceComplete": false,
+    "isFeeOnTransferToken": false,
+    "description": "iAssets is a decentralized autonomous organization (DAO) that aims to build the internet of assets by providing a platform that enables individuals to take control of their assets through the use of blockchain technology and decentralized applications. \n\nThe platform is powered by various technologies such as Arweave, BNB Chain, Ethereum, and Hedera Hashgraph; and it offers decentralized applications such as iAssets.Social and iAssets.Market. \n\niAssets also has a native token, ASSET, which provides passive income and enables community governance. With iAssets, individuals can own their assets, participate in community governance, and have free speech without censorship.",
+    "website": "https://iassets.org/",
+    "sentinelReport": "https://sentinel.headstarter.org/details/iassets",
+    "twitterHandle": "iassetsorg",
+    "timestampSecondsLastListingChange": 1677464624,
+    "cmc_id": 20344,
+    "token_name": "iAssets",
+    "type": "HEDERA",
+    "cmc_rank": 3830
+}

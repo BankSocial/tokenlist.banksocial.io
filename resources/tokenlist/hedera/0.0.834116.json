@@ -1,0 +1,20 @@
+{
+    "decimals": 8,
+    "icon": "/images/tokens/Hbarx.svg",
+    "id": "0.0.834116",
+    "name": "HBARX",
+    "price": "126194187",
+    "priceUsd": 0.08169985,
+    "symbol": "HBARX",
+    "dueDiligenceComplete": true,
+    "isFeeOnTransferToken": false,
+    "description": "Stader is a non-custodial smart contract-based staking platform that helps you conveniently discover and access staking solutions. They are building key staking middleware infrastructure for multiple PoS networks for retail crypto users, exchanges and custodians.\n\nHBARX is a Hedera Token Service (HTS) token that represents a user's share of the total HBAR pool deposited with Stader. As soon as a user deposits HBAR on the Stader smart contract, they receive newly minted HBARX, based on the exchange rate at the time of staking. As the HBAR rewards get added, the value of HBARX increases (w.r.t. HBAR).",
+    "website": "https://hedera.staderlabs.com/lt/hedera/",
+    "sentinelReport": "https://sentinel.headstarter.org/details/staderlabs",
+    "twitterHandle": "stader_hbar",
+    "timestampSecondsLastListingChange": 0,
+    "cmc_id": 23185,
+    "token_name": "HBARX",
+    "type": "HEDERA",
+    "cmc_rank": 2923
+}

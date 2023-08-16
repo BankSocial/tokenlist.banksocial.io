@@ -1,0 +1,20 @@
+{
+    "decimals": 6,
+    "icon": "/images/tokens/calaxy.svg",
+    "id": "0.0.859814",
+    "name": "Calaxy Tokens",
+    "price": "197728504",
+    "priceUsd": 0.12801216,
+    "symbol": "CLXY",
+    "dueDiligenceComplete": true,
+    "isFeeOnTransferToken": false,
+    "description": "The Creator\u2019s Galaxy Protocol is a decentralized, permissionless protocol dedicated to content creator monetization via the use of social tokens and NFTs. CLXY acts as governance and gas fees for The Creator\u2019s Galaxy Ecosystem. The Creator\u2019s Galaxy is the world\u2019s first protocol that incorporates both NFTs and social tokens.\n\nCalaxy App is the first application built on The Creator\u2019s Galaxy Protocol and serves as a Twitter-like/Instagram-like interface for Creators to create and sell digital assets Fans are able to buy Creator tokens directly within the application by using fiat (and eventually CLXY). Fans redeem these Creator tokens for familiar social media engagements like video calls, video messages, and exclusive content, making these the first Creator tokens with embedded utility. Over 200 celebrities, athletes, and influencers are pledged to launch their own social tokens via Calaxy App.",
+    "website": "https://www.calaxy.com/",
+    "sentinelReport": null,
+    "twitterHandle": "CalaxyApp",
+    "timestampSecondsLastListingChange": 0,
+    "cmc_id": 19841,
+    "token_name": "Calaxy Tokens",
+    "type": "HEDERA",
+    "cmc_rank": null
+}

@@ -1,0 +1,20 @@
+{
+    "decimals": 6,
+    "icon": "/images/tokens/rUSD.png",
+    "id": "0.0.1320271",
+    "name": "rUSD",
+    "price": "1824308938",
+    "priceUsd": 1.18108272,
+    "symbol": "rUSD",
+    "dueDiligenceComplete": false,
+    "isFeeOnTransferToken": true,
+    "description": "Rivia's rUSD is a low-cost settlement layer token that is tradeable across private and public decentralized distributed ledgers for Credit Unions, Banks, Businesses, their members, and their customers to circumvent traditional financial rails including card networks and ACH/Wire networks. Rivia reduces the reliance on legacy finance, lowering costs of doing business, and providing worldwide access to the American financial system for the unbanked and underbanked. \n\nWhen USD is traded for rUSD, every dollar goes directly into a credit union account.  Rivia does not buy instruments to leverage the liquidity and introduce risk. rUSD is always backed 1 to 1 with a dollar. rUSD stablecoin provides access to the most finacially secured, stable economy value the world has ever seen, the US Dollar. It utilizes liquidity distribution in Credit Unions for sovereignty, security and stability. Furthermore, the stablecoin is built from the ground up with a novel concept called PoR (\"Proof of Reserve\"). ",
+    "website": "https://rivia.finance/",
+    "sentinelReport": null,
+    "twitterHandle": "GetRivia",
+    "timestampSecondsLastListingChange": 0,
+    "cmc_id": 18303,
+    "token_name": "rUSD",
+    "type": "HEDERA",
+    "cmc_rank": null
+}

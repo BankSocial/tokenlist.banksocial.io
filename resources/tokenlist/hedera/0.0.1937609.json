@@ -1,0 +1,20 @@
+{
+    "decimals": 8,
+    "icon": "/images/tokens/HELI.png",
+    "id": "0.0.1937609",
+    "name": "HeliSwap",
+    "price": "10424881",
+    "priceUsd": 0.00674921,
+    "symbol": "HELI",
+    "dueDiligenceComplete": false,
+    "isFeeOnTransferToken": false,
+    "description": "HeliSwap is an open-source decentralized exchange (DEX) platform that supports tokens within the Hedera ecosystem.  HELI is HeliSwap's native token serving as a transferable representation of several utility functions attributed to it. This mainly includes Governance, liquidity, and staking. It is a token built using the Hedera Token Service (HTS). The HELI token will serve as the backbone of the DAO structure while also rewarding active users of the platform for participating.   There is a supply of 888,888,888 HELI tokens allocated to different buckets. These tokens will be released gradually over 5 years (60 months) following HeliSwap\u2019s emission schedule. The vesting period is linear and linked to time passed rather than blocks.",
+    "website": "https://www.heliswap.io/",
+    "sentinelReport": null,
+    "twitterHandle": "HeliSwap_DEX",
+    "timestampSecondsLastListingChange": 1679613357,
+    "cmc_id": 23643,
+    "token_name": "HeliSwap",
+    "type": "HEDERA",
+    "cmc_rank": null
+}

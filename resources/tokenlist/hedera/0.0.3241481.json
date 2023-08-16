@@ -1,0 +1,20 @@
+{
+    "decimals": 6,
+    "icon": "/images/tokens/GC.png",
+    "id": "0.0.3241481",
+    "name": "GCoin",
+    "price": "2037999",
+    "priceUsd": 0.00131943,
+    "symbol": "GC",
+    "dueDiligenceComplete": false,
+    "isFeeOnTransferToken": false,
+    "description": "We are an estate holding company that buys and rents out assets. Our token will be a crucial part in tokenizing not just our assets but other Estates assets also. When our platform is complete users will have the ability to yield there GCoin against individual properties. It will also be used for our learn to earn platform were users can read our academic books and complete tests to earn GCoin.",
+    "website": "https://www.gilmore-estates.com/",
+    "sentinelReport": null,
+    "twitterHandle": null,
+    "timestampSecondsLastListingChange": 1691193707,
+    "cmc_id": 26960,
+    "token_name": "GCoin",
+    "type": "HEDERA",
+    "cmc_rank": 3159
+}

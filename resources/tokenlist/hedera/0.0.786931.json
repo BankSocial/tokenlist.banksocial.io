@@ -1,0 +1,20 @@
+{
+    "decimals": 4,
+    "icon": "/images/tokens/Hsuite.png",
+    "id": "0.0.786931",
+    "name": "HbarSuite",
+    "price": "448543",
+    "priceUsd": 0.00029039,
+    "symbol": "HSUITE",
+    "dueDiligenceComplete": false,
+    "isFeeOnTransferToken": false,
+    "description": "HbarSuite is a suite of DeFi services built on top of the Hedera network. The team has developed a technology that offers an alternative to smart contracts: the Smart-Nodes.\n\nSmart-Nodes are highly customizable programs, deployed inside virtual images which can be hosted and decentralized through cloud computing environments (ex. Google Cloud, Amazon Web Services). Their purpose is to create a decentralized network of services that could leverage the Hedera Layer-1 functionalities, which are much more efficient and cost-effective compared to Ethereum-based environments. \n\nHSUITE is the layer-1 utility token used as gas for the Smart-Nodes and as governance token for DAO activities.",
+    "website": "https://www.hsuite.finance/",
+    "sentinelReport": null,
+    "twitterHandle": "HbarSuite",
+    "timestampSecondsLastListingChange": 0,
+    "cmc_id": 24790,
+    "token_name": "HbarSuite",
+    "type": "HEDERA",
+    "cmc_rank": 4387
+}

@@ -1,0 +1,20 @@
+{
+    "decimals": 6,
+    "icon": "/images/tokens/sauce.svg",
+    "id": "0.0.731861",
+    "name": "SAUCE",
+    "price": "35976184",
+    "priceUsd": 0.02329148,
+    "symbol": "SAUCE",
+    "dueDiligenceComplete": true,
+    "isFeeOnTransferToken": false,
+    "description": "SaucerSwap is an open source and non-custodial AMM protocol native to Hedera. Users can swap tokens, provide liquidity, farm, and stake in a fully permissionless environment.\n\nSAUCE is a transferable representation of attributed utility functions; namely, liquidity, staking, and governance, specified in the code. It is therefore designed to be a utility token essential to the SaucerSwap protocol. \n\n200 million SAUCE tokens were minted at genesis, while the remaining 800 million are brought into circulation according to the release schedule. The total supply of SAUCE is hard-capped and will not exceed 1 billion tokens. There are no lockup periods or private sales of the SAUCE token.\n\nSAUCE has the following essential utilities:\n\nGovernance - SaucerSwap will phase in a DAO, where SAUCE holders can create and vote on proposals to steer protocol development and management. Votes will be proportional to the amount of SAUCE in a user's account.\n\nStaking - the token plays an integral role in single-sided staking and Community Pools. Users can stake SAUCE to receive a percentage of swap fees, HBAR native staking rewards, and emissions. By staking SAUCE, a user immediately receives xSAUCE tokens as receipt of the liquidity they provided, which they can then add to liquidity pools or stake in Community Pools to stack their rewards. \n\nLiquidity - newly minted SAUCE serves as a liquidity mining incentive to offset impermanent loss and bootstrap liquidity on the protocol. \n\nPayments - SAUCE will serve as the exclusive method of payment for several SaucerSwap ecosystem integrations, including a subscription-based model that offers real-time notifications, insights, advanced analytics, and UX customization.",
+    "website": "https://www.saucerswap.finance/",
+    "sentinelReport": "https://sentinel.headstarter.org/details/saucerswap",
+    "twitterHandle": "SaucerSwapLabs",
+    "timestampSecondsLastListingChange": 0,
+    "cmc_id": 21914,
+    "token_name": "SAUCE",
+    "type": "HEDERA",
+    "cmc_rank": 2543
+}

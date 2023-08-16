@@ -1,43 +1,20 @@
 {
-    "admin_key": {
-        "_type": "ProtobufEncoded",
-        "key": "2ac902080512c4020a22122025075f86a93019a22420c845b14add02c7f80acce5ee63aa2476cc928247e53a0a2212205eca016e197434e11afd8008d39f83d2d6b7342dbb3745526b53dd4071f6eeeb0a2212201b44857eb54139c20c2b3d548d8f45308d546a7a974f666a90435d48969834f30a221220ec4f80087c309eaf50d814b504d2be08577149456470a6484f34984ccbbcf4af0a221220db439b30e19e66177dae79c4018e488ddeff2b62747ad2e4f7a8184cfd264a790a2212201e7129725857fbdae26ba032092c232fd3d720c60b0b292f25bea1166ca410b70a22122099ccf8a1f660d62f7268abe2b14357a4b11ab445ba04ccc7f3e842707b846a3f0a221220bf2468d0475d4a9bf002801b20504e5db7c3a9f0593096f311815767401c51d40a2212205b6dd26306ecdc89013f067613afd535384a7c3b6abd96f224444e391c7d5bba"
-    },
-    "auto_renew_account": "0.0.540286",
-    "auto_renew_period": 7890000,
-    "created_timestamp": "1657782324.183658000",
-    "custom_fees": {
-        "created_timestamp": "1657782324.183658000",
-        "fixed_fees": [],
-        "fractional_fees": []
-    },
-    "decimals": "6",
-    "deleted": false,
-    "expiry_timestamp": 1665672324183658000,
-    "fee_schedule_key": null,
-    "freeze_default": false,
-    "freeze_key": null,
-    "initial_supply": "0",
-    "kyc_key": null,
-    "max_supply": "0",
-    "memo": "",
-    "modified_timestamp": "1681436625.064279007",
+    "decimals": 6,
+    "icon": "/images/tokens/usdc.svg",
+    "id": "0.0.1055459",
     "name": "USD Coin",
-    "pause_key": {
-        "_type": "ProtobufEncoded",
-        "key": "2ac902080512c4020a22122025075f86a93019a22420c845b14add02c7f80acce5ee63aa2476cc928247e53a0a2212205eca016e197434e11afd8008d39f83d2d6b7342dbb3745526b53dd4071f6eeeb0a2212201b44857eb54139c20c2b3d548d8f45308d546a7a974f666a90435d48969834f30a221220ec4f80087c309eaf50d814b504d2be08577149456470a6484f34984ccbbcf4af0a221220db439b30e19e66177dae79c4018e488ddeff2b62747ad2e4f7a8184cfd264a790a2212201e7129725857fbdae26ba032092c232fd3d720c60b0b292f25bea1166ca410b70a22122099ccf8a1f660d62f7268abe2b14357a4b11ab445ba04ccc7f3e842707b846a3f0a221220bf2468d0475d4a9bf002801b20504e5db7c3a9f0593096f311815767401c51d40a2212205b6dd26306ecdc89013f067613afd535384a7c3b6abd96f224444e391c7d5bba"
-    },
-    "pause_status": "UNPAUSED",
-    "supply_key": {
-        "_type": "ProtobufEncoded",
-        "key": "2ac902080512c4020a22122025075f86a93019a22420c845b14add02c7f80acce5ee63aa2476cc928247e53a0a2212205eca016e197434e11afd8008d39f83d2d6b7342dbb3745526b53dd4071f6eeeb0a2212201b44857eb54139c20c2b3d548d8f45308d546a7a974f666a90435d48969834f30a221220ec4f80087c309eaf50d814b504d2be08577149456470a6484f34984ccbbcf4af0a221220db439b30e19e66177dae79c4018e488ddeff2b62747ad2e4f7a8184cfd264a790a2212201e7129725857fbdae26ba032092c232fd3d720c60b0b292f25bea1166ca410b70a22122099ccf8a1f660d62f7268abe2b14357a4b11ab445ba04ccc7f3e842707b846a3f0a221220bf2468d0475d4a9bf002801b20504e5db7c3a9f0593096f311815767401c51d40a2212205b6dd26306ecdc89013f067613afd535384a7c3b6abd96f224444e391c7d5bba"
-    },
-    "supply_type": "INFINITE",
+    "price": "1540538086",
+    "priceUsd": 0.99736556,
     "symbol": "USDC[hts]",
-    "token_id": "0.0.1055459",
-    "total_supply": "2369869729744",
-    "treasury_account_id": "0.0.540219",
-    "type": "FUNGIBLE_COMMON",
-    "wipe_key": null,
-    "cmc_id": 3408
+    "dueDiligenceComplete": true,
+    "isFeeOnTransferToken": false,
+    "description": "USDC is a fully collateralized U.S. dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. They believe by removing artificial economic borders, we can create a more inclusive global economy.\n\nNote: the [hts] subscript denotes that this asset has been bridged through hashport.",
+    "website": "https://www.circle.com/en/usdc-multichain/ethereum",
+    "sentinelReport": null,
+    "twitterHandle": "circle",
+    "timestampSecondsLastListingChange": 0,
+    "cmc_id": 3408,
+    "token_name": "USD Coin",
+    "type": "HEDERA",
+    "cmc_rank": 6
 }

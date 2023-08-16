@@ -1,0 +1,20 @@
+{
+    "decimals": 8,
+    "icon": "/images/tokens/karate.png",
+    "id": "0.0.2283230",
+    "name": "Karate",
+    "price": "1590590",
+    "priceUsd": 0.00102977,
+    "symbol": "KARATE",
+    "dueDiligenceComplete": false,
+    "isFeeOnTransferToken": false,
+    "description": "Karate Combat was born by two fans with a passion for mixed martial arts and technology. Since launch in 2019, their audience has grown significantly, welcoming over four million followers across social media and clocking in over 200 million digital views a month. Since inception, they have been thinking of ways to allow their fight community to be a direct part of the action as their athletes compete for glory and honor in the world of karate. This is why Karate Combat is embracing the latest advancements in internet-native technology to move league governance to a DAO format. \n\nA Decentralized Autonomous Organization (DAO) is a self-governing system that uses computer programs (smart contracts) to run itself. Karate Combat will be the first sports league structured to incorporate input from DAO in the league\u2019s processes for making key decisions. Products, orgs, and sports leagues built by the community can really live forever. \n\nThe KARATE token is the official digital currency in the KarateDAO and it gives a fan the power to vote to support their favorite fighters, vote on upcoming fights, take part in prize pools, and join exclusive events via Karate Combat's Up Only Gaming App. They want the league to be steered by the most active, informed fans and the best fighters. To make this happen, the Karate Combat founders intend for the KarateDAO to give up to half of all the KARATE tokens away for free over time to fans and athletes via airdrops and special giveaways.",
+    "website": "https://www.karate.com/",
+    "sentinelReport": null,
+    "twitterHandle": "KarateCombat",
+    "timestampSecondsLastListingChange": 1684953001,
+    "cmc_id": 25224,
+    "token_name": "Karate",
+    "type": "HEDERA",
+    "cmc_rank": 2870
+}

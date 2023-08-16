@@ -1,0 +1,20 @@
+{
+    "decimals": 6,
+    "icon": "/images/tokens/usdc.svg",
+    "id": "0.0.456858",
+    "name": "USD Coin",
+    "price": "1554389338",
+    "priceUsd": 1.00633306,
+    "symbol": "USDC",
+    "dueDiligenceComplete": true,
+    "isFeeOnTransferToken": false,
+    "description": "USDC is a fully collateralized U.S. dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. They believe by removing artificial economic borders, we can create a more inclusive global economy.",
+    "website": "https://www.circle.com/en/usdc-multichain/hedera",
+    "sentinelReport": null,
+    "twitterHandle": "circle",
+    "timestampSecondsLastListingChange": 0,
+    "cmc_id": 3408,
+    "token_name": "USD Coin",
+    "type": "HEDERA",
+    "cmc_rank": 6
+}

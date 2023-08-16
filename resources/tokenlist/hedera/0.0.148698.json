@@ -1,0 +1,20 @@
+{
+    "decimals": 5,
+    "icon": null,
+    "id": "0.0.148698",
+    "name": "Hashgraph Exchange",
+    "price": "0",
+    "priceUsd": 0,
+    "symbol": "HEX",
+    "dueDiligenceComplete": false,
+    "isFeeOnTransferToken": false,
+    "description": "HEX is a decentralized exchange (DEX) and digital asset manager built on the Hedera network. Currently, through the HEX Chrome extension, users can create new wallets and Non-Fugible Tokens (NFTs) on the Hedera mainnet, import, and manage existing wallets, and send and swap both fungible tokens and NFTs that are native to Hedera. \n\nIn the future, HEX aims to become a \"one-stop\" solution for decentralized finance (DeFi). Their financial services may include: cross-chain trading between Hedera and other smart contract platforms; fiat on-ramp; crypto lending / financing; and stocks, bonds, and currency trading.",
+    "website": "https://www.myhex.io/",
+    "sentinelReport": null,
+    "twitterHandle": "HashgraphX",
+    "timestampSecondsLastListingChange": 0,
+    "cmc_id": 5015,
+    "token_name": "Hashgraph Exchange",
+    "type": "HEDERA",
+    "cmc_rank": 209
+}

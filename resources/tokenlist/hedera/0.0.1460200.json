@@ -1,0 +1,20 @@
+{
+    "decimals": 6,
+    "icon": "/images/tokens/xsauce.svg",
+    "id": "0.0.1460200",
+    "name": "xSAUCE",
+    "price": "39730847",
+    "priceUsd": 0.0257223,
+    "symbol": "XSAUCE",
+    "dueDiligenceComplete": true,
+    "isFeeOnTransferToken": false,
+    "description": "SaucerSwap is an open source and non-custodial AMM protocol native to Hedera. Users can swap tokens, provide liquidity, farm, and stake in a fully permissionless environment.\n\nWhen a user stakes SAUCE in the Infinity Pool, they receive a liquid receipt token called xSAUCE based on the exchange rate at the time of staking. The ratio of xSAUCE to SAUCE began at 1:1 and increases over time as the Infinity Pool automatically compounds via SAUCE buybacks sourced from: \n\n1) Swap fees across all liquidity pools\n2) HBAR native staking rewards\n3) Emissions\n\nUsers can deposit xSAUCE in liquidity pools or stake it in Community Pools to earn HTS tokens from projects incubated by HeadStarter.",
+    "website": "https://www.saucerswap.finance/",
+    "sentinelReport": "https://sentinel.headstarter.org/details/saucerswap",
+    "twitterHandle": "SaucerSwapLabs",
+    "timestampSecondsLastListingChange": 0,
+    "cmc_id": 23069,
+    "token_name": "xSAUCE",
+    "type": "HEDERA",
+    "cmc_rank": 4415
+}

@@ -1,0 +1,20 @@
+{
+    "decimals": 2,
+    "icon": "/images/tokens/WHALE.png",
+    "id": "0.0.1144501",
+    "name": "WHALE",
+    "price": "290097",
+    "priceUsd": 0.00018781,
+    "symbol": "WHALE",
+    "dueDiligenceComplete": false,
+    "isFeeOnTransferToken": false,
+    "description": "CyberHedera is a cyberpunk-themed NFT project native to Hedera.\n\nIt started off as an art and community-based project that rewards its holders directly via profit sharing. The community owns 75% of CyberHedera. With their unique hand-drawn characters and NFTs, CH has grown and expanded as a brand and is now offering multiple utilities such as farming and staking with its own HTS Token (WHALE) and a P2E game in the near future.\n\nWHALE is the fuel token of the growing CyberHedera Ecosystem. It will be unlocked in batches as the project and ecosystem grows. Each release phase will last 6 months, before the team and the community choose to release more.",
+    "website": "https://www.cyberhedera.space/",
+    "sentinelReport": null,
+    "twitterHandle": "CyberHederaNFT",
+    "timestampSecondsLastListingChange": 0,
+    "cmc_id": 6679,
+    "token_name": "WHALE",
+    "type": "HEDERA",
+    "cmc_rank": 908
+}

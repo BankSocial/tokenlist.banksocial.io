@@ -1,0 +1,20 @@
+{
+    "decimals": 8,
+    "icon": "/images/tokens/tunefm.svg",
+    "id": "0.0.127877",
+    "name": "JAM",
+    "price": "405728",
+    "priceUsd": 0.00026267,
+    "symbol": "JAM",
+    "dueDiligenceComplete": true,
+    "isFeeOnTransferToken": false,
+    "description": "Tune.fm is a web3 decentralized music streaming platform and music NFT marketplace.\n\nThe native token of Tune.FM, JAM, is a native asset minted on the Hedera Token Service (HTS) and runs on the Hedera Hashgraph DLT. The token will enable creator and curator rewards to artists and fans in the form of borderless micropayments for streams and reviews. \n\nFor the first time, artists will be able to monetize individual streams directly from fans around the world via seamless micropayments in the form of JAM. No longer will credit card & banking fees get in the way of real earnings. The JAM token will operate as a democratized value exchange between artists and fans around the world. With DLT technology on Tune.FM, artists can monetize their music, incentivize reviews and grow their network.",
+    "website": "https://tune.fm/",
+    "sentinelReport": "https://sentinel.headstarter.org/details/tunefm",
+    "twitterHandle": "tunefmofficial",
+    "timestampSecondsLastListingChange": 0,
+    "cmc_id": 11420,
+    "token_name": "JAM",
+    "type": "HEDERA",
+    "cmc_rank": 3079
+}

@@ -1,0 +1,20 @@
+{
+    "decimals": 6,
+    "icon": "/images/tokens/nada.svg",
+    "id": "0.0.629591",
+    "name": "NaDa Protocol Token",
+    "price": "21260194",
+    "priceUsd": 0.01376414,
+    "symbol": "NADA",
+    "dueDiligenceComplete": false,
+    "isFeeOnTransferToken": false,
+    "description": "NADA Protocol Token is a Hedera-based reward token commonly used in an ecosystem involving blockchain-based NFT mobile games and metaverses, which are organically connected and developed and supplied by NADA digital Co., Ltd., one of the top 100 game developers in Korea.",
+    "website": "http://slimeworldnft.com/",
+    "sentinelReport": null,
+    "twitterHandle": "nadaslimeworld",
+    "timestampSecondsLastListingChange": 0,
+    "cmc_id": 21672,
+    "token_name": "NaDa Protocol Token",
+    "type": "HEDERA",
+    "cmc_rank": 2205
+}

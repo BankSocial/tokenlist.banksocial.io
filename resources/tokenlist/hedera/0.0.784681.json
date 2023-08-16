@@ -1,0 +1,20 @@
+{
+    "decimals": 0,
+    "icon": "/images/tokens/ett.svg",
+    "id": "0.0.784681",
+    "name": "Energy Trade Token",
+    "price": "674058",
+    "priceUsd": 0.00043639,
+    "symbol": "ETT",
+    "dueDiligenceComplete": false,
+    "isFeeOnTransferToken": false,
+    "description": "ETT (Also ETTR) is designed for IoT energy monitoring purposes, and to allow companies to accurately assess energy usage across large scale infrastructure for their ESG reporting requirements. The token can be used to trade with other tokens for carbon offset credits.",
+    "website": "https://energytrade.io",
+    "sentinelReport": null,
+    "twitterHandle": "_EnergyTrade_",
+    "timestampSecondsLastListingChange": 0,
+    "cmc_id": 6429,
+    "token_name": "Energy Trade Token",
+    "type": "HEDERA",
+    "cmc_rank": null
+}

@@ -1,0 +1,20 @@
+{
+    "decimals": 8,
+    "icon": "/images/tokens/hbar.svg",
+    "id": "0.0.1456986",
+    "name": "WHBAR [new]",
+    "price": "100000000",
+    "priceUsd": 0.06474138,
+    "symbol": "HBAR",
+    "dueDiligenceComplete": true,
+    "isFeeOnTransferToken": false,
+    "description": "Hedera is a public, open source, proof-of-stake network, with native cryptocurrency HBAR.  HBAR is used to pay application transaction fees and protect the network from attack through proof-of-stake. When HBAR is staked to network nodes, it has a weighted influence on consensus for validating transactions.  Developers use HBAR to pay for network services, such as transferring tokens, minting fungible and non-fungible tokens, calling smart contracts, and logging data. For every transaction submitted to the network, HBAR is used to pay fees that compensate validator nodes for bandwidth, compute, and storage.",
+    "website": "https://hedera.com/",
+    "sentinelReport": null,
+    "twitterHandle": "hedera",
+    "timestampSecondsLastListingChange": 0,
+    "cmc_id": 4642,
+    "token_name": "WHBAR [new]",
+    "type": "HEDERA",
+    "cmc_rank": 30
+}

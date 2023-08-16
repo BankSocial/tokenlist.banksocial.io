@@ -1,0 +1,20 @@
+{
+    "decimals": 8,
+    "icon": "/images/tokens/PBAR.webp",
+    "id": "0.0.1738930",
+    "name": "PBAR",
+    "price": "4509920",
+    "priceUsd": 0.00291978,
+    "symbol": "PBAR",
+    "dueDiligenceComplete": false,
+    "isFeeOnTransferToken": false,
+    "description": "Pangolin is a decentralized exchange (DEX) based on the Uniswap v2 constant product automated market maker (AMM). \n\nThe DAO\u2019s mission is to create a chain-agnostic exchange utilizing blockchains with low transaction costs, high transaction speed, and the bridge infrastructure for a cross-chain future. \n\nPangolin's native token on the Hedera network is called PBAR, which is used to create NFT positions to participate in governance by voting on proposals.",
+    "website": "https://www.pangolin.exchange/",
+    "sentinelReport": null,
+    "twitterHandle": "pangolindex",
+    "timestampSecondsLastListingChange": 1676960257,
+    "cmc_id": 26203,
+    "token_name": "PBAR",
+    "type": "HEDERA",
+    "cmc_rank": 6837
+}

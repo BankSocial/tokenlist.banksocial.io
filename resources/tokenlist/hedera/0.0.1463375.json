@@ -1,43 +1,20 @@
 {
-    "admin_key": {
-        "_type": "ProtobufEncoded",
-        "key": "2ac902080512c4020a22122025075f86a93019a22420c845b14add02c7f80acce5ee63aa2476cc928247e53a0a2212205eca016e197434e11afd8008d39f83d2d6b7342dbb3745526b53dd4071f6eeeb0a2212201b44857eb54139c20c2b3d548d8f45308d546a7a974f666a90435d48969834f30a221220ec4f80087c309eaf50d814b504d2be08577149456470a6484f34984ccbbcf4af0a221220db439b30e19e66177dae79c4018e488ddeff2b62747ad2e4f7a8184cfd264a790a2212201e7129725857fbdae26ba032092c232fd3d720c60b0b292f25bea1166ca410b70a22122099ccf8a1f660d62f7268abe2b14357a4b11ab445ba04ccc7f3e842707b846a3f0a221220bf2468d0475d4a9bf002801b20504e5db7c3a9f0593096f311815767401c51d40a2212205b6dd26306ecdc89013f067613afd535384a7c3b6abd96f224444e391c7d5bba"
-    },
-    "auto_renew_account": "0.0.540286",
-    "auto_renew_period": 7890000,
-    "created_timestamp": "1669894812.899264556",
-    "custom_fees": {
-        "created_timestamp": "1669894812.899264556",
-        "fixed_fees": [],
-        "fractional_fees": []
-    },
-    "decimals": "8",
-    "deleted": false,
-    "expiry_timestamp": 1677784812899264556,
-    "fee_schedule_key": null,
-    "freeze_default": false,
-    "freeze_key": null,
-    "initial_supply": "0",
-    "kyc_key": null,
-    "max_supply": "0",
-    "memo": "",
-    "modified_timestamp": "1681356391.735650450",
+    "decimals": 8,
+    "icon": "/images/tokens/SD.png",
+    "id": "0.0.1463375",
     "name": "Stader",
-    "pause_key": {
-        "_type": "ProtobufEncoded",
-        "key": "2ac902080512c4020a22122025075f86a93019a22420c845b14add02c7f80acce5ee63aa2476cc928247e53a0a2212205eca016e197434e11afd8008d39f83d2d6b7342dbb3745526b53dd4071f6eeeb0a2212201b44857eb54139c20c2b3d548d8f45308d546a7a974f666a90435d48969834f30a221220ec4f80087c309eaf50d814b504d2be08577149456470a6484f34984ccbbcf4af0a221220db439b30e19e66177dae79c4018e488ddeff2b62747ad2e4f7a8184cfd264a790a2212201e7129725857fbdae26ba032092c232fd3d720c60b0b292f25bea1166ca410b70a22122099ccf8a1f660d62f7268abe2b14357a4b11ab445ba04ccc7f3e842707b846a3f0a221220bf2468d0475d4a9bf002801b20504e5db7c3a9f0593096f311815767401c51d40a2212205b6dd26306ecdc89013f067613afd535384a7c3b6abd96f224444e391c7d5bba"
-    },
-    "pause_status": "UNPAUSED",
-    "supply_key": {
-        "_type": "ProtobufEncoded",
-        "key": "2ac902080512c4020a22122025075f86a93019a22420c845b14add02c7f80acce5ee63aa2476cc928247e53a0a2212205eca016e197434e11afd8008d39f83d2d6b7342dbb3745526b53dd4071f6eeeb0a2212201b44857eb54139c20c2b3d548d8f45308d546a7a974f666a90435d48969834f30a221220ec4f80087c309eaf50d814b504d2be08577149456470a6484f34984ccbbcf4af0a221220db439b30e19e66177dae79c4018e488ddeff2b62747ad2e4f7a8184cfd264a790a2212201e7129725857fbdae26ba032092c232fd3d720c60b0b292f25bea1166ca410b70a22122099ccf8a1f660d62f7268abe2b14357a4b11ab445ba04ccc7f3e842707b846a3f0a221220bf2468d0475d4a9bf002801b20504e5db7c3a9f0593096f311815767401c51d40a2212205b6dd26306ecdc89013f067613afd535384a7c3b6abd96f224444e391c7d5bba"
-    },
-    "supply_type": "INFINITE",
+    "price": "1165140563",
+    "priceUsd": 0.75432804,
     "symbol": "SD[hts]",
-    "token_id": "0.0.1463375",
-    "total_supply": "5755833547007",
-    "treasury_account_id": "0.0.540219",
-    "type": "FUNGIBLE_COMMON",
-    "wipe_key": null,
-    "cmc_id": 12623
+    "dueDiligenceComplete": true,
+    "isFeeOnTransferToken": false,
+    "description": "Stader is building key staking middleware infrastructure for multiple PoS networks for retail crypto users, exchanges and custodians. Stader is building modular smart contracts so third parties can leverage their components and build custom solutions.\n\nStader (SD) token is the native governance and value accrual token for Stader. Stader has established key mechanics that make SD tokens intrinsically tied to the Stader platform.\n\nValue Capture for SD Token:\nStader charges a % of rewards as fees and the fees is the key revenue source for Stader platform. The fees charged will be in the range 3-10% of the rewards based on type of solution (if elected by governance). A portion of the protocol fees will be paid to SD token stakers.\n\nNote: the [hts] subscript denotes that this asset has been bridged through hashport.",
+    "website": "https://www.staderlabs.com/",
+    "sentinelReport": null,
+    "twitterHandle": "staderlabs",
+    "timestampSecondsLastListingChange": 0,
+    "cmc_id": 12623,
+    "token_name": "Stader",
+    "type": "HEDERA",
+    "cmc_rank": 558
 }

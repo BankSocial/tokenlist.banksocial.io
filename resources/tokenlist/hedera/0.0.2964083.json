@@ -1,0 +1,20 @@
+{
+    "decimals": 0,
+    "icon": "/images/tokens/LOT.png",
+    "id": "0.0.2964083",
+    "name": "Lotto",
+    "price": "1182944168",
+    "priceUsd": 0.76585434,
+    "symbol": "LOT",
+    "dueDiligenceComplete": false,
+    "isFeeOnTransferToken": false,
+    "description": "LOT is the native coin of LOTS. LOT will be used for airdrops to community members that own Lotto nft tickets.",
+    "website": "https://www.lotto-nfts.com/",
+    "sentinelReport": null,
+    "twitterHandle": null,
+    "timestampSecondsLastListingChange": 1686897532,
+    "cmc_id": 82,
+    "token_name": "Lotto",
+    "type": "HEDERA",
+    "cmc_rank": null
+}

@@ -1,0 +1,20 @@
+{
+    "decimals": 4,
+    "icon": null,
+    "id": "0.0.2137254",
+    "name": "GOAT",
+    "price": "47",
+    "priceUsd": 3e-08,
+    "symbol": "GOAT",
+    "dueDiligenceComplete": false,
+    "isFeeOnTransferToken": false,
+    "description": "HashGoatts is a pfp nft project that are made to help people express themselves. When someone wears our pfp nft they are able to feel like the greatest of all time! Everyone is a GOAT in their own way and were are here to help them express that feeling.",
+    "website": "https://hashgoatts.wixsite.com/hashgoatts",
+    "sentinelReport": null,
+    "twitterHandle": "HashGoatts",
+    "timestampSecondsLastListingChange": 0,
+    "cmc_id": 9069,
+    "token_name": "GOAT",
+    "type": "HEDERA",
+    "cmc_rank": 6957
+}
