@@ -36704,61 +36704,61 @@
     "token_name": "Beefy Finance",
     "cmc_rank": 529
   },
-  "USDC-USD Coin-HEDERA-USD Coin": {
+  "USDC[hts]-USD Coin-HEDERA-USD Coin": {
     "decimals": 6,
-    "id": "0.0.456858",
+    "id": "0.0.1055459",
     "name": "USD Coin",
-    "symbol": "USDC",
+    "symbol": "USDC[hts]",
     "cmc_id": 3408,
     "token_name": "USD Coin",
     "type": "HEDERA",
     "cmc_rank": 6
   },
-  "USDT-Tether USD-HEDERA-Tether USD": {
+  "USDT[hts]-Tether USD-HEDERA-Tether USD": {
     "decimals": 6,
     "id": "0.0.1055472",
     "name": "Tether USD",
-    "symbol": "USDT",
+    "symbol": "USDT[hts]",
     "cmc_id": 825,
     "token_name": "Tether USD",
     "type": "HEDERA",
     "cmc_rank": 3
   },
-  "DAI-Dai Stablecoin-HEDERA-Dai Stablecoin": {
+  "DAI[hts]-Dai Stablecoin-HEDERA-Dai Stablecoin": {
     "decimals": 8,
     "id": "0.0.1055477",
     "name": "Dai Stablecoin",
-    "symbol": "DAI",
+    "symbol": "DAI[hts]",
     "cmc_id": 4943,
     "token_name": "Dai Stablecoin",
     "type": "HEDERA",
     "cmc_rank": 15
   },
-  "WBTC-Wrapped BTC-HEDERA-Wrapped BTC": {
+  "WBTC[hts]-Wrapped BTC-HEDERA-Wrapped BTC": {
     "decimals": 8,
     "id": "0.0.1055483",
     "name": "Wrapped BTC",
-    "symbol": "WBTC",
+    "symbol": "WBTC[hts]",
     "cmc_id": 3717,
     "token_name": "Wrapped BTC",
     "type": "HEDERA",
     "cmc_rank": 17
   },
-  "LINK-ChainLink Token-HEDERA-ChainLink Token": {
+  "LINK[hts]-ChainLink Token-HEDERA-ChainLink Token": {
     "decimals": 8,
     "id": "0.0.1055495",
     "name": "ChainLink Token",
-    "symbol": "LINK",
+    "symbol": "LINK[hts]",
     "cmc_id": 1975,
     "token_name": "ChainLink Token",
     "type": "HEDERA",
     "cmc_rank": 21
   },
-  "AAVE-Aave Token-HEDERA-Aave Token": {
+  "AAVE[hts]-Aave Token-HEDERA-Aave Token": {
     "decimals": 8,
     "id": "0.0.1055498",
     "name": "Aave Token",
-    "symbol": "AAVE",
+    "symbol": "AAVE[hts]",
     "cmc_id": 7278,
     "token_name": "Aave Token",
     "type": "HEDERA",
@@ -36794,21 +36794,21 @@
     "type": "HEDERA",
     "cmc_rank": 908
   },
-  "WBNB-Wrapped BNB[hts]-HEDERA-Wrapped BNB[hts]": {
+  "WBNB[hts]-Wrapped BNB[hts]-HEDERA-Wrapped BNB[hts]": {
     "decimals": 8,
     "id": "0.0.1157005",
     "name": "Wrapped BNB[hts]",
-    "symbol": "WBNB",
+    "symbol": "WBNB[hts]",
     "cmc_id": 7192,
     "token_name": "Wrapped BNB[hts]",
     "type": "HEDERA",
     "cmc_rank": 214
   },
-  "WAVAX-Wrapped AVAX[hts]-HEDERA-Wrapped AVAX[hts]": {
+  "WAVAX[hts]-Wrapped AVAX[hts]-HEDERA-Wrapped AVAX[hts]": {
     "decimals": 8,
     "id": "0.0.1157020",
     "name": "Wrapped AVAX[hts]",
-    "symbol": "WAVAX",
+    "symbol": "WAVAX[hts]",
     "cmc_id": 9462,
     "token_name": "Wrapped AVAX[hts]",
     "type": "HEDERA",
@@ -36844,141 +36844,141 @@
     "type": "HEDERA",
     "cmc_rank": 3079
   },
-  "JOE-JOE-HEDERA-JOE": {
+  "JOE[hts]-JOE-HEDERA-JOE": {
     "decimals": 8,
     "id": "0.0.1302480",
     "name": "JOE",
-    "symbol": "JOE",
+    "symbol": "JOE[hts]",
     "cmc_id": 11396,
     "token_name": "JOE",
     "type": "HEDERA",
     "cmc_rank": 200
   },
-  "GMX-GMX-HEDERA-GMX": {
+  "GMX[hts]-GMX-HEDERA-GMX": {
     "decimals": 8,
     "id": "0.0.1302499",
     "name": "GMX",
-    "symbol": "GMX",
+    "symbol": "GMX[hts]",
     "cmc_id": 11857,
     "token_name": "GMX",
     "type": "HEDERA",
     "cmc_rank": 91
   },
-  "PTP-Platypus Finance-HEDERA-Platypus Finance": {
+  "PTP[hts]-Platypus Finance-HEDERA-Platypus Finance": {
     "decimals": 8,
     "id": "0.0.1302509",
     "name": "Platypus Finance",
-    "symbol": "PTP",
+    "symbol": "PTP[hts]",
     "cmc_id": 16231,
     "token_name": "Platypus Finance",
     "type": "HEDERA",
     "cmc_rank": 1451
   },
-  "QI-BENQI-HEDERA-BENQI": {
+  "QI[hts]-BENQI-HEDERA-BENQI": {
     "decimals": 8,
     "id": "0.0.1302512",
     "name": "BENQI",
-    "symbol": "QI",
+    "symbol": "QI[hts]",
     "cmc_id": 9288,
     "token_name": "BENQI",
     "type": "HEDERA",
     "cmc_rank": 541
   },
-  "CAKE-PancakeSwap-HEDERA-PancakeSwap": {
+  "CAKE[hts]-PancakeSwap-HEDERA-PancakeSwap": {
     "decimals": 8,
     "id": "0.0.1302527",
     "name": "PancakeSwap",
-    "symbol": "CAKE",
+    "symbol": "CAKE[hts]",
     "cmc_id": 7186,
     "token_name": "PancakeSwap",
     "type": "HEDERA",
     "cmc_rank": 101
   },
-  "BUSD-Binance USD-HEDERA-Binance USD": {
+  "BUSD[hts]-Binance USD-HEDERA-Binance USD": {
     "decimals": 8,
     "id": "0.0.1302528",
     "name": "Binance USD",
-    "symbol": "BUSD",
+    "symbol": "BUSD[hts]",
     "cmc_id": 4687,
     "token_name": "Binance USD",
     "type": "HEDERA",
     "cmc_rank": 23
   },
-  "COMP-Compound-HEDERA-Compound": {
+  "COMP[hts]-Compound-HEDERA-Compound": {
     "decimals": 8,
     "id": "0.0.1304729",
     "name": "Compound",
-    "symbol": "COMP",
+    "symbol": "COMP[hts]",
     "cmc_id": 5692,
     "token_name": "Compound",
     "type": "HEDERA",
     "cmc_rank": 89
   },
-  "SHIB-Shiba Inu-HEDERA-Shiba Inu": {
+  "SHIB[hts]-Shiba Inu-HEDERA-Shiba Inu": {
     "decimals": 8,
     "id": "0.0.1304735",
     "name": "Shiba Inu",
-    "symbol": "SHIB",
+    "symbol": "SHIB[hts]",
     "cmc_id": 5994,
     "token_name": "Shiba Inu",
     "type": "HEDERA",
     "cmc_rank": 12
   },
-  "APE-ApeCoin-HEDERA-ApeCoin": {
+  "APE[hts]-ApeCoin-HEDERA-ApeCoin": {
     "decimals": 8,
     "id": "0.0.1304748",
     "name": "ApeCoin",
-    "symbol": "APE",
+    "symbol": "APE[hts]",
     "cmc_id": 18876,
     "token_name": "ApeCoin",
     "type": "HEDERA",
     "cmc_rank": 56
   },
-  "QNT-Quant-HEDERA-Quant": {
+  "QNT[hts]-Quant-HEDERA-Quant": {
     "decimals": 8,
     "id": "0.0.1304757",
     "name": "Quant",
-    "symbol": "QNT",
+    "symbol": "QNT[hts]",
     "cmc_id": 3155,
     "token_name": "Quant",
     "type": "HEDERA",
     "cmc_rank": 39
   },
-  "AXS-Axie Infinity-HEDERA-Axie Infinity": {
+  "AXS[hts]-Axie Infinity-HEDERA-Axie Infinity": {
     "decimals": 8,
     "id": "0.0.1304767",
     "name": "Axie Infinity",
-    "symbol": "AXS",
+    "symbol": "AXS[hts]",
     "cmc_id": 6783,
     "token_name": "Axie Infinity",
     "type": "HEDERA",
     "cmc_rank": 47
   },
-  "LCX-LCX-HEDERA-LCX": {
+  "LCX[hts]-LCX-HEDERA-LCX": {
     "decimals": 8,
     "id": "0.0.1304772",
     "name": "LCX",
-    "symbol": "LCX",
+    "symbol": "LCX[hts]",
     "cmc_id": 4950,
     "token_name": "LCX",
     "type": "HEDERA",
     "cmc_rank": 440
   },
-  "CRV-Curve DAO-HEDERA-Curve DAO": {
+  "CRV[hts]-Curve DAO-HEDERA-Curve DAO": {
     "decimals": 8,
     "id": "0.0.1304781",
     "name": "Curve DAO",
-    "symbol": "CRV",
+    "symbol": "CRV[hts]",
     "cmc_id": 6538,
     "token_name": "Curve DAO",
     "type": "HEDERA",
     "cmc_rank": 74
   },
-  "TUSD-TrueUSD-HEDERA-TrueUSD": {
+  "TUSD[hts]-TrueUSD-HEDERA-TrueUSD": {
     "decimals": 8,
     "id": "0.0.1304788",
     "name": "TrueUSD",
-    "symbol": "TUSD",
+    "symbol": "TUSD[hts]",
     "cmc_id": 2563,
     "token_name": "TrueUSD",
     "type": "HEDERA",
@@ -37014,11 +37014,11 @@
     "type": "HEDERA",
     "cmc_rank": 4415
   },
-  "SD-Stader-HEDERA-Stader": {
+  "SD[hts]-Stader-HEDERA-Stader": {
     "decimals": 8,
     "id": "0.0.1463375",
     "name": "Stader",
-    "symbol": "SD",
+    "symbol": "SD[hts]",
     "cmc_id": 12623,
     "token_name": "Stader",
     "type": "HEDERA",
@@ -37144,31 +37144,41 @@
     "type": "HEDERA",
     "cmc_rank": 3159
   },
-  "WMATIC-Wrapped Matic[hts]-HEDERA-Wrapped Matic[hts]": {
+  "USDC-USD Coin-HEDERA-USD Coin": {
+    "decimals": 6,
+    "id": "0.0.456858",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "cmc_id": 3408,
+    "token_name": "USD Coin",
+    "type": "HEDERA",
+    "cmc_rank": 6
+  },
+  "WMATIC[hts]-Wrapped Matic[hts]-HEDERA-Wrapped Matic[hts]": {
     "decimals": 8,
     "id": "0.0.540318",
     "name": "Wrapped Matic[hts]",
-    "symbol": "WMATIC",
+    "symbol": "WMATIC[hts]",
     "cmc_id": 8925,
     "token_name": "Wrapped Matic[hts]",
     "type": "HEDERA",
     "cmc_rank": 2139
   },
-  "WETH-Wrapped Ether[hts]-HEDERA-Wrapped Ether[hts]": {
+  "WETH[hts]-Wrapped Ether[hts]-HEDERA-Wrapped Ether[hts]": {
     "decimals": 8,
     "id": "0.0.541564",
     "name": "Wrapped Ether[hts]",
-    "symbol": "WETH",
+    "symbol": "WETH[hts]",
     "cmc_id": 2396,
     "token_name": "Wrapped Ether[hts]",
     "type": "HEDERA",
     "cmc_rank": 2135
   },
-  "DOV-DOVU-HEDERA-DOVU": {
+  "DOV[hts]-DOVU-HEDERA-DOVU": {
     "decimals": 8,
     "id": "0.0.624505",
     "name": "DOVU",
-    "symbol": "DOV",
+    "symbol": "DOV[hts]",
     "cmc_id": 2110,
     "token_name": "DOVU",
     "type": "HEDERA",
