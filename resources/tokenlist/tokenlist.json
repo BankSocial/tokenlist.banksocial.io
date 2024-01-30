@@ -36704,6 +36704,16 @@
     "token_name": "Beefy Finance",
     "cmc_rank": 529
   },
+  "BSL[hts]-BankSocial-HEDERA-BankSocial": {
+    "decimals": 8,
+    "id": "0.0.4431990",
+    "name": "BankSocial",
+    "symbol": "BSL[hts]",
+    "cmc_id": 10102,
+    "token_name": "BankSocial",
+    "type": "HEDERA",
+    "cmc_rank": 6748
+  },
   "USDC[hts]-USD Coin-HEDERA-USD Coin": {
     "decimals": 6,
     "id": "0.0.1055459",
