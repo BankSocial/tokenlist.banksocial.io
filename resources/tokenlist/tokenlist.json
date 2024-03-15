@@ -10276,14 +10276,14 @@
     "token_name": "Collective",
     "cmc_rank": 1000000
   },
-  "MYOBU-My\u014dbu-ERC20-My\u014dbu": {
-    "name": "My\u014dbu",
+  "MYOBU-Myōbu-ERC20-Myōbu": {
+    "name": "Myōbu",
     "type": "ERC20",
     "symbol": "MYOBU",
     "decimals": 9,
     "id": "0x75D12E4F91Df721faFCae4c6cD1d5280381370AC",
     "cmc_id": 10578,
-    "token_name": "My\u014dbu",
+    "token_name": "Myōbu",
     "cmc_rank": 1000000
   },
   "ELON-Dogelon-ERC20-Dogelon Mars": {
@@ -10430,7 +10430,10 @@
     "address": "0x7777770f8a6632ff043c8833310e245eba9209e6",
     "ens_address": "",
     "decimals": 18,
-    "support": { "email": "", "url": "" },
+    "support": {
+      "email": "",
+      "url": ""
+    },
     "social": {
       "blog": "",
       "chat": "",
@@ -17062,7 +17065,7 @@
     "medium": "https://medium.com/@anrkeyx",
     "Telegram": "https://t.me/anrkeyxofficial",
     "Discord": "https://discord.gg/YrMJYmW",
-    "short_description": "AnRKey X\u2122 combines DeFi and Esports gaming for users to compete, purchase and stake unique NFTs and win valuable rewards",
+    "short_description": "AnRKey X™ combines DeFi and Esports gaming for users to compete, purchase and stake unique NFTs and win valuable rewards",
     "type": "ERC20",
     "symbol": "$ANRX",
     "decimals": 18,
@@ -19625,8 +19628,8 @@
     "token_name": "Gather",
     "cmc_rank": 1623
   },
-  "LIF-L\u00edf-ERC20-Winding Tree": {
-    "name": "L\u00edf",
+  "LIF-Líf-ERC20-Winding Tree": {
+    "name": "Líf",
     "type": "ERC20",
     "symbol": "LIF",
     "decimals": 18,
@@ -20840,7 +20843,10 @@
       "height": "500px",
       "ipfs_hash": ""
     },
-    "support": { "email": "", "url": "" },
+    "support": {
+      "email": "",
+      "url": ""
+    },
     "social": {
       "blog": "",
       "chat": "",
@@ -21534,7 +21540,6 @@
     "token_name": "Falconswap",
     "cmc_rank": 1576
   },
-
   "SLAM-SLAM Token-BEP20-Slam Token": {
     "name": "SLAM Token",
     "type": "BEP20",
@@ -27762,8 +27767,8 @@
     "token_name": "Ariva",
     "cmc_rank": 1093
   },
-  "BEST-Bitcoin\u00a0And\u00a0Ethereum\u00a0Standard\u00a0Token-BEP20-Bitpanda Ecosystem Token": {
-    "name": "Bitcoin\u00a0And\u00a0Ethereum\u00a0Standard\u00a0Token",
+  "BEST-Bitcoin And Ethereum Standard Token-BEP20-Bitpanda Ecosystem Token": {
+    "name": "Bitcoin And Ethereum Standard Token",
     "type": "BEP20",
     "symbol": "BEST",
     "decimals": 18,
@@ -28208,7 +28213,7 @@
   "AIRx-Aircoins-BEP20-Aircoins": {
     "name": "Aircoins",
     "twitter": "https://twitter.com/AIRCOINS_app",
-    "short_description": "Air\u0441\u043eins is a mobile app where players can collect digital assets in AR based on geolocation.",
+    "short_description": "Airсоins is a mobile app where players can collect digital assets in AR based on geolocation.",
     "type": "BEP20",
     "symbol": "AIRx",
     "decimals": 8,
@@ -32004,8 +32009,8 @@
     "token_name": "Dusk Network",
     "cmc_rank": 349
   },
-  "CHORD-\u0421hord Protocol-BEP20-Chord Protocol": {
-    "name": "\u0421hord Protocol",
+  "CHORD-Сhord Protocol-BEP20-Chord Protocol": {
+    "name": "Сhord Protocol",
     "type": "BEP20",
     "symbol": "CHORD",
     "decimals": 18,
@@ -36784,26 +36789,6 @@
     "type": "HEDERA",
     "cmc_rank": 30
   },
-  "LIL-LIL-HEDERA-LIL": {
-    "decimals": 0,
-    "id": "0.0.1079680",
-    "name": "LIL",
-    "symbol": "LIL",
-    "cmc_id": 11597,
-    "token_name": "LIL",
-    "type": "HEDERA",
-    "cmc_rank": 1000000
-  },
-  "WHALE-WHALE-HEDERA-WHALE": {
-    "decimals": 2,
-    "id": "0.0.1144501",
-    "name": "WHALE",
-    "symbol": "WHALE",
-    "cmc_id": 6679,
-    "token_name": "WHALE",
-    "type": "HEDERA",
-    "cmc_rank": 908
-  },
   "WBNB[hts]-Wrapped BNB[hts]-HEDERA-Wrapped BNB[hts]": {
     "decimals": 8,
     "id": "0.0.1157005",
@@ -36854,96 +36839,6 @@
     "type": "HEDERA",
     "cmc_rank": 3079
   },
-  "JOE[hts]-JOE-HEDERA-JOE": {
-    "decimals": 8,
-    "id": "0.0.1302480",
-    "name": "JOE",
-    "symbol": "JOE[hts]",
-    "cmc_id": 11396,
-    "token_name": "JOE",
-    "type": "HEDERA",
-    "cmc_rank": 200
-  },
-  "GMX[hts]-GMX-HEDERA-GMX": {
-    "decimals": 8,
-    "id": "0.0.1302499",
-    "name": "GMX",
-    "symbol": "GMX[hts]",
-    "cmc_id": 11857,
-    "token_name": "GMX",
-    "type": "HEDERA",
-    "cmc_rank": 91
-  },
-  "PTP[hts]-Platypus Finance-HEDERA-Platypus Finance": {
-    "decimals": 8,
-    "id": "0.0.1302509",
-    "name": "Platypus Finance",
-    "symbol": "PTP[hts]",
-    "cmc_id": 16231,
-    "token_name": "Platypus Finance",
-    "type": "HEDERA",
-    "cmc_rank": 1451
-  },
-  "QI[hts]-BENQI-HEDERA-BENQI": {
-    "decimals": 8,
-    "id": "0.0.1302512",
-    "name": "BENQI",
-    "symbol": "QI[hts]",
-    "cmc_id": 9288,
-    "token_name": "BENQI",
-    "type": "HEDERA",
-    "cmc_rank": 541
-  },
-  "CAKE[hts]-PancakeSwap-HEDERA-PancakeSwap": {
-    "decimals": 8,
-    "id": "0.0.1302527",
-    "name": "PancakeSwap",
-    "symbol": "CAKE[hts]",
-    "cmc_id": 7186,
-    "token_name": "PancakeSwap",
-    "type": "HEDERA",
-    "cmc_rank": 101
-  },
-  "BUSD[hts]-Binance USD-HEDERA-Binance USD": {
-    "decimals": 8,
-    "id": "0.0.1302528",
-    "name": "Binance USD",
-    "symbol": "BUSD[hts]",
-    "cmc_id": 4687,
-    "token_name": "Binance USD",
-    "type": "HEDERA",
-    "cmc_rank": 23
-  },
-  "COMP[hts]-Compound-HEDERA-Compound": {
-    "decimals": 8,
-    "id": "0.0.1304729",
-    "name": "Compound",
-    "symbol": "COMP[hts]",
-    "cmc_id": 5692,
-    "token_name": "Compound",
-    "type": "HEDERA",
-    "cmc_rank": 89
-  },
-  "SHIB[hts]-Shiba Inu-HEDERA-Shiba Inu": {
-    "decimals": 8,
-    "id": "0.0.1304735",
-    "name": "Shiba Inu",
-    "symbol": "SHIB[hts]",
-    "cmc_id": 5994,
-    "token_name": "Shiba Inu",
-    "type": "HEDERA",
-    "cmc_rank": 12
-  },
-  "APE[hts]-ApeCoin-HEDERA-ApeCoin": {
-    "decimals": 8,
-    "id": "0.0.1304748",
-    "name": "ApeCoin",
-    "symbol": "APE[hts]",
-    "cmc_id": 18876,
-    "token_name": "ApeCoin",
-    "type": "HEDERA",
-    "cmc_rank": 56
-  },
   "QNT[hts]-Quant-HEDERA-Quant": {
     "decimals": 8,
     "id": "0.0.1304757",
@@ -36954,16 +36849,6 @@
     "type": "HEDERA",
     "cmc_rank": 39
   },
-  "AXS[hts]-Axie Infinity-HEDERA-Axie Infinity": {
-    "decimals": 8,
-    "id": "0.0.1304767",
-    "name": "Axie Infinity",
-    "symbol": "AXS[hts]",
-    "cmc_id": 6783,
-    "token_name": "Axie Infinity",
-    "type": "HEDERA",
-    "cmc_rank": 47
-  },
   "LCX[hts]-LCX-HEDERA-LCX": {
     "decimals": 8,
     "id": "0.0.1304772",
@@ -36973,26 +36858,6 @@
     "token_name": "LCX",
     "type": "HEDERA",
     "cmc_rank": 440
-  },
-  "CRV[hts]-Curve DAO-HEDERA-Curve DAO": {
-    "decimals": 8,
-    "id": "0.0.1304781",
-    "name": "Curve DAO",
-    "symbol": "CRV[hts]",
-    "cmc_id": 6538,
-    "token_name": "Curve DAO",
-    "type": "HEDERA",
-    "cmc_rank": 74
-  },
-  "TUSD[hts]-TrueUSD-HEDERA-TrueUSD": {
-    "decimals": 8,
-    "id": "0.0.1304788",
-    "name": "TrueUSD",
-    "symbol": "TUSD[hts]",
-    "cmc_id": 2563,
-    "token_name": "TrueUSD",
-    "type": "HEDERA",
-    "cmc_rank": 26
   },
   "rUSD-rUSD-HEDERA-rUSD": {
     "decimals": 6,
@@ -37034,16 +36899,6 @@
     "type": "HEDERA",
     "cmc_rank": 558
   },
-  "HEX-Hashgraph Exchange-HEDERA-Hashgraph Exchange": {
-    "decimals": 5,
-    "id": "0.0.148698",
-    "name": "Hashgraph Exchange",
-    "symbol": "HEX",
-    "cmc_id": 5015,
-    "token_name": "Hashgraph Exchange",
-    "type": "HEDERA",
-    "cmc_rank": 209
-  },
   "PBAR-PBAR-HEDERA-PBAR": {
     "decimals": 8,
     "id": "0.0.1738930",
@@ -37074,45 +36929,15 @@
     "type": "HEDERA",
     "cmc_rank": 3830
   },
-  "SIKI-Siki-HEDERA-Siki": {
-    "decimals": 8,
-    "id": "0.0.209368",
-    "name": "Siki",
-    "symbol": "SIKI",
-    "cmc_id": 12968,
-    "token_name": "Siki",
-    "type": "HEDERA",
-    "cmc_rank": 1000000
-  },
-  "DINU-D\u00c4NKINU-HEDERA-D\u00c4NKINU": {
+  "DINU-DÄNKINU-HEDERA-DÄNKINU": {
     "decimals": 3,
     "id": "0.0.2122292",
-    "name": "D\u00c4NKINU",
+    "name": "DÄNKINU",
     "symbol": "DINU",
     "cmc_id": 21551,
-    "token_name": "D\u00c4NKINU",
+    "token_name": "DÄNKINU",
     "type": "HEDERA",
     "cmc_rank": 7166
-  },
-  "GOAT-GOAT-HEDERA-GOAT": {
-    "decimals": 4,
-    "id": "0.0.2137254",
-    "name": "GOAT",
-    "symbol": "GOAT",
-    "cmc_id": 9069,
-    "token_name": "GOAT",
-    "type": "HEDERA",
-    "cmc_rank": 6957
-  },
-  "CHAIN-Chain Token-HEDERA-Chain Token": {
-    "decimals": 2,
-    "id": "0.0.2160169",
-    "name": "Chain Token",
-    "symbol": "CHAIN",
-    "cmc_id": 6744,
-    "token_name": "Chain Token",
-    "type": "HEDERA",
-    "cmc_rank": 3950
   },
   "KARATE-Karate-HEDERA-Karate": {
     "decimals": 8,
@@ -37131,16 +36956,6 @@
     "symbol": "INARI",
     "cmc_id": 10809,
     "token_name": "Inari Gold",
-    "type": "HEDERA",
-    "cmc_rank": 1000000
-  },
-  "LOT-Lotto-HEDERA-Lotto": {
-    "decimals": 0,
-    "id": "0.0.2964083",
-    "name": "Lotto",
-    "symbol": "LOT",
-    "cmc_id": 82,
-    "token_name": "Lotto",
     "type": "HEDERA",
     "cmc_rank": 1000000
   },
@@ -37183,16 +36998,6 @@
     "token_name": "Wrapped Ether[hts]",
     "type": "HEDERA",
     "cmc_rank": 2135
-  },
-  "DOV[hts]-DOVU-HEDERA-DOVU": {
-    "decimals": 8,
-    "id": "0.0.624505",
-    "name": "DOVU",
-    "symbol": "DOV[hts]",
-    "cmc_id": 2110,
-    "token_name": "DOVU",
-    "type": "HEDERA",
-    "cmc_rank": 1043
   },
   "NADA-NaDa Protocol Token-HEDERA-NaDa Protocol Token": {
     "decimals": 6,
