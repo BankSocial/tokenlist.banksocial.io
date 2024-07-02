@@ -1,0 +1,20 @@
+{
+  "decimals": 8,
+  "icon": "/images/tokens/dovu.svg",
+  "id": "0.0.3716059",
+  "name": "Dovu",
+  "price": "5467577",
+  "priceUsd": 0.00353978,
+  "symbol": "DOVU",
+  "dueDiligenceComplete": true,
+  "isFeeOnTransferToken": false,
+  "description": "DOVU is building a trust layer for carbon offset integrity.\n\nThey implement carbon sequestration practices to tokenise carbon credits. This makes it easy for organizations to offset their carbon footprints with carbon that\u2019s sourced directly from farmers.\n\nOrganizations can identify how much carbon they need to offset their footprints (using DOVU's Carbon Calculator), and then purchase offsets on the DOVU Carbon Market.\n\nPowered by Hedera Hashgraph, the DOVU Carbon Market is designed to facilitate offsetting in real-time.\n\nThe DOVU utility token (DOV) provides access to the DOVU platform and marketplace.\n\nNote: the [hts] subscript denotes that this asset has been bridged through hashport.",
+  "website": "https://dovu.earth/en/",
+  "sentinelReport": null,
+  "twitterHandle": "dovuofficial",
+  "timestampSecondsLastListingChange": 0,
+  "cmc_id": 2110,
+  "token_name": "DOVU",
+  "type": "HEDERA",
+  "cmc_rank": 3136
+}
