@@ -14391,8 +14391,20 @@
     "id": "0xac3211a5025414Af2866FF09c23FC18bc97e79b1",
     "cmc_id": 2110,
     "token_name": "Dovu",
-    "cmc_rank": 970
+    "cmc_rank": 3136
   },
+
+  "DOVU-Dovu-HEDERA-Dovu": {
+    "name": "Dovu",
+    "type": "HEDERA",
+    "symbol": "DOVU",
+    "decimals": 18,
+    "id": "0.0.3716059",
+    "cmc_id": 2110,
+    "token_name": "Dovu",
+    "cmc_rank": 3136
+  },
+
   "BAB-Basecoin-ERC20-Basecoin": {
     "name": "Basecoin",
     "symbol": "BAB",
@@ -36719,6 +36731,7 @@
     "type": "HEDERA",
     "cmc_rank": 6748
   },
+
   "USDC[hts]-USD Coin-HEDERA-USD Coin": {
     "decimals": 6,
     "id": "0.0.1055459",

@@ -1,0 +1,20 @@
+{
+  "decimals": 8,
+  "icon": "/images/tokens/dovu.svg",
+  "id": "0.0.3716059",
+  "name": "Dovu",
+  "price": "5467577",
+  "priceUsd": 0.00353978,
+  "symbol": "DOVU",
+  "dueDiligenceComplete": true,
+  "isFeeOnTransferToken": false,
+  "description": "A unified Token, Wallet and HUB for Carbon Offsetting.",
+  "website": "https://dovu.earth/en/",
+  "sentinelReport": null,
+  "twitterHandle": "dovuofficial",
+  "timestampSecondsLastListingChange": 0,
+  "cmc_id": 2110,
+  "token_name": "DOVU",
+  "type": "HEDERA",
+  "cmc_rank": 3136
+}
