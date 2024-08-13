@@ -14398,7 +14398,7 @@
     "name": "Dovu",
     "type": "HEDERA",
     "symbol": "DOVU",
-    "decimals": 18,
+    "decimals": 8,
     "id": "0.0.3716059",
     "cmc_id": 2110,
     "token_name": "Dovu",
