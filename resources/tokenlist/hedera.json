@@ -289,6 +289,16 @@
       "type":"HEDERA",
       "cmc_rank":1000000
    },
+    "txUSD-txUSD-HEDERA-txUSD":{
+      "decimals":6,
+      "id":"0.0.9402605",
+      "name":"txUSD",
+      "symbol":"txUSD",
+      "cmc_id":18303,
+      "token_name":"txUSD",
+      "type":"HEDERA",
+      "cmc_rank":1000000
+   },
    "HBAR-WHBAR [new]-HEDERA-WHBAR [new]":{
       "decimals":8,
       "id":"0.0.1456986",
