@@ -1,0 +1,20 @@
+{
+    "decimals": 6,
+    "icon": "/images/tokens/rUSD.png",
+    "id": "0.0.9402605",
+    "name": "txUSD",
+    "price": "1824308938",
+    "priceUsd": 1.18108272,
+    "symbol": "txUSD",
+    "dueDiligenceComplete": false,
+    "isFeeOnTransferToken": true,
+    "description": "CUTX stable coin ",
+    "website": "https://rivia.finance/",
+    "sentinelReport": null,
+    "twitterHandle": "GetRivia",
+    "timestampSecondsLastListingChange": 0,
+    "cmc_id": 18303,
+    "token_name": "txUSD",
+    "type": "HEDERA",
+    "cmc_rank": null
+}
