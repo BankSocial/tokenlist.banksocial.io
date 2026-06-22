@@ -1,0 +1,4 @@
+# DevOps team owns CI/CD and infrastructure
+/.tofu/                    @BankSocial/devops
+/.github/                  @BankSocial/devops
+/sonar-project.properties  @BankSocial/devops
